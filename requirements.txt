@@ -1,0 +1,19 @@
+torch==1.4.0
+-f https://pytorch-geometric.com/whl/torch-1.4.0.html
+torch-scatter==2.0.4+cu101
+-f https://pytorch-geometric.com/whl/torch-1.4.0.html
+torch-sparse==0.6.1+cu101
+-f https://pytorch-geometric.com/whl/torch-1.4.0.html
+torch-cluster==1.5.3+cu101
+-f https://pytorch-geometric.com/whl/torch-1.4.0.html
+torch-spline-conv==1.2.0+cu101
+torch_geometric==1.4.3
+
+numpy==1.16.1
+plyfile==0.7.2
+pandas==0.25.1
+networkx==2.5
+rdkit==2019.09.1
+scikit_learn==0.21.3
+matplotlib==3.0.2
+
