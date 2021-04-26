@@ -43,7 +43,7 @@ We showed that:
 
 ### Prerequisites
 
-This packages runs using Pytorch and Pytorch Geometric. On top it uses standard packages such as pandas and numpy. For the complete list have a look into the [requirements.txt](https://github.com/OptiMaL-PSE-Lab/DeepDock/blob/main/requirements.txt) file
+This package runs using Pytorch and Pytorch Geometric. On top it uses standard packages such as pandas and numpy. For the complete list have a look into the [requirements.txt](https://github.com/OptiMaL-PSE-Lab/DeepDock/blob/main/requirements.txt) file
 * install requirements.txt
   ```sh
   pip install -r requirements.txt
@@ -91,7 +91,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@omendezl](https://twitter.com/omendezlucio) and [@AntonioE89](https://twitter.com/antonioe89)
+[@omendezl](https://twitter.com/omendezlucio) and [@AntonioE89](https://twitter.com/antonioe89)
 
 Project Link: [DeepDock](https://github.com/OptiMaL-PSE-Lab/DeepDock)
 
