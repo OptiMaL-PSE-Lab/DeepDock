@@ -77,9 +77,9 @@ This package runs using Pytorch and Pytorch Geometric. On top it uses standard p
 ## Usage
 
 Usage examples can be seen directly in the jupyter notebooks included in the repo. We added examples for:
-* [Training the model](https://github.com/OptiMaL-PSE-Lab/DeepDock/blob/main/Train_DeepDock.ipynb)
-* [Score molecules]()
-* [Predict binding conformation (docking)]()
+* [Training the model](https://github.com/OptiMaL-PSE-Lab/DeepDock/blob/main/examples/Train_DeepDock.ipynb)
+* [Score molecules](https://github.com/OptiMaL-PSE-Lab/DeepDock/blob/main/examples/Score_example.ipynb)
+* [Predict binding conformation (docking)](https://github.com/OptiMaL-PSE-Lab/DeepDock/blob/main/examples/Docking_example.ipynb)
 
 
 <!-- LICENSE -->
