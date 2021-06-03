@@ -1,0 +1,3 @@
+[submodule "deepdock/masif"]
+	path = deepdock/masif
+	url = https://github.com/LPDI-EPFL/masif.git
