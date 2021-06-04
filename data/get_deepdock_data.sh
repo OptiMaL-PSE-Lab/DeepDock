@@ -4,3 +4,7 @@
 
 wget https://ndownloader.figshare.com/files/27800817 -O dataset_CASF-2016_285.tar
 wget https://ndownloader.figshare.com/files/27800643 -O dataset_deepdock_pdbbind_v2019_16K.tar
+
+# Download CASF-2016 from http://www.pdbbind.org.cn/casf.php
+wget http://www.pdbbind.org.cn/download/CASF-2016.tar.gz -O CASF-2016.tar.gz
+tar -zxvf CASF-2016.tar.gz
