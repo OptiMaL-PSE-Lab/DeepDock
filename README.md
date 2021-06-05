@@ -14,6 +14,7 @@ https://user-images.githubusercontent.com/48085126/116097409-68553d80-a6aa-11eb-
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
+        <li><a href="#data">Data</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
@@ -54,13 +55,34 @@ This package runs using Pytorch and Pytorch Geometric. On top it uses standard p
   ```
 ### Installation
 
+#### Using Dockerfile
+To build image and run from scratch:
+
+1. Install [docker](https://docs.docker.com/install/)
+2. Clone repo and move into project folder.
+   ```sh
+   git clone https://github.com/OptiMaL-PSE-Lab/DeepDock.git
+   cd DeepDock
+   ```
+3. Build the docker image. This takes 20-30 mins to build
+   ```sh
+   docker build -t deepdock:latest .
+   ```
+4. Launch the container.
+   ```sh
+   docker run -it --rm --name deepdock-env deepdock:latest
+   ```
+
+#### From source
+
 1. Clone the repo
    ```sh
    git clone https://github.com/OptiMaL-PSE-Lab/DeepDock.git
    ```
-3. Move into the project folder
+2. Move into the project folder and update submodules
    ```sh
    cd DeepDock
+   git submodule update --init --recursive
    ```
 3. Install prerequisite packages
    ```sh
@@ -71,8 +93,24 @@ This package runs using Pytorch and Pytorch Geometric. On top it uses standard p
    ```sh
    pip install -e .
    ```
+   
+## Data
 
+You can get training and testing data following the next steps.
 
+1. Move into the project data folder
+   ```sh
+   cd DeepDock/data
+   ```
+2. Use the following line to download the preprocessed data used to train and test the model. This will download two files, one containing PDBbind (2.3 GB) used for training and another containing CASF-2016 (32 MB) used for testing. These two files are enough to run all [examples](https://github.com/OptiMaL-PSE-Lab/DeepDock/blob/main/examples). 
+   ```sh
+   source get_deepdock_data.sh
+   ```
+2. In case you want to reproduce all results of the paper you will need to download the complete CASF-2016 set (~1.5 GB). You can do so with this command line from the data folder.
+   ```sh
+   source get_CASF_2016.sh
+   ```
+   
 <!-- USAGE EXAMPLES -->
 ## Usage
 
