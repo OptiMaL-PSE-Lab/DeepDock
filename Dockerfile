@@ -88,7 +88,7 @@ RUN gunzip reduce.gz && \
 # Clone deepdock and install 
 WORKDIR /
 RUN git clone https://github.com/OptiMaL-PSE-Lab/DeepDock.git && \
-    cd deepdock && \
+    cd DeepDock && \
     git submodule update --init --recursive && \
     pip install -e . && \
     cd data && \
