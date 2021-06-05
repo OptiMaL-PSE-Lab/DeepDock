@@ -2,7 +2,7 @@
 FROM nvcr.io/nvidia/pytorch:19.10-py3
 
 #Do some basic preparations
-RUN conda install -c anaconda joblib boto3 -y && \
+RUN conda install -c anaconda joblib -y && \
     conda install -c conda-forge tensorflow -y
 
 RUN pip install ipython jupyter jupyter-tensorboard --upgrade && \
@@ -92,4 +92,14 @@ RUN git clone https://github.com/OptiMaL-PSE-Lab/DeepDock.git && \
     git submodule update --init --recursive && \
     pip install -e . && \
     cd data && \
-    source get_deepdock_data.sh
+    wget https://ndownloader.figshare.com/files/27800817 -O dataset_CASF-2016_285.tar
+
+# create a conda environment to run python2.7
+RUN conda create -y -n python2_env \
+        python=2.7 \
+        numpy \
+        pandas \
+        scipy \
+        scikit-learn \
+        jinja2  && \
+    conda init bash
