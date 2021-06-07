@@ -276,4 +276,53 @@ def get_random_conformation(mol, rotable_bonds=None, seed=None):
     new_conf = apply_changes(mol, np.random.rand(len(rotable_bonds, )+6)*10, rotable_bonds)
     Chem.rdMolTransforms.CanonicalizeConformer(new_conf.GetConformer())
     return new_conf
+
+def atom_scores(ligand, target, probabilities, batch):
+    atom_contributions=[]
+    for i in torch.arange(0, len(batch.unique())):
+        num_atoms = len(ligand.x[ligand.batch==i])
+        num_target_nodes = len(target.x[target.batch==i])
+        contribution = probabilities[batch==i].reshape((num_atoms, num_target_nodes))
+        atom_contributions.append(contribution.sum(1).cpu().detach().numpy())
+    return atom_contributions
     
+def calculate_atom_contribution(ligand, target, model, dist_threshold=3., seed=None, device='cpu'):
+    if seed:
+        np.random.seed(seed)
+        torch.cuda.manual_seed_all(seed)
+        torch.manual_seed(seed)
+
+    if not isinstance(ligand, Batch):
+        if isinstance(ligand, Chem.Mol):
+            # Check if ligand it has 3D coordinates
+            try:
+                ligand.GetConformer()
+            except ValueError:
+                print("Ligand must have 3D conformation. Check using mol.GetConformer()")
+            
+            # Prepare ligand and target to be used by pytorch geometric
+            ligand = from_networkx(mol2graph.mol_to_nx(ligand))
+            ligand = Batch.from_data_list([ligand])
+            
+        else:
+            raise Exception('mol should be an RDKIT molecule or a Batch instance')
+
+    if not isinstance(target, Batch):
+        if isinstance(target, str):
+            # Prepare ligand and target to be used by pytorch geometric
+            target = Cartesian()(FaceToEdge()(read_ply(target)))
+            target = Batch.from_data_list([target])
+        else:
+            raise Exception('target should be a string with the ply file paht or a Batch instance')
+
+    # Use the model to score conformations
+    model.eval()
+    ligand, target = ligand.to(device), target.to(device)
+    pi, sigma, mu, dist, atom_types, bond_types, batch = model(ligand, target)
+    prob = calculate_probablity(pi, sigma, mu, dist)
+    if dist_threshold is not None:
+        prob[torch.where(dist > dist_threshold)[0]] = 0.
+    atom_contributions = atom_scores(ligand, target, prob, batch)
+    prob = scatter_add(prob, batch, dim=0, dim_size=batch.unique().size(0))
+    
+    return prob.cpu().detach().numpy(), atom_contributions
