@@ -1,0 +1,1368 @@
+Entry_ID,Macromolecule_Name,EC_Number,EC_Number1,EC_Number2,EC_Number3,pdb_id,rmsd,success
+2w8w,SERINE PALMITOYLTRANSFERASE,,,,,2w8w,1.2386539428065084,True
+4pee,Alpha-L-fucosidase,,,,,4pee,1.2530230312933768,True
+1srg,STREPTAVIDIN,,,,,1srg,1.7319166658412513,True
+1sw1,osmoprotection protein (proX),,,,,1sw1,0.24025104300851724,True
+3fj7,Major antigenic peptide PEB3,,,,,3fj7,1.460075989798325,True
+5n99,Streptavidin,,,,,5n99,2.866958058106196,True
+4kzb,Beta-lactamase,3.5.2.6,Hydrolases.,"Acting on carbon-nitrogen bonds, other than peptide bonds.",In cyclic amides.,4kzb,1.75514887188665,True
+4led,Pyocin L1,,,,,4led,0.0004964035758798284,True
+1fsw,CEPHALOSPORINASE,3.5.2.6,Hydrolases.,"Acting on carbon-nitrogen bonds, other than peptide bonds.",In cyclic amides.,1fsw,1.6279461563121038,True
+1ajq,PENICILLIN AMIDOHYDROLASE,3.5.1.11,Hydrolases.,"Acting on carbon-nitrogen bonds, other than peptide bonds.",In linear amides.,1ajq,0.7968835660979463,True
+4old,Beta-lactamase,3.5.2.6,Hydrolases.,"Acting on carbon-nitrogen bonds, other than peptide bonds.",In cyclic amides.,4old,1.7281994118252382,True
+2w2u,HYPOTHETICAL P60 KATANIN,,,,,2w2u,7.515882299933013,False
+1ii5,Slr1257 protein,,,,,1ii5,1.3192988550085205,True
+5wac,Beta-lactamase,3.5.2.6,Hydrolases.,"Acting on carbon-nitrogen bonds, other than peptide bonds.",In cyclic amides.,5wac,1.5583597915689071,True
+5w99,PbtD,,,,,5w99,1.6672088244083934,True
+5odu,PllA,,,,,5odu,1.266831094655796,True
+2pv2,Chaperone surA,5.2.1.8,Isomerases.,Cis-trans-isomerases.,Cis-trans isomerases.,2pv2,6.798849338112128,False
+2pu2,Beta-lactamase,3.5.2.6,Hydrolases.,"Acting on carbon-nitrogen bonds, other than peptide bonds.",In cyclic amides.,2pu2,1.832316421767804,True
+1slg,STREPTAVIDIN,,,,,1slg,4.31682407015507,False
+1zc9,"2,2-dialkylglycine decarboxylase",4.1.1.64,Lyases.,Carbon-carbon lyases.,Carboxy-lyases.,1zc9,1.2363103779197606,True
+1yej,PROTEIN (IG ANTIBODY D2.3 (LIGHT CHAIN)),,,,,1yej,2.1923616839597475,True
+1x6u,2-dehydro-3-deoxyphosphooctonate aldolase,2.5.1.55,Transferases.,"Transferring alkyl or aryl groups, other than methyl groups.","Transferring alkyl or aryl groups, other than methyl groups.",1x6u,3.1962699660479683,True
+1vyf,14 KDA FATTY ACID BINDING PROTEIN,,,,,1vyf,2.6526021724738307,False
+1ugy,Agglutinin alpha chain,,,,,1ugy,3.836662193719228,True
+1tx7,Trypsinogen,3.4.21.4,Hydrolases.,Acting on peptide bonds (peptidases).,Serine endopeptidases.,1tx7,1.3248444812385267,True
+2cem,POL PROTEIN,3.4.23.16,Hydrolases.,Acting on peptide bonds (peptidases).,Aspartic endopeptidases.,2cem,4.195702862456681,False
+2ceq,BETA-GALACTOSIDASE,3.2.1.23,Hydrolases.,Glycosylases.,"Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl compounds.",2ceq,0.32678456770394537,True
+2cer,BETA-GLUCOSIDASE A,3.2.1.21,Hydrolases.,Glycosylases.,"Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl compounds.",2cer,1.2020854998275732,True
+2bza,PROTEIN (TRYPSIN),3.4.21.4,Hydrolases.,Acting on peptide bonds (peptidases).,Serine endopeptidases.,2bza,0.6388310633331027,True
+2bo4,MANNOSYLGLYCERATE SYNTHASE,2.4.1,Transferases.,Glycosyltransferases.,Hexosyltransferases.,2bo4,1.4717175310481696,True
+2bes,CARBOHYDRATE-PHOSPHATE ISOMERASE,5.3.1.6,Isomerases.,Intramolecular oxidoreductases.,Interconverting aldoses and ketoses.,2bes,1.5156804610713903,True
+1yyy,TRYPSIN,3.4.21.4,Hydrolases.,Acting on peptide bonds (peptidases).,Serine endopeptidases.,1yyy,3.5351580319346465,False
+3o9p,Periplasmic murein peptide-binding protein,,,,,3o9p,4.64135098435245,False
+3o6m,11H6H1 Fab' light chain,,,,,3o6m,5.721506358197689,False
+3m3c,Anti-tumor lectin,3.1.21,Hydrolases.,Acting on ester bonds.,Endodeoxyribonucleases producing 5'-phosphomonoesters.,3m3c,4.431874187282536,True
+3f35,Ferritin light chain,,,,,3f35,0.7498907720440615,True
+3e9i,Lysyl-tRNA synthetase,6.1.1.6,Ligases.,Forming carbon-oxygen bonds.,Ligases forming aminoacyl-tRNA and related compounds.,3e9i,2.9759606205024407,False
+3djp,Seminal ribonuclease,3.1.27.5,Hydrolases.,Acting on ester bonds.,Endoribonucleases producing other than 5'-phosphomonoesters.,3djp,0.5715902545919269,True
+2za5,Tryptase beta 2,3.4.21.59,Hydrolases.,Acting on peptide bonds (peptidases).,Serine endopeptidases.,2za5,0.2069047546058729,True
+2yz3,Metallo-beta-lactamase,3.5.2.6,Hydrolases.,"Acting on carbon-nitrogen bonds, other than peptide bonds.",In cyclic amides.,2yz3,1.900441827493988,True
+2z3z,Dipeptidyl aminopeptidase IV,3.4.14,Hydrolases.,Acting on peptide bonds (peptidases).,Dipeptidyl-peptidases and tripeptidyl-peptidases.,2z3z,3.04691784865204,True
+2vvo,RIBOSE-5-PHOSPHATE ISOMERASE B,5.3.1.6,Isomerases.,Intramolecular oxidoreductases.,Interconverting aldoses and ketoses.,2vvo,1.4337423703254455,True
+2vmd,DISCOIDIN-2,,,,,2vmd,1.267544855780088,True
+3k5x,Dipeptidase,,,,,3k5x,2.255937954581987,True
+3ixg,Beta-lactamase,3.5.2.6,Hydrolases.,"Acting on carbon-nitrogen bonds, other than peptide bonds.",In cyclic amides.,3ixg,0.4706172558149883,True
+2zxd,"Alpha-L-fucosidase, putative",3.2.1.51,Hydrolases.,Glycosylases.,"Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl compounds.",2zxd,1.3282933302618307,True
+3qqa,CmeR,,,,,3qqa,4.819404157651905,True
+3hzy,S73-2 Fab (IgG1k) light chain,,,,,3hzy,3.2196941523396645,True
+3i02,Immunoglobulin light chain,,,,,3i02,3.3325614579304044,True
+6exs,Peptide ABC transporter permease,,,,,6exs,2.3471226604004083,False
+6ccs,Phosphopantetheine adenylyltransferase,2.7.7.3,Transferases.,Transferring phosphorus-containing groups.,Nucleotidyltransferases.,6ccs,0.8137006508026579,True
+5oss,Beta-glucosidase A,3.2.1.21,Hydrolases.,Glycosylases.,"Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl compounds.",5oss,0.03450012884913035,True
+5ost,Glucosylceramidase,3.2.1.45,Hydrolases.,Glycosylases.,"Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl compounds.",5ost,0.912741819847708,True
+5yj8,Tudor domain-containing protein 3,,,,,5yj8,0.5873208237482554,True
+5xs8,Extracellular solute-binding protein family 1,,,,,5xs8,2.131713967371545,True
+5xmr,Serine hydroxymethyltransferase,2.1.2.1,Transferases.,Transferring one-carbon groups.,"Hydroxymethyl-, formyl- and related transferases.",5xmr,3.632796601265694,True
+5wzr,Alpha-N-acetylgalactosaminidase,3.2.1.49,Hydrolases.,Glycosylases.,"Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl compounds.",5wzr,1.1453394626966362,True
+5w12,Beta-lactamase,3.5.2.6,Hydrolases.,"Acting on carbon-nitrogen bonds, other than peptide bonds.",In cyclic amides.,5w12,3.0880125076877767,True
+5tg4,Beta-lactamase,3.5.2.6,Hydrolases.,"Acting on carbon-nitrogen bonds, other than peptide bonds.",In cyclic amides.,5tg4,1.6224146611479795,True
+6mvx,Ion transport protein,,,,,6mvx,3.4824688291450445,False
+4ks2,Neuraminidase,3.2.1.18,Hydrolases.,Glycosylases.,"Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl compounds.",4ks2,2.3437763320128693,True
+4kiu,3-dehydroquinate dehydratase,4.2.1.10,Lyases.,Carbon-oxygen lyases.,Hydro-lyases.,4kiu,3.3799035053811743,True
+5hkb,CFTR Inhibitory Factor (Cif),,,,,5hkb,2.169913789107057,True
+5f2k,fatty acid O-methyltransferase,,,,,5f2k,2.184489976085941,True
+5eqq,NS3 protease,,,,,5eqq,3.2448269988643252,False
+5eg4,Cationic trypsin,3.4.21.4,Hydrolases.,Acting on peptide bonds (peptidases).,Serine endopeptidases.,5eg4,3.638556281629148,False
+4v05,"FIBROBLAST GROWTH FACTOR RECEPTOR 1 (FMS-RELATED TYROSINE KINASE 2, PFEIFFER SYNDROME), ISOFORM CRA_B",,,,,4v05,1.9824057344360528,False
+4pvo,Beta-lactamase class B VIM-2,,,,,4pvo,1.7593338560181977,True
+4q2k,Chymotrypsinogen A,3.4.21.1,Hydrolases.,Acting on peptide bonds (peptidases).,Serine endopeptidases.,4q2k,2.9179027992942057,True
+5fs5,FIMH,,,,,5fs5,3.1541738814954527,False
+4kij,3-dehydroquinate dehydratase,4.2.1.10,Lyases.,Carbon-oxygen lyases.,Hydro-lyases.,4kij,1.8157230416904742,True
+4j78,Coatomer subunit beta',,,,,4j78,4.596200419549943,False
+5k48,Beta-lactamase VIM-2,,,,,5k48,1.3250276412194109,True
+5kde,Inorganic pyrophosphatase,3.6.1.1,Hydrolases.,Acting on acid anhydrides.,In phosphorus-containing anhydrides.,5kde,2.0694818516841527,True
+4zla,Cytosol aminopeptidase,3.4.11.1,Hydrolases.,Acting on peptide bonds (peptidases).,Aminopeptidases.,4zla,1.991796549159161,True
+4yw6,PA-I galactophilic lectin,,,,,4yw6,2.7997232849932807,False
+4z0e,Apical membrane antigen 1,,,,,4z0e,4.233793799680285,False
+4xcb,oxidase/hydroxylase,,,,,4xcb,2.4019472763188032,True
+4i9h,L-lactate dehydrogenase A chain,1.1.1.27,Oxidoreductases.,Acting on the CH-OH group of donors.,With NAD(+) or NADP(+) as acceptor.,4i9h,7.290303440630138,False
+4gzf,Protease,3.4.23.16,Hydrolases.,Acting on peptide bonds (peptidases).,Aspartic endopeptidases.,4gzf,6.160352265045892,False
+1egh,METHYLGLYOXAL SYNTHASE,4.2.3.3,Lyases.,Carbon-oxygen lyases.,Acting on phosphates.,1egh,1.2999937838301023,True
+1cet,PROTEIN (L-LACTATE DEHYDROGENASE),1.1.1.27,Oxidoreductases.,Acting on the CH-OH group of donors.,With NAD(+) or NADP(+) as acceptor.,1cet,3.5686248660964983,True
+1b2m,5'-R(*GP*(U34))-3',,,,,1b2m,0.970471472233532,True
+4nq6,Beta-lactamase 2,3.5.2.6,Hydrolases.,"Acting on carbon-nitrogen bonds, other than peptide bonds.",In cyclic amides.,4nq6,1.0818414148959168,True
+3vw1,Putative regulatory protein,,,,,3vw1,1.6023248671647106,False
+3vw0,Putative regulatory protein,,,,,3vw0,4.990487630999518,False
+3td4,Outer membrane protein omp38,,,,,3td4,2.952487247819325,True
+3sur,Beta-hexosaminidase,3.2.1.52,Hydrolases.,Glycosylases.,"Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl compounds.",3sur,1.1635801917733697,True
+3rf5,Macrophage migration inhibitory factor,,,,,3rf5,1.42360136187779,True
+3qxv,Anti-Methotrexate CDR1-4 Graft VHH,,,,,3qxv,1.6583585087299542,True
+4avi,FIMH,,,,,4avi,4.260925505140581,False
+4aro,HISTIDINE ACID PHOSPHATASE,3.1.3.26,Hydrolases.,Acting on ester bonds.,Phosphoric monoester hydrolases.,4aro,2.5474233891413163,True
+4ad3,GLYCOSYL HYDROLASE FAMILY 71,3.2.1.130,Hydrolases.,Glycosylases.,"Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl compounds.",4ad3,2.6804351809725246,True
+3zeb,RHOMBOID PROTEASE GLPG,3.4.21.105,Hydrolases.,Acting on peptide bonds (peptidases).,Serine endopeptidases.,3zeb,3.4430253341446715,True
+4dfu,"APH(2"")-Id",,,,,4dfu,0.9106359479411352,True
+4ciy,3-DEHYDROQUINATE DEHYDRATASE,4.2.1.10,Lyases.,Carbon-oxygen lyases.,Hydro-lyases.,4ciy,1.352449920227952,True
+2ya6,NEURAMINIDASE A,3.2.1.18,Hydrolases.,Glycosylases.,"Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl compounds.",2ya6,0.6641590717513232,True
+2xzq,"ANTI-NP MURINE GERMLINE MONOCLONAL ANTIBODY BBE6.12H3, HEAVY CHAIN",,,,,2xzq,6.370827297310496,False
+2y55,D-ALANYL-D-ALANINE CARBOXYPEPTIDASE,3.4.16.4,Hydrolases.,Acting on peptide bonds (peptidases).,Serine-type carboxypeptidases.,2y55,0.5638574920845814,True
+2y2j,PENICILLIN-BINDING PROTEIN 1B,2.4.1.129,Transferases.,Glycosyltransferases.,Hexosyltransferases.,2y2j,1.1202832710692123,True
+2vr4,BETA-MANNOSIDASE,3.2.1.25,Hydrolases.,Glycosylases.,"Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl compounds.",2vr4,2.034567761224072,True
+5agj,POTENTIAL CYTOSOLIC LEUCYL TRNA SYNTHETASE,6.1.1.4,Ligases.,Forming carbon-oxygen bonds.,Ligases forming aminoacyl-tRNA and related compounds.,5agj,1.9817348332160063,True
+5acw,BETA-LACTAMASE,3.5.2.6,Hydrolases.,"Acting on carbon-nitrogen bonds, other than peptide bonds.",In cyclic amides.,5acw,0.021350746492007886,True
+1ppm,PENICILLOPEPSIN,3.4.23.20,Hydrolases.,Acting on peptide bonds (peptidases).,Aspartic endopeptidases.,1ppm,4.73367606001986,False
+1oif,BETA-GLUCOSIDASE,3.2.1.21,Hydrolases.,Glycosylases.,"Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl compounds.",1oif,0.6741030413711406,True
+1p01,ALPHA-LYTIC PROTEASE,3.4.21.12,Hydrolases.,Acting on peptide bonds (peptidases).,Serine endopeptidases.,1p01,1.7722649723389912,False
+1ogd,HIGH AFFINITY RIBOSE TRANSPORT PROTEIN RBSD,5.4.99.62,Isomerases.,Intramolecular transferases.,Transferring other groups.,1ogd,1.5161855567282765,True
+1o0n,Ribonuclease pancreatic,3.1.27.5,Hydrolases.,Acting on ester bonds.,Endoribonucleases producing other than 5'-phosphomonoesters.,1o0n,0.9449707781215612,True
+2gg3,Methionine aminopeptidase,3.4.11.18,Hydrolases.,Acting on peptide bonds (peptidases).,Aminopeptidases.,2gg3,0.3263859584687018,True
+2gg0,Methionine aminopeptidase,3.4.11.18,Hydrolases.,Acting on peptide bonds (peptidases).,Aminopeptidases.,2gg0,1.391169338978146,True
+1loq,orotidine 5'-monophosphate decarboxylase,4.1.1.23,Lyases.,Carbon-carbon lyases.,Carboxy-lyases.,1loq,1.4950291846060777,True
+1jcx,2-DEHYDRO-3-DEOXYPHOSPHOOCTONATE ALDOLASE,4.1.2.16,Lyases.,Carbon-carbon lyases.,Aldehyde-lyases.,1jcx,4.421063749851783,False
+2lbv,Extracellular fatty acid-binding protein,,,,,2lbv,3.83547350952176,False
+5wag,Beta-lactamase,3.5.2.6,Hydrolases.,"Acting on carbon-nitrogen bonds, other than peptide bonds.",In cyclic amides.,5wag,1.5344051183841103,True
+2q7q,Aralkylamine dehydrogenase light chain,1.4.99.4,Oxidoreductases.,Acting on the CH-NH(2) group of donors.,With other acceptors.,2q7q,0.5699761499140273,True
+2q5k,Protease,,,,,2q5k,2.7877703387642114,False
+2pj5,Carboxypeptidase B,3.4.17.2,Hydrolases.,Acting on peptide bonds (peptidases).,Metallocarboxypeptidases.,2pj5,3.552515943623852,False
+2ohv,Glutamate Racemase,5.1.1.3,Isomerases.,Racemases and epimerases.,Acting on amino acids and derivatives.,2ohv,1.4358910543940266,True
+2ndo,Thiol:disulfide interchange protein DsbA,,,,,2ndo,2.0024849003880685,True
+1q5l,Chaperone protein dnaK,,,,,1q5l,7.074554335114394,False
+1qxw,methionyl aminopeptidase,3.4.11.18,Hydrolases.,Acting on peptide bonds (peptidases).,Aminopeptidases.,1qxw,1.1895272607102008,True
+2qnb,"Glycogen phosphorylase, muscle form",2.4.1.1,Transferases.,Glycosyltransferases.,Hexosyltransferases.,2qnb,0.7696225035771356,True
+4mbp,MALTODEXTRIN BINDING PROTEIN,,,,,4mbp,5.271831758913399,True
+6chm,Phosphopantetheine adenylyltransferase,2.7.7.3,Transferases.,Transferring phosphorus-containing groups.,Nucleotidyltransferases.,6chm,2.423514119929874,True
+6cfc,Lytic transglycosylase,,,,,6cfc,2.9763564829848232,True
+5qa7,Beta-lactamase,3.5.2.6,Hydrolases.,"Acting on carbon-nitrogen bonds, other than peptide bonds.",In cyclic amides.,5qa7,1.7178567944538687,True
+5mnc,Cationic trypsin,3.4.21.4,Hydrolases.,Acting on peptide bonds (peptidases).,Serine endopeptidases.,5mnc,0.00014135145685806913,True
+5ml6,"Retinal rod rhodopsin-sensitive cGMP 3',5'-cyclic phosphodiesterase subunit delta",,,,,5ml6,4.178960298470758,False
+5l4e,Proton-gated ion channel,,,,,5l4e,1.1403665079475584,True
+5kqg,Low molecular weight phosphotyrosine protein phosphatase,3.1.3.48,Hydrolases.,Acting on ester bonds.,Phosphoric monoester hydrolases.,5kqg,3.0984864438251964,True
+5cyv,Transcriptional regulator,,,,,5cyv,4.850629627112265,False
+5cw8,HTH-type transcriptional repressor KstR,,,,,5cw8,3.4297494406831106,False
+1y6q,MTA/SAH nucleosidase,3.2.2.16,Hydrolases.,Glycosylases.,Hydrolyzing N-glycosyl compounds.,1y6q,0.994994858553326,True
+2ay9,AROMATIC AMINO ACID AMINOTRANSFERASE,2.6.1.57,Transferases.,Transferring nitrogenous groups.,Transaminases.,2ay9,1.4436389087686694,True
+3o8h,Transcriptional Regulatory Repressor protein (TETR-Family) EthR,,,,,3o8h,1.5735455256648865,False
+3m6p,Peptide deformylase 1B,3.5.1.88,Hydrolases.,"Acting on carbon-nitrogen bonds, other than peptide bonds.",In linear amides.,3m6p,2.5172246356778154,True
+3pcb,"PROTOCATECHUATE 3,4-DIOXYGENASE",1.13.11.3,Oxidoreductases.,Acting on single donors with incorporation of molecular oxygen (oxygenases). The oxygen incorporated need not be derived from O(2).,With incorporation of two atoms of oxygen.,3pcb,0.965809077472518,True
+3dyo,Beta-galactosidase,3.2.1.23,Hydrolases.,Glycosylases.,"Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl compounds.",3dyo,0.9515063236225106,True
+3lc5,Coagulation factor IX,3.4.21.22,Hydrolases.,Acting on peptide bonds (peptidases).,Serine endopeptidases.,3lc5,3.4414247466916716,True
+3l7a,"Glycogen phosphorylase, muscle form",2.4.1.1,Transferases.,Glycosyltransferases.,Hexosyltransferases.,3l7a,1.8636028907485385,True
+3l79,"Glycogen phosphorylase, muscle form",2.4.1.1,Transferases.,Glycosyltransferases.,Hexosyltransferases.,3l79,0.7085176434773727,True
+3g1m,TRANSCRIPTIONAL REGULATORY REPRESSOR PROTEIN (TETR-FAMILY) ETHR,,,,,3g1m,1.4644832282788556,True
+3jq8,Pteridine reductase 1,1.5.1.33,Oxidoreductases.,Acting on the CH-NH group of donors.,With NAD(+) or NADP(+) as acceptor.,3jq8,0.9202322715403204,True
+3ijz,Thymidylate synthase,2.1.1.45,Transferases.,Transferring one-carbon groups.,Methyltransferases.,3ijz,0.8883372549699673,True
+3ap4,Galectin-8,,,,,3ap4,2.5813121880049694,True
+3a6t,Mutator mutT protein,3.6.1,Hydrolases.,Acting on acid anhydrides.,In phosphorus-containing anhydrides.,3a6t,2.031819781048002,True
+3pch,"PROTOCATECHUATE 3,4-DIOXYGENASE",1.13.11.3,Oxidoreductases.,Acting on single donors with incorporation of molecular oxygen (oxygenases). The oxygen incorporated need not be derived from O(2).,With incorporation of two atoms of oxygen.,3pch,0.10937074188157582,True
+3hf8,Tryptophan 5-hydroxylase 1,1.14.16.4,Oxidoreductases.,"Acting on paired donors, with incorporation or reduction of molecular oxygen. The oxygen incorporated need not be derived from O(2).","With reduced pteridine as one donor, and incorporation of one atom of oxygen.",3hf8,2.619237897778236,False
+6f8b,Elastase,3.4.24.26,Hydrolases.,Acting on peptide bonds (peptidases).,Metalloendopeptidases.,6f8b,1.3475350970196562,True
+6epa,FI18190p1,,,,,6epa,3.6521260007904974,True
+6df4,Transcription initiation factor TFIID subunit,,,,,6df4,1.5596119443302818,True
+6cck,Phosphopantetheine adenylyltransferase,2.7.7.3,Transferases.,Transferring phosphorus-containing groups.,Nucleotidyltransferases.,6cck,1.5102988680367817,True
+5uff,RBC36,,,,,5uff,3.1279974583973633,True
+5twj,Ribosomal RNA large subunit methyltransferase H,2.1.1.177,Transferases.,Transferring one-carbon groups.,Methyltransferases.,5twj,2.705480276776884,True
+5u4c,Transthyretin,,,,,5u4c,0.8363748881233777,True
+5u4e,Transthyretin,,,,,5u4e,0.7998342590571409,True
+5u12,Dihydropteroate synthase,2.5.1.15,Transferases.,"Transferring alkyl or aryl groups, other than methyl groups.","Transferring alkyl or aryl groups, other than methyl groups.",5u12,0.9089455354707116,True
+4ks1,Neuraminidase,3.2.1.18,Hydrolases.,Glycosylases.,"Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl compounds.",4ks1,0.6050406594690467,True
+5ii1,Protein polybromo-1,,,,,5ii1,1.7418594447068594e-05,True
+5hpm,Cetuximab Fab light chain,,,,,5hpm,5.971867765618745,False
+5f2p,BRD9,,,,,5f2p,0.8362569946423657,True
+5el9,"Imidazoleglycerol-phosphate dehydratase 2, chloroplastic",4.2.1.19,Lyases.,Carbon-oxygen lyases.,Hydro-lyases.,5el9,1.691640548521833,True
+5ea4,Fusion glycoprotein F0,,,,,5ea4,3.0087125496288913,False
+5dri,Malate synthase G,2.3.3.9,Transferases.,Acyltransferases.,Acyl groups converted into alkyl groups on transfer.,5dri,1.0271285564625767,True
+4u5v,Importin subunit alpha-1,,,,,4u5v,2.1650679726374222,False
+4u54,Importin subunit alpha-1,,,,,4u54,1.450745950339127,True
+4u5l,Importin subunit alpha-1,,,,,4u5l,1.901008578071076,False
+4tpt,LIM domain kinase 2,2.7.11.1,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,4tpt,2.216411456228905,False
+4qem,Phospholipase A2 VRV-PL-VIIIa,3.1.1.4,Hydrolases.,Acting on ester bonds.,Carboxylic ester hydrolases.,4qem,0.9420265140658444,True
+4pb1,NupC family protein,,,,,4pb1,0.8211297694581342,True
+5gvl,"Serine hydroxymethyltransferase, putative",2.1.2.1,Transferases.,Transferring one-carbon groups.,"Hydroxymethyl-, formyl- and related transferases.",5gvl,0.8897686150198223,True
+5ggn,"Protein O-linked-mannose beta-1,2-N-acetylglucosaminyltransferase 1",2.4.1,Transferases.,Glycosyltransferases.,Hexosyltransferases.,5ggn,2.2618797027525144,True
+5eyr,EthR,,,,,5eyr,1.257232063006573,True
+5g6u,LANGERIN,,,,,5g6u,1.6020185322038671,True
+4jkw,Butyrophilin subfamily 3 member A1,,,,,4jkw,1.4744331303289344,True
+4j3e,E3 ubiquitin-protein ligase Mdm2,6.3.2,Ligases.,Forming carbon-nitrogen bonds.,Acid--amino-acid ligases (peptide synthases).,4j3e,2.9333492216767727,True
+5jq9,Dihydropteroate synthase,2.5.1.15,Transferases.,"Transferring alkyl or aryl groups, other than methyl groups.","Transferring alkyl or aryl groups, other than methyl groups.",5jq9,2.2798967511902526,False
+5jcj,Pteridine reductase,,,,,5jcj,1.0304337491052848,True
+5j8x,D-alanyl-D-alanine carboxypeptidase DacA,3.4.16.4,Hydrolases.,Acting on peptide bonds (peptidases).,Serine-type carboxypeptidases.,5j8x,2.0168910915687315,True
+4zx3,M1 family aminopeptidase,3.4.11,Hydrolases.,Acting on peptide bonds (peptidases).,Aminopeptidases.,4zx3,1.313316812761831,True
+4yrg,Histidyl-tRNA synthetase,6.1.1.21,Ligases.,Forming carbon-oxygen bonds.,Ligases forming aminoacyl-tRNA and related compounds.,4yrg,0.3845400931591923,True
+4ypf,Histidyl-tRNA synthetase,6.1.1.21,Ligases.,Forming carbon-oxygen bonds.,Ligases forming aminoacyl-tRNA and related compounds.,4ypf,5.013494420416038e-06,True
+4wks,Acyl-homoserine lactone acylase PvdQ,3.5.1.97,Hydrolases.,"Acting on carbon-nitrogen bonds, other than peptide bonds.",In linear amides.,4wks,0.2649218134139902,True
+4wkc,5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase,3.2.2.9,Hydrolases.,Glycosylases.,Hydrolyzing N-glycosyl compounds.,4wkc,1.0322612481613227,True
+4uyg,BROMODOMAIN-CONTAINING PROTEIN 2,,,,,4uyg,1.1721847813205,True
+1idb,Protease,3.4.23.47,Hydrolases.,Acting on peptide bonds (peptidases).,Aspartic endopeptidases.,1idb,3.3097304612792997,False
+1h8s,MUTANT AL2 6E7P9G,,,,,1h8s,2.1072602116995043,True
+1h4w,TRYPSIN IVA,3.4.21.4,Hydrolases.,Acting on peptide bonds (peptidases).,Serine endopeptidases.,1h4w,0.07279742464900905,True
+1g98,PHOSPHOGLUCOSE ISOMERASE,5.3.1.9,Isomerases.,Intramolecular oxidoreductases.,Interconverting aldoses and ketoses.,1g98,1.5030173818744466,True
+4huo,Ricin,3.2.2.22,Hydrolases.,Glycosylases.,Hydrolyzing N-glycosyl compounds.,4huo,3.0460062051215453,False
+4hgl,Casein kinase I isoform gamma-3,2.7.11.1,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,4hgl,1.172624676605072,True
+4hev,Botulinum neurotoxin type A light chain,3.4.24.69,Hydrolases.,Acting on peptide bonds (peptidases).,Metalloendopeptidases.,4hev,1.7529346345078884,True
+4guj,3-dehydroquinate dehydratase,4.2.1.10,Lyases.,Carbon-oxygen lyases.,Hydro-lyases.,4guj,0.5777507378404798,True
+4h3c,Undecaprenyl pyrophosphate synthase,2.5.1.31,Transferases.,"Transferring alkyl or aryl groups, other than methyl groups.","Transferring alkyl or aryl groups, other than methyl groups.",4h3c,3.8292767280947513,False
+1a7t,METALLO-BETA-LACTAMASE,3.5.2.6,Hydrolases.,"Acting on carbon-nitrogen bonds, other than peptide bonds.",In cyclic amides.,1a7t,0.9278700209261229,True
+3cfn,Transthyretin,,,,,3cfn,1.2394805192957654,True
+4o7d,"Glutaminase kidney isoform, mitochondrial",3.5.1.2,Hydrolases.,"Acting on carbon-nitrogen bonds, other than peptide bonds.",In linear amides.,4o7d,1.504898437141935,True
+3t3u,Calmodulin-domain protein kinase 1,2.7.11.17,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,3t3u,0.8815468204569914,True
+3rt4,Peptidoglycan recognition protein 1,,,,,3rt4,6.023327389003894,False
+4bi7,TRIOSEPHOSPHATE ISOMERASE,5.3.1.1,Isomerases.,Intramolecular oxidoreductases.,Interconverting aldoses and ketoses.,4bi7,0.1544871397282769,True
+4bg1,GAMMA-BUTYROBETAINE DIOXYGENASE,1.14.11.1,Oxidoreductases.,"Acting on paired donors, with incorporation or reduction of molecular oxygen. The oxygen incorporated need not be derived from O(2).","With 2-oxoglutarate as one donor, and incorporation of one atom each of oxygen into both donors.",4bg1,1.5723604355170688,True
+3zpr,BETA-1 ADRENERGIC RECEPTOR,,,,,3zpr,1.210300788525671,True
+3wqw,Chitinase,3.2.1.14,Hydrolases.,Glycosylases.,"Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl compounds.",3wqw,6.6031509434923565,True
+4fxy,"Neurolysin, mitochondrial",3.4.24.16,Hydrolases.,Acting on peptide bonds (peptidases).,Metalloendopeptidases.,4fxy,4.3072899996854765,False
+4fns,Alpha-galactosidase AgaA,3.2.1.22,Hydrolases.,Glycosylases.,"Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl compounds.",4fns,0.8477905656747379,True
+4fev,Aminoglycoside 3'-phosphotransferase AphA1-IAB,2.7.1.95,Transferases.,Transferring phosphorus-containing groups.,Phosphotransferases with an alcohol group as acceptor.,4fev,1.2468049225124598,True
+4ezq,Chaperone protein DnaK,,,,,4ezq,6.927424115257506,False
+4do3,Fatty-acid amide hydrolase 1,3.5.1.99,Hydrolases.,"Acting on carbon-nitrogen bonds, other than peptide bonds.",In linear amides.,4do3,1.5048992737817506,True
+4djr,Pol polyprotein,3.4.23.16,Hydrolases.,Acting on peptide bonds (peptidases).,Aspartic endopeptidases.,4djr,4.347110327513227,False
+4dgm,Casein kinase II subunit alpha,2.7.11.1,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,4dgm,1.0909901307604868,True
+4del,Fructose-bisphosphate aldolase,4.1.2.13,Lyases.,Carbon-carbon lyases.,Aldehyde-lyases.,4del,1.284242309762998,True
+4bqt,SOLUBLE ACETYLCHOLINE RECEPTOR,,,,,4bqt,1.2969727764006185,True
+2yne,GLYCYLPEPTIDE N-TETRADECANOYLTRANSFERASE,2.3.1.97,Transferases.,Acyltransferases.,Transferring groups other than amino-acyl groups.,2yne,2.162628368693124,True
+2ynd,GLYCYLPEPTIDE N-TETRADECANOYLTRANSFERASE,2.3.1.97,Transferases.,Acyltransferases.,Transferring groups other than amino-acyl groups.,2ynd,1.3596410942409656,False
+2y6d,MATRILYSIN,3.4.24.23,Hydrolases.,Acting on peptide bonds (peptidases).,Metalloendopeptidases.,2y6d,4.853823226178728,False
+2wzy,SOLUBLE ACETYLCHOLINE RECEPTOR,,,,,2wzy,3.1497538169255086,True
+2wnl,SOLUBLE ACETYLCHOLINE RECEPTOR,,,,,2wnl,2.8127360793292957,True
+2wnj,SOLUBLE ACETYLCHOLINE RECEPTOR,,,,,2wnj,1.3139584795640364,True
+5bpa,Collagenase 3,3.4.24,Hydrolases.,Acting on peptide bonds (peptidases).,Metalloendopeptidases.,5bpa,2.5683364681931367,False
+1p0y,"Ribulose-1,5 bisphosphate carboxylase/oxygenase large subunit N-methyltransferase, chloroplast",2.1.1.127,Transferases.,Transferring one-carbon groups.,Methyltransferases.,1p0y,1.230314519405263,True
+1o3i,BETA-TRYPSIN,3.4.21.4,Hydrolases.,Acting on peptide bonds (peptidases).,Serine endopeptidases.,1o3i,0.19916388998945367,True
+1o34,BETA-TRYPSIN,3.4.21.4,Hydrolases.,Acting on peptide bonds (peptidases).,Serine endopeptidases.,1o34,1.4828643710635514,True
+2i2c,Probable inorganic polyphosphate/ATP-NAD kinase 1,2.7.1.23,Transferases.,Transferring phosphorus-containing groups.,Phosphotransferases with an alcohol group as acceptor.,2i2c,3.61010868238758,False
+2g70,Phenylethanolamine N-methyltransferase,2.1.1.28,Transferases.,Transferring one-carbon groups.,Methyltransferases.,2g70,0.5670313219170685,True
+2f9u,NS3 protease/helicase',,,,,2f9u,3.6813204023287502,False
+1kf0,Phosphoglycerate Kinase,2.7.2.3,Transferases.,Transferring phosphorus-containing groups.,Phosphotransferases with a carboxy group as acceptor.,1kf0,2.868279698341714,True
+1k1n,TRYPSIN,3.4.21.4,Hydrolases.,Acting on peptide bonds (peptidases).,Serine endopeptidases.,1k1n,4.039876878326971,False
+1k06,Glycogen Phosphorylase,2.4.1.1,Transferases.,Glycosyltransferases.,Hexosyltransferases.,1k06,1.4352461077203742,True
+1jil,tyrosyl-tRNA synthetase,6.1.1.1,Ligases.,Forming carbon-oxygen bonds.,Ligases forming aminoacyl-tRNA and related compounds.,1jil,2.9013854201232587,False
+1jfh,ALPHA-AMYLASE,3.2.1.1,Hydrolases.,Glycosylases.,"Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl compounds.",1jfh,2.7109056979098387,True
+1iq1,IMPORTIN ALPHA-2 SUBUNIT,,,,,1iq1,6.216990019196022,False
+1il5,RICIN A CHAIN,3.2.2.22,Hydrolases.,Glycosylases.,Hydrolyzing N-glycosyl compounds.,1il5,0.00016630286373743724,True
+1ik4,METHYLGLYOXAL SYNTHASE,4.2.3.3,Lyases.,Carbon-oxygen lyases.,Acting on phosphates.,1ik4,1.267321716777796,True
+2ivz,PROTEIN TOLB,,,,,2ivz,6.2030911785895375,False
+6dvo,Hdac6 protein,,,,,6dvo,3.7745432972163813,True
+4w9p,Peptidyl-prolyl cis-trans isomerase FKBP5,5.2.1.8,Isomerases.,Cis-trans-isomerases.,Cis-trans isomerases.,4w9p,1.5760700811568928,True
+4qt2,FK506-binding protein (FKBP)-type peptidyl-propyl isomerase,5.2.1.8,Isomerases.,Cis-trans-isomerases.,Cis-trans isomerases.,4qt2,1.9076222179671516,True
+2q2n,Ferrochelatase,4.99.1.1,Lyases.,Other lyases.,Other lyases.,2q2n,1.3418127379959208,True
+2pqc,3-phosphoshikimate 1-carboxyvinyltransferase,2.5.1.19,Transferases.,"Transferring alkyl or aryl groups, other than methyl groups.","Transferring alkyl or aryl groups, other than methyl groups.",2pqc,2.429793030568269,True
+2p3b,protease,3.4.23.16,Hydrolases.,Acting on peptide bonds (peptidases).,Aspartic endopeptidases.,2p3b,4.1247550682214715,False
+1qhc,PROTEIN (RIBONUCLEASE A),3.1.27.5,Hydrolases.,Acting on ester bonds.,Endoribonucleases producing other than 5'-phosphomonoesters.,1qhc,5.490832256849369,False
+1q7a,Phospholipase A2 VRV-PL-VIIIa,3.1.1.4,Hydrolases.,Acting on ester bonds.,Carboxylic ester hydrolases.,1q7a,2.1836650303255762,True
+1q66,Queuine tRNA-ribosyltransferase,2.4.2.29,Transferases.,Glycosyltransferases.,Pentosyltransferases.,1q66,2.6665592988696893,True
+1pun,Mutator mutT protein,3.6.1,Hydrolases.,Acting on acid anhydrides.,In phosphorus-containing anhydrides.,1pun,1.1415534781167989,True
+6c4g,Aspartic protease PM5,,,,,6c4g,4.866973480847448,False
+1m9n,AICAR TRANSFORMYLASE-IMP CYCLOHYDROLASE,3.5.4.10,Hydrolases.,"Acting on carbon-nitrogen bonds, other than peptide bonds.",In cyclic amidines.,1m9n,1.0414090230311248,True
+1mmq,MATRILYSIN,3.4.24.23,Hydrolases.,Acting on peptide bonds (peptidases).,Metalloendopeptidases.,1mmq,3.1860501762681284,True
+1mmp,GELATINASE A,3.4.24.23,Hydrolases.,Acting on peptide bonds (peptidases).,Metalloendopeptidases.,1mmp,1.9471417857308115,True
+2rjp,ADAMTS-4,3.4.24.82,Hydrolases.,Acting on peptide bonds (peptidases).,Metalloendopeptidases.,2rjp,2.91155612459499,False
+2qn2,"Glycogen phosphorylase, muscle form",2.4.1.1,Transferases.,Glycosyltransferases.,Hexosyltransferases.,2qn2,2.094188746605311,True
+2e9d,Undecaprenyl pyrophosphate synthetase,2.5.1.31,Transferases.,"Transferring alkyl or aryl groups, other than methyl groups.","Transferring alkyl or aryl groups, other than methyl groups.",2e9d,2.0820258248505734,True
+2e98,Undecaprenyl pyrophosphate synthetase,2.5.1.31,Transferases.,"Transferring alkyl or aryl groups, other than methyl groups.","Transferring alkyl or aryl groups, other than methyl groups.",2e98,1.6276365492870637,True
+6mrg,Fatty-acid amide hydrolase 1,3.5.1.99,Hydrolases.,"Acting on carbon-nitrogen bonds, other than peptide bonds.",In linear amides.,6mrg,1.2876603945179668,True
+4nat,Phosphopantetheine adenylyltransferase,2.7.7.3,Transferases.,Transferring phosphorus-containing groups.,Nucleotidyltransferases.,4nat,2.3992376580094703,True
+4m3f,HTH-type transcriptional regulator EthR,,,,,4m3f,1.514786205735792,True
+6chh,Nicotinamide N-methyltransferase,2.1.1.1,Transferases.,Transferring one-carbon groups.,Methyltransferases.,6chh,5.282183280492903,False
+5mi3,Elongation factor Tu 1,,,,,5mi3,1.557726764233884,True
+1x8b,Wee1-like protein kinase,2.7.10.2,Transferases.,Transferring phosphorus-containing groups.,Protein-tyrosine kinases.,1x8b,0.9736711077951145,True
+1x07,Undecaprenyl pyrophosphate synthetase,2.5.1.31,Transferases.,"Transferring alkyl or aryl groups, other than methyl groups.","Transferring alkyl or aryl groups, other than methyl groups.",1x07,1.7850170148120212,True
+1w9v,CHITINASE,3.2.1.14,Hydrolases.,Glycosylases.,"Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl compounds.",1w9v,4.523346784617893,False
+2c9t,SOLUBLE ACETYLCHOLINE RECEPTOR,,,,,2c9t,4.548216172979194,False
+3lk0,Protein S100-B,,,,,3lk0,2.084147659457144,True
+2vcw,GLUTATHIONE-REQUIRING PROSTAGLANDIN D SYNTHASE,2.5.1.18,Transferases.,"Transferring alkyl or aryl groups, other than methyl groups.","Transferring alkyl or aryl groups, other than methyl groups.",2vcw,1.282585868862073,True
+3fed,Glutamate carboxypeptidase III,3.4.17.21,Hydrolases.,Acting on peptide bonds (peptidases).,Metallocarboxypeptidases.,3fed,3.251716798810825,True
+3ipx,Deoxycytidine kinase,2.7.1.74,Transferases.,Transferring phosphorus-containing groups.,Phosphotransferases with an alcohol group as acceptor.,3ipx,0.5845632842075171,True
+3hlo,'covalent dimer' [Gly51/D-Ala51'] HIV-1 protease,3.4.23.16,Hydrolases.,Acting on peptide bonds (peptidases).,Aspartic endopeptidases.,3hlo,4.9731109262210405,False
+3g2w,ADP-ribosylation factor-binding protein GGA1,,,,,3g2w,7.1001255837188415,False
+6g34,Serine/threonine-protein kinase haspin,2.7.11.1,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,6g34,2.2226569929506748,True
+5x8i,Dual specificity protein kinase CLK1,2.7.12.1,Transferases.,Transferring phosphorus-containing groups.,Dual-specificity kinases (those acting on Ser/Thr and Tyr residues).,5x8i,2.2653401377752616,True
+5vc5,Wee1-like protein kinase,2.7.10.2,Transferases.,Transferring phosphorus-containing groups.,Protein-tyrosine kinases.,5vc5,2.2607975793146013,True
+5tjx,Plasma kallikrein,3.4.21.34,Hydrolases.,Acting on peptide bonds (peptidases).,Serine endopeptidases.,5tjx,3.1668076758460044,True
+5tcj,Tryptophan synthase alpha chain,4.2.1.20,Lyases.,Carbon-oxygen lyases.,Hydro-lyases.,5tcj,0.5685657666342652,True
+4l2x,Farnesyl pyrophosphate synthase,2.5.1.10,Transferases.,"Transferring alkyl or aryl groups, other than methyl groups.","Transferring alkyl or aryl groups, other than methyl groups.",4l2x,2.107669965365285,True
+4km2,Dihydrofolate reductase,1.5.1.3,Oxidoreductases.,Acting on the CH-NH group of donors.,With NAD(+) or NADP(+) as acceptor.,4km2,1.8820154951582733,True
+5ekn,Mitogen-activated protein kinase 13,2.7.11.24,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,5ekn,0.9477243482092442,False
+5e13,Non-secretory ribonuclease,3.1.27.5,Hydrolases.,Acting on ester bonds.,Endoribonucleases producing other than 5'-phosphomonoesters.,5e13,0.9073443559932428,True
+4u0m,Cyclic AMP-GMP synthase,2.7.7.86,Transferases.,Transferring phosphorus-containing groups.,Nucleotidyltransferases.,4u0m,3.4890146652732907,False
+5i2f,Histidine triad nucleotide-binding protein 1,3,Hydrolases.,,,5i2f,3.789961035017877,False
+5fwg,TETRA-(5-FLUOROTRYPTOPHANYL)-GLUTATHIONE TRANSFERASE MU CLASS,2.5.1.18,Transferases.,"Transferring alkyl or aryl groups, other than methyl groups.","Transferring alkyl or aryl groups, other than methyl groups.",5fwg,3.9115322754435287,False
+5fah,Kallikrein-7,3.4.21.117,Hydrolases.,Acting on peptide bonds (peptidases).,Serine endopeptidases.,5fah,4.616104297441997,False
+4je7,"Peptide deformylase 1A, chloroplastic/mitochondrial",3.5.1.88,Hydrolases.,"Acting on carbon-nitrogen bonds, other than peptide bonds.",In linear amides.,4je7,2.9534936829397465,True
+4wf2,Bifunctional ligase/repressor BirA,6.3.4.15,Ligases.,Forming carbon-nitrogen bonds.,Other carbon--nitrogen ligases.,4wf2,4.268200559728381,False
+1gnj,SERUM ALBUMIN,,,,,1gnj,3.1700790945659456,False
+6fut,Complement factor D,3.4.21.46,Hydrolases.,Acting on peptide bonds (peptidases).,Serine endopeptidases.,6fut,1.6976249727500432,True
+4hwt,"Threonine--tRNA ligase, cytoplasmic",6.1.1.3,Ligases.,Forming carbon-oxygen bonds.,Ligases forming aminoacyl-tRNA and related compounds.,4hwt,2.847895202875535,True
+1ets,EPSILON-THROMBIN,3.4.21.5,Hydrolases.,Acting on peptide bonds (peptidases).,Serine endopeptidases.,1ets,4.048346890796956,False
+1a4h,HEAT SHOCK PROTEIN 90,,,,,1a4h,0.9216225309299834,True
+3dg8,Bifunctional dihydrofolate reductase-thymidylate synthase,1.5.1.3,Oxidoreductases.,Acting on the CH-NH group of donors.,With NAD(+) or NADP(+) as acceptor.,3dg8,1.1788811503526853,True
+3d91,Renin,3.4.23.15,Hydrolases.,Acting on peptide bonds (peptidases).,Aspartic endopeptidases.,3d91,2.619459042528457,False
+4omj,SEC14-like protein 2,,,,,4omj,5.677806575557,False
+4oag,Mitochondrial dynamic protein MID51,,,,,4oag,2.1870961340028074,True
+4np9,Rabphilin-3A,,,,,4np9,1.677641038255434,True
+4n9a,DNA polymerase III subunit beta,2.7.7.7,Transferases.,Transferring phosphorus-containing groups.,Nucleotidyltransferases.,4n9a,1.1732043513211774,True
+3wci,Squalene synthase,2.5.1.21,Transferases.,"Transferring alkyl or aryl groups, other than methyl groups.","Transferring alkyl or aryl groups, other than methyl groups.",3wci,2.5930124842555435,False
+4b7r,NEURAMINIDASE,3.2.1.18,Hydrolases.,Glycosylases.,"Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl compounds.",4b7r,1.5087108122667054,True
+4b7q,NEURAMINIDASE,3.2.1.18,Hydrolases.,Glycosylases.,"Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl compounds.",4b7q,0.4526101820679922,True
+2yhy,BIFUNCTIONAL UDP-N-ACETYLGLUCOSAMINE 2-EPIMERASE/N-ACETYLMANNOSAMINE KINASE,2.7.1.60,Transferases.,Transferring phosphorus-containing groups.,Phosphotransferases with an alcohol group as acceptor.,2yhy,1.1376457439653151,True
+2x6w,TAIL SPIKE PROTEIN,,,,,2x6w,5.143716537550317,False
+2w10,GRB2-RELATED ADAPTOR PROTEIN 2,,,,,2w10,8.359284384107271,False
+5ald,BIFUNCTIONAL EPOXIDE HYDROLASE 2,3.3.2.10,Hydrolases.,Acting on ether bonds.,Ether hydrolases.,5ald,0.8978643868086229,True
+5alk,BIFUNCTIONAL EPOXIDE HYDROLASE 2,3.3.2.10,Hydrolases.,Acting on ether bonds.,Ether hydrolases.,5alk,1.4456944186675196,True
+5alx,BIFUNCTIONAL EPOXIDE HYDROLASE 2,3.3.2.10,Hydrolases.,Acting on ether bonds.,Ether hydrolases.,5alx,1.358126757702376,True
+2hqu,Deoxyuridine 5'-triphosphate nucleotidohydrolase,3.6.1.23,Hydrolases.,Acting on acid anhydrides.,In phosphorus-containing anhydrides.,2hqu,1.8873785789982376,True
+2gm1,KINESIN-RELATED MOTOR PROTEIN EG5,,,,,2gm1,2.663253339297255,False
+1i6v,DNA-DIRECTED RNA POLYMERASE,2.7.7.6,Transferases.,Transferring phosphorus-containing groups.,Nucleotidyltransferases.,1i6v,3.85891824168844,True
+1i72,S-ADENOSYLMETHIONINE DECARBOXYLASE BETA CHAIN,4.1.1.50,Lyases.,Carbon-carbon lyases.,Carboxy-lyases.,1i72,2.222242295116432,True
+2joa,Serine protease HTRA1,3.4.21,Hydrolases.,Acting on peptide bonds (peptidases).,Serine endopeptidases.,2joa,6.862168939426391,False
+4qt0,L-lactate dehydrogenase A chain,1.1.1.27,Oxidoreductases.,Acting on the CH-OH group of donors.,With NAD(+) or NADP(+) as acceptor.,4qt0,2.0766421104195696,True
+3tjh,H2-Ld SBM2,,,,,3tjh,7.812143145709107,False
+3tic,Neuraminidase,3.2.1.18,Hydrolases.,Glycosylases.,"Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl compounds.",3tic,1.2574084571400852,True
+5o9o,"1,3-beta-glucanosyltransferase GAS2",2.4.1,Transferases.,Glycosyltransferases.,Hexosyltransferases.,5o9o,6.208223505912504,False
+5o4s,Peregrin,,,,,5o4s,2.9036095102474277,True
+5ofu,FBP protein,3.1.3.11,Hydrolases.,Acting on ester bonds.,Phosphoric monoester hydrolases.,5ofu,2.1003917167533874,True
+1nfw,"COAGULATION FACTOR XA, heavy chain",3.4.21.6,Hydrolases.,Acting on peptide bonds (peptidases).,Serine endopeptidases.,1nfw,1.8223701889308592,True
+2rox,TRANSTHYRETIN,,,,,2rox,1.6290353363139187,True
+2e7l,Cytotoxic Tcell receptor,,,,,2e7l,5.993052830349549,False
+5lzg,Cholera enterotoxin subunit B,,,,,5lzg,3.222915603024477,False
+5kv9,Hemagglutinin-neuraminidase,3.2.1.18,Hydrolases.,Glycosylases.,"Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl compounds.",5kv9,1.4470631613206006,False
+2iyf,OLEANDOMYCIN GLYCOSYLTRANSFERASE,2.4.1,Transferases.,Glycosyltransferases.,Hexosyltransferases.,2iyf,2.534997843184894,True
+1wxz,Adenosine deaminase,3.5.4.4,Hydrolases.,"Acting on carbon-nitrogen bonds, other than peptide bonds.",In cyclic amidines.,1wxz,1.5773321637309106,True
+1v7a,adenosine deaminase,3.5.4.4,Hydrolases.,"Acting on carbon-nitrogen bonds, other than peptide bonds.",In cyclic amidines.,1v7a,1.933458433283189,False
+1tou,"Fatty acid-binding protein, adipocyte",,,,,1tou,2.211317850484543,True
+1swp,CORE-STREPTAVIDIN,,,,,1swp,1.213515289314638,True
+3nil,E3 ubiquitin-protein ligase UBR1,2.3.2.27,Transferases.,Acyltransferases.,Aminoacyltransferases.,3nil,1.8526929618418164,True
+3mxd,HIV-1 protease,3.4.23.16,Hydrolases.,Acting on peptide bonds (peptidases).,Aspartic endopeptidases.,3mxd,5.809681545554943,False
+3lxg,"cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A",3.1.4.17,Hydrolases.,Acting on ester bonds.,Phosphoric diester hydrolases.,3lxg,0.38220162651017103,True
+3djk,Protease,3.4.23.16,Hydrolases.,Acting on peptide bonds (peptidases).,Aspartic endopeptidases.,3djk,5.257882062606682,False
+2vwz,EPHRIN TYPE-B RECEPTOR 4,2.7.10.1,Transferases.,Transferring phosphorus-containing groups.,Protein-tyrosine kinases.,2vwz,2.6027692062034142,True
+2vwv,EPHRIN TYPE-B RECEPTOR 4,2.7.10.1,Transferases.,Transferring phosphorus-containing groups.,Protein-tyrosine kinases.,2vwv,2.6803446066191183,True
+3fsm,"COVALENT DIMER [L-Ala51, D-Ala51'] HIV-1 PROTEASE",3.4.23.16,Hydrolases.,Acting on peptide bonds (peptidases).,Aspartic endopeptidases.,3fsm,5.357661339075975,False
+3bi0,Glutamate carboxypeptidase 2,3.4.17.21,Hydrolases.,Acting on peptide bonds (peptidases).,Metallocarboxypeptidases.,3bi0,2.9381495868778886,True
+3psd,B-RAF PROTO-ONCOGENE SERINE/THREONINE-PROTEIN KINASE,2.7.11.1,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,3psd,1.0340105389601606,True
+3hqz,"cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A",3.1.4.17,Hydrolases.,Acting on ester bonds.,Phosphoric diester hydrolases.,3hqz,0.8531169539603239,False
+3fr5,"Fatty acid-binding protein, adipocyte",,,,,3fr5,1.066129837535466,True
+6fiv,RETROPEPSIN,3.4.23.16,Hydrolases.,Acting on peptide bonds (peptidases).,Aspartic endopeptidases.,6fiv,4.41405062416425,False
+6fgf,Bromodomain adjacent to zinc finger domain protein 2A,,,,,6fgf,3.1476808275330503,False
+6evq,Microtubule-associated protein RP/EB family member 1,,,,,6evq,4.109733730496313,False
+6etj,"6-phosphofructo-2-kinase/fructose-2,6-bisphosphatase 3",2.7.1.105,Transferases.,Transferring phosphorus-containing groups.,Phosphotransferases with an alcohol group as acceptor.,6etj,1.4949394792995996,True
+5wxf,Urokinase-type plasminogen activator chain B,3.4.21.73,Hydrolases.,Acting on peptide bonds (peptidases).,Serine endopeptidases.,5wxf,2.2467370566568268,False
+5vqi,Importin subunit alpha,,,,,5vqi,6.403032902211041,False
+5vee,Serine/threonine-protein kinase PAK 4,2.7.11.1,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,5vee,1.562467696202268,True
+4lno,Glutamine synthetase,6.3.1.2,Ligases.,Forming carbon-nitrogen bonds.,Acid--ammonia (or amine) ligases (amide synthases).,4lno,1.5687384158364222,True
+5ipc,Histidine triad nucleotide-binding protein 1,3,Hydrolases.,,,5ipc,2.558460721662084,False
+5eel,Growth factor receptor-bound protein 7,,,,,5eel,2.257184814593165,False
+4p6e,Cathepsin S,3.4.22.27,Hydrolases.,Acting on peptide bonds (peptidases).,Cysteine endopeptidases.,4p6e,2.368359285786189,False
+4k60,Chymase,3.4.21.39,Hydrolases.,Acting on peptide bonds (peptidases).,Serine endopeptidases.,4k60,6.846195735529715e-05,True
+4inr,Proteasome component PRE3,3.4.25.1,Hydrolases.,Acting on peptide bonds (peptidases).,Threonine endopeptidases.,4inr,5.061644535811988,False
+5khk,Potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 2,,,,,5khk,1.4920932542769283,True
+4zo5,"cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A",3.1.4.17,Hydrolases.,Acting on ester bonds.,Phosphoric diester hydrolases.,4zo5,3.516716266034447,True
+1gz4,NAD-DEPENDENT MALIC ENZYME,1.1.1.40,Oxidoreductases.,Acting on the CH-OH group of donors.,With NAD(+) or NADP(+) as acceptor.,1gz4,2.8711948027665533,True
+1fv9,UROKINASE,3.4.21.73,Hydrolases.,Acting on peptide bonds (peptidases).,Serine endopeptidases.,1fv9,1.4063205785572131e-05,True
+4hcz,H3L-like histone,,,,,4hcz,8.376837505764543,False
+1f5k,UROKINASE-TYPE PLASMINOGEN ACTIVATOR,3.4.21.73,Hydrolases.,Acting on peptide bonds (peptidases).,Serine endopeptidases.,1f5k,1.0422997258607676,True
+1e34,ELASTASE,3.4.21.36,Hydrolases.,Acting on peptide bonds (peptidases).,Serine endopeptidases.,1e34,3.639941809215137,True
+1dhi,DIHYDROFOLATE REDUCTASE,1.5.1.3,Oxidoreductases.,Acting on the CH-NH group of donors.,With NAD(+) or NADP(+) as acceptor.,1dhi,2.201747546184885,True
+1dfo,SERINE HYDROXYMETHYLTRANSFERASE,2.1.2.1,Transferases.,Transferring one-carbon groups.,"Hydroxymethyl-, formyl- and related transferases.",1dfo,2.7461238898177243,True
+1d4h,HIV-1 PROTEASE,3.4.23.16,Hydrolases.,Acting on peptide bonds (peptidases).,Aspartic endopeptidases.,1d4h,4.719371249727302,False
+1bn4,CARBONIC ANHYDRASE,4.2.1.1,Lyases.,Carbon-oxygen lyases.,Hydro-lyases.,1bn4,1.8439809284117008,True
+1aj7,IMMUNOGLOBULIN 48G7 FAB (LIGHT CHAIN),,,,,1aj7,0.9992202533587378,True
+3d7h,Glutamate carboxypeptidase 2,3.4.17.21,Hydrolases.,Acting on peptide bonds (peptidases).,Metallocarboxypeptidases.,3d7h,2.0939349334703117,False
+3d50,Alpha-mannosidase 2,3.2.1.114,Hydrolases.,Glycosylases.,"Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl compounds.",3d50,2.295685308801516,True
+3cjo,Kinesin-like protein KIF11,,,,,3cjo,2.468641712655022,True
+3cgf,Mitogen-activated protein kinase 10,2.7.11.24,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,3cgf,2.0930815483061846,True
+4p4f,Glutamate carboxypeptidase 2,3.4.17.21,Hydrolases.,Acting on peptide bonds (peptidases).,Metallocarboxypeptidases.,4p4f,2.094848508803802,True
+4p4j,Glutamate carboxypeptidase 2,3.4.17.21,Hydrolases.,Acting on peptide bonds (peptidases).,Metallocarboxypeptidases.,4p4j,3.949342096574764,False
+4nyf,Integrase,2.7.7,Transferases.,Transferring phosphorus-containing groups.,Nucleotidyltransferases.,4nyf,1.1478752665097858,True
+4o0v,Serine/threonine-protein kinase PAK 4,2.7.11.1,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,4o0v,1.5284015274900895,True
+4ngt,Glutamate carboxypeptidase 2,3.4.17.21,Hydrolases.,Acting on peptide bonds (peptidases).,Metallocarboxypeptidases.,4ngt,5.634029642799178,False
+3v5j,Tyrosine-protein kinase ITK/TSK,2.7.10.2,Transferases.,Transferring phosphorus-containing groups.,Protein-tyrosine kinases.,3v5j,3.2314423344338463,True
+3rbu,Glutamate carboxypeptidase 2,3.4.17.21,Hydrolases.,Acting on peptide bonds (peptidases).,Metallocarboxypeptidases.,3rbu,1.5496341160754072,True
+4azp,"FATTY ACID-BINDING PROTEIN, EPIDERMAL",,,,,4azp,3.7959116830024,False
+3ws9,"cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A",3.1.4.17,Hydrolases.,Acting on ester bonds.,Phosphoric diester hydrolases.,3ws9,2.1455207198837267,True
+3ws8,"cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A",3.1.4.17,Hydrolases.,Acting on ester bonds.,Phosphoric diester hydrolases.,3ws8,2.4567744538966902,True
+4ej8,Protease,3.4.23.16,Hydrolases.,Acting on peptide bonds (peptidases).,Aspartic endopeptidases.,4ej8,0.14099487206119116,True
+4eoh,Pyridoxal Kinase,2.7.1.35,Transferases.,Transferring phosphorus-containing groups.,Phosphotransferases with an alcohol group as acceptor.,4eoh,0.00013561379814732382,True
+2xef,GLUTAMATE CARBOXYPEPTIDASE 2,3.4.17.21,Hydrolases.,Acting on peptide bonds (peptidases).,Metallocarboxypeptidases.,2xef,7.0253745786719275,False
+5d29,Glutamate carboxypeptidase 2,3.4.17.21,Hydrolases.,Acting on peptide bonds (peptidases).,Metallocarboxypeptidases.,5d29,2.010414250232701,True
+5bry,Protease,3.4.23.16,Hydrolases.,Acting on peptide bonds (peptidases).,Aspartic endopeptidases.,5bry,5.145200153416677,False
+5b4l,"cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A",3.1.4.17,Hydrolases.,Acting on ester bonds.,Phosphoric diester hydrolases.,5b4l,4.7123634360296895,True
+5c2a,"cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A",3.1.4.17,Hydrolases.,Acting on ester bonds.,Phosphoric diester hydrolases.,5c2a,1.49877786590554,True
+5akj,BIFUNCTIONAL EPOXIDE HYDROLASE 2,3.3.2.10,Hydrolases.,Acting on ether bonds.,Ether hydrolases.,5akj,1.24652253632724,True
+2fzk,Aspartate carbamoyltransferase catalytic chain,2.1.3.2,Transferases.,Transferring one-carbon groups.,Carboxy- and carbamoyltransferases.,2fzk,2.102556399060144,True
+1k6t,POL polyprotein,3.4.23.16,Hydrolases.,Acting on peptide bonds (peptidases).,Aspartic endopeptidases.,1k6t,3.4388130589578085,False
+1hvk,HIV-1 PROTEASE,3.4.23.16,Hydrolases.,Acting on peptide bonds (peptidases).,Aspartic endopeptidases.,1hvk,5.460639336475042,False
+2jbj,GLUTAMATE CARBOXYPEPTIDASE 2,3.4.17.21,Hydrolases.,Acting on peptide bonds (peptidases).,Metallocarboxypeptidases.,2jbj,1.767704834192671,True
+1fq5,SACCHAROPEPSIN,3.4.23.25,Hydrolases.,Acting on peptide bonds (peptidases).,Aspartic endopeptidases.,1fq5,5.105915839455711,False
+1fq7,SACCHAROPEPSIN,3.4.23.25,Hydrolases.,Acting on peptide bonds (peptidases).,Aspartic endopeptidases.,1fq7,2.6200989644291988,False
+1fpy,GLUTAMINE SYNTHETASE,6.3.1.2,Ligases.,Forming carbon-nitrogen bonds.,Acid--ammonia (or amine) ligases (amide synthases).,1fpy,1.9541721262932104,True
+1exv,LIVER GLYCOGEN PHOSPHORYLASE,2.4.1.1,Transferases.,Glycosyltransferases.,Hexosyltransferases.,1exv,2.379658639440584,False
+5nr7,Thymidylate kinase,2.7.4.9,Transferases.,Transferring phosphorus-containing groups.,Phosphotransferases with a phosphate group as acceptor.,5nr7,2.837041004956224,True
+2pqz,Protease,3.4.23.16,Hydrolases.,Acting on peptide bonds (peptidases).,Aspartic endopeptidases.,2pqz,3.7010526791843468,False
+2pow,Carbonic anhydrase 2,4.2.1.1,Lyases.,Carbon-oxygen lyases.,Hydro-lyases.,2pow,1.0698993503444687,True
+2ow6,Alpha-mannosidase 2,3.2.1.114,Hydrolases.,Glycosylases.,"Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl compounds.",2ow6,3.726251795983023e-05,True
+2nwn,"Plasminogen activator, urokinase",3.4.21.73,Hydrolases.,Acting on peptide bonds (peptidases).,Serine endopeptidases.,2nwn,2.520153992673167,False
+1qiw,CALMODULIN,,,,,1qiw,2.8377210122581564,True
+1rdn,MANNOSE-BINDING PROTEIN-C,,,,,1rdn,1.3013183481517063,True
+1n7m,"Germline Metal Chelatase Catalytic Antibody, chain H",,,,,1n7m,1.3425538391440357,True
+2r5a,Polycomb protein Scm,,,,,2r5a,0.9591268866986092,True
+2r5q,Protease,3.4.23.16,Hydrolases.,Acting on peptide bonds (peptidases).,Aspartic endopeptidases.,2r5q,3.949078279665781,False
+4mf0,Tyrosine-protein kinase ITK/TSK,2.7.10.2,Transferases.,Transferring phosphorus-containing groups.,Protein-tyrosine kinases.,4mf0,1.037561616157665,True
+4mbj,Serine/threonine-protein kinase B-raf,2.7.11.1,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,4mbj,2.2996885945479706,True
+4mao,Ribosomal protein S6 kinase alpha-3,2.7.11.1,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,4mao,2.1635650077887654,True
+4m48,Transporter,,,,,4m48,1.831789099383978,True
+6cki,MAP kinase-interacting serine/threonine-protein kinase 2,2.7.11.1,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,6cki,1.2773911478319329,True
+6cjv,Carbonic anhydrase 2,4.2.1.1,Lyases.,Carbon-oxygen lyases.,Hydro-lyases.,6cjv,2.5482687583871164,True
+4y2v,Bifunctional epoxide hydrolase 2,3.3.2.10,Hydrolases.,Acting on ether bonds.,Ether hydrolases.,4y2v,1.4698106268928082,True
+5mgm,Bromodomain adjacent to zinc finger domain protein 2A,,,,,5mgm,1.5544278981222788,True
+5lj0,ATPase family AAA domain-containing protein 2,3.6.1.3,Hydrolases.,Acting on acid anhydrides.,In phosphorus-containing anhydrides.,5lj0,1.82877126232416,True
+2w8j,SERINE PALMITOYLTRANSFERASE,,,,,2w8j,2.108047217944319,True
+1ydb,CARBONIC ANHYDRASE II,4.2.1.1,Lyases.,Carbon-oxygen lyases.,Hydro-lyases.,1ydb,0.9492255493298006,True
+1x8s,CG5884-PA,,,,,1x8s,8.333078564846376,False
+1xnx,constitutive androstane receptor,,,,,1xnx,8.001776490555966e-06,True
+3m8q,Reverse transcriptase/ribonuclease H,2.7.7.49,Transferases.,Transferring phosphorus-containing groups.,Nucleotidyltransferases.,3m8q,2.9584505763149047,False
+3m8p,Reverse transcriptase/ribonuclease H,2.7.7.49,Transferases.,Transferring phosphorus-containing groups.,Nucleotidyltransferases.,3m8p,1.5222860799617022,True
+3m3x,Carbonic anhydrase 2,4.2.1.1,Lyases.,Carbon-oxygen lyases.,Hydro-lyases.,3m3x,2.269149723081417,True
+3ekp,Protease,3.4.23.16,Hydrolases.,Acting on peptide bonds (peptidases).,Aspartic endopeptidases.,3ekp,3.0831614961945206,False
+3ekx,Protease,3.4.23.16,Hydrolases.,Acting on peptide bonds (peptidases).,Aspartic endopeptidases.,3ekx,3.4509272274552223,False
+3dkj,Nicotinamide phosphoribosyltransferase,2.4.2.12,Transferases.,Glycosyltransferases.,Pentosyltransferases.,3dkj,1.7151112177089831,True
+3kyr,Beta-secretase 1,3.4.23.46,Hydrolases.,Acting on peptide bonds (peptidases).,Aspartic endopeptidases.,3kyr,4.821791355707352,False
+3kc1,"Fructose-1,6-bisphosphatase 1",3.1.3.11,Hydrolases.,Acting on ester bonds.,Phosphoric monoester hydrolases.,3kc1,0.9746314788786014,True
+3fi3,Mitogen-activated protein kinase 10,2.7.11.24,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,3fi3,3.131831320721581,False
+3ew2,rhizavidin,,,,,3ew2,1.2388809366315363,True
+3hdm,Serine/threonine-protein kinase Sgk1,2.7.11.1,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,3hdm,1.4450327362767803,True
+5o07,Carbonic anhydrase 2,4.2.1.1,Lyases.,Carbon-oxygen lyases.,Hydro-lyases.,5o07,1.5451131603301969,False
+6f3g,Interleukin-1 receptor-associated kinase 4,2.7.11.1,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,6f3g,1.120907121655905,True
+6f1x,"7,8-dihydro-8-oxoguanine triphosphatase",3.6.1.55,Hydrolases.,Acting on acid anhydrides.,In phosphorus-containing anhydrides.,6f1x,1.2150358823945393,True
+6c7x,Carbonic anhydrase 2,4.2.1.1,Lyases.,Carbon-oxygen lyases.,Hydro-lyases.,6c7x,2.4274764470258052,True
+5vqs,Reverse transcriptase/ribonuclease H,2.7.7.49,Transferases.,Transferring phosphorus-containing groups.,Nucleotidyltransferases.,5vqs,1.5766388018784308,False
+5v4q,Gamma-glutamyltranspeptidase 1 light chain,3.4.19.13,Hydrolases.,Acting on peptide bonds (peptidases).,Omega peptidases.,5v4q,1.1471213554961035,True
+5txy,Carbonic anhydrase 2,4.2.1.1,Lyases.,Carbon-oxygen lyases.,Hydro-lyases.,5txy,0.026262842570691825,True
+4l4l,Nicotinamide phosphoribosyltransferase,2.4.2.12,Transferases.,Glycosyltransferases.,Pentosyltransferases.,4l4l,5.508916723824703,True
+5hex,Hexokinase-2,2.7.1.1,Transferases.,Transferring phosphorus-containing groups.,Phosphotransferases with an alcohol group as acceptor.,5hex,1.6198925988608297,True
+5enf,PH-interacting protein,,,,,5enf,1.245388347087112,True
+4tz8,ATPase family AAA domain-containing protein 2,3.6.1.3,Hydrolases.,Acting on acid anhydrides.,In phosphorus-containing anhydrides.,4tz8,1.0262212816646106,True
+4tjy,Tankyrase-2,2.4.2.30,Transferases.,Glycosyltransferases.,Pentosyltransferases.,4tjy,0.03456909667084897,True
+4tkj,"Fatty acid-binding protein, heart",,,,,4tkj,3.1220760598753463,False
+4tky,PRO-PHE-ALA-THR-CYS-ASP-SER,,,,,4tky,6.3504942215959765,False
+4qms,Serine/threonine-protein kinase 24,2.7.11.1,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,4qms,2.624873676081958,False
+4q7s,Carbonic anhydrase 2,4.2.1.1,Lyases.,Carbon-oxygen lyases.,Hydro-lyases.,4q7s,0.00010577285302213664,True
+4jbs,Endoplasmic reticulum aminopeptidase 2,3.4.11,Hydrolases.,Acting on peptide bonds (peptidases).,Aminopeptidases.,4jbs,3.406076983998544,False
+4zzx,POLY [ADP-RIBOSE] POLYMERASE 2,2.4.2.30,Transferases.,Glycosyltransferases.,Pentosyltransferases.,4zzx,1.7603011381507512,True
+4zyz,Trifunctional purine biosynthetic protein adenosine-3,2.1.2.2,Transferases.,Transferring one-carbon groups.,"Hydroxymethyl-, formyl- and related transferases.",4zyz,2.2843730818755565,False
+4zyw,Trifunctional purine biosynthetic protein adenosine-3,2.1.2.2,Transferases.,Transferring one-carbon groups.,"Hydroxymethyl-, formyl- and related transferases.",4zyw,2.8025076914477283,True
+4zz2,Trifunctional purine biosynthetic protein adenosine-3,6.3.4.13,Ligases.,Forming carbon-nitrogen bonds.,Other carbon--nitrogen ligases.,4zz2,3.4568127842664755,True
+4zz3,Trifunctional purine biosynthetic protein adenosine-3,6.3.4.13,Ligases.,Forming carbon-nitrogen bonds.,Other carbon--nitrogen ligases.,4zz3,2.4507269596938963,True
+1hiv,HIV-1 PROTEASE,3.4.23.16,Hydrolases.,Acting on peptide bonds (peptidases).,Aspartic endopeptidases.,1hiv,5.6507525365568085,False
+6hdo,ATPase family AAA domain-containing protein 2,3.6.1.3,Hydrolases.,Acting on acid anhydrides.,In phosphorus-containing anhydrides.,6hdo,1.9670376642038816,True
+1bv9,PROTEIN (HIV-1 PROTEASE),3.4.23.16,Hydrolases.,Acting on peptide bonds (peptidases).,Aspartic endopeptidases.,1bv9,4.769436603703714,False
+3c6u,Reverse transcriptase,2.7.7.49,Transferases.,Transferring phosphorus-containing groups.,Nucleotidyltransferases.,3c6u,1.1856256350626655,True
+3c0z,Histone deacetylase 7a,3.5.1.98,Hydrolases.,"Acting on carbon-nitrogen bonds, other than peptide bonds.",In linear amides.,3c0z,0.8008726576125645,True
+5zah,Urokinase-type plasminogen activator chain B,3.4.21.73,Hydrolases.,Acting on peptide bonds (peptidases).,Serine endopeptidases.,5zah,1.0317007655228612,True
+5zag,Urokinase-type plasminogen activator chain B,3.4.21.73,Hydrolases.,Acting on peptide bonds (peptidases).,Serine endopeptidases.,5zag,1.0725371848210776,True
+5za9,Urokinase-type plasminogen activator chain B,3.4.21.73,Hydrolases.,Acting on peptide bonds (peptidases).,Serine endopeptidases.,5za9,1.2143939491264195,True
+5za7,Urokinase-type plasminogen activator chain B,3.4.21.73,Hydrolases.,Acting on peptide bonds (peptidases).,Serine endopeptidases.,5za7,1.769518428724569,True
+4oq6,Induced myeloid leukemia cell differentiation protein Mcl-1,,,,,4oq6,1.1388915473794552,True
+4n9d,Nicotinamide phosphoribosyltransferase,2.4.2.12,Transferases.,Glycosyltransferases.,Pentosyltransferases.,4n9d,5.225524334803594,True
+4mlt,Carbonic anhydrase 2,4.2.1.1,Lyases.,Carbon-oxygen lyases.,Hydro-lyases.,4mlt,0.00014193025061499348,True
+3vyd,Renin,3.4.23.15,Hydrolases.,Acting on peptide bonds (peptidases).,Aspartic endopeptidases.,3vyd,4.790700862206082,True
+3vyf,Renin,3.4.23.15,Hydrolases.,Acting on peptide bonds (peptidases).,Aspartic endopeptidases.,3vyf,1.739294117875804,True
+3v4j,DNA dC->dU-editing enzyme APOBEC-3G,3.5.4,Hydrolases.,"Acting on carbon-nitrogen bonds, other than peptide bonds.",In cyclic amidines.,3v4j,1.1249749927430954,True
+3uqf,Proto-oncogene tyrosine-protein kinase Src,2.7.10.2,Transferases.,Transferring phosphorus-containing groups.,Protein-tyrosine kinases.,3uqf,0.124093044826956,True
+3svv,Proto-oncogene tyrosine-protein kinase Src,2.7.10.2,Transferases.,Transferring phosphorus-containing groups.,Protein-tyrosine kinases.,3svv,1.1724902048636396,True
+3shy,"cGMP-specific 3',5'-cyclic phosphodiesterase",3.1.4.35,Hydrolases.,Acting on ester bonds.,Phosphoric diester hydrolases.,3shy,2.927715536201273,True
+3s9t,Carbonic anhydrase 2,4.2.1.1,Lyases.,Carbon-oxygen lyases.,Hydro-lyases.,3s9t,1.784199670118089,True
+3s2o,Beta-secretase 1,3.4.23.46,Hydrolases.,Acting on peptide bonds (peptidases).,Aspartic endopeptidases.,3s2o,2.111784635387723,True
+4bh4,HEMAGGLUTININ,,,,,4bh4,2.878015133835897,True
+4gj8,Renin,3.4.23.15,Hydrolases.,Acting on peptide bonds (peptidases).,Aspartic endopeptidases.,4gj8,3.643652178873919,True
+4fic,Proto-oncogene tyrosine-protein kinase Src,2.7.10.2,Transferases.,Transferring phosphorus-containing groups.,Protein-tyrosine kinases.,4fic,0.0266026049661717,True
+4ehg,Serine/threonine-protein kinase B-raf,2.7.11.1,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,4ehg,1.5485516811167608,True
+4e4a,Carbonic anhydrase 2,4.2.1.1,Lyases.,Carbon-oxygen lyases.,Hydro-lyases.,4e4a,0.39272755509689056,True
+4e1n,HIV-1 integrase,3.4.23.16,Hydrolases.,Acting on peptide bonds (peptidases).,Aspartic endopeptidases.,4e1n,1.9439785558156744,True
+4dgg,Proto-oncogene tyrosine-protein kinase Src,2.7.10.2,Transferases.,Transferring phosphorus-containing groups.,Protein-tyrosine kinases.,4dgg,1.4897716833595718,True
+4cqe,SLC45A3-BRAF FUSION PROTEIN,2.7.11.1,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,4cqe,1.7237777316763951,False
+4cq0,CARBONIC ANHYDRASE 2,4.2.1.1,Lyases.,Carbon-oxygen lyases.,Hydro-lyases.,4cq0,7.02420016513427e-05,True
+2wxl,"PHOSPHATIDYLINOSITOL-4,5-BISPHOSPHATE 3-KINASE CATALYTIC SUBUNIT DELTA ISOFORM",2.7.1.153,Transferases.,Transferring phosphorus-containing groups.,Phosphotransferases with an alcohol group as acceptor.,2wxl,2.8355798531615,True
+2wos,PROTEIN S100-A7,,,,,2wos,1.5696856903376024,True
+5cep,Mitogen-activated protein kinase kinase kinase 12,2.7.11.25,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,5cep,1.228402368621144,True
+1p4u,ADP-ribosylation factor binding protein GGA3,,,,,1p4u,6.382238608449657,False
+2fde,Gag-Pol polyprotein,3.4.23.16,Hydrolases.,Acting on peptide bonds (peptidases).,Aspartic endopeptidases.,2fde,3.3804261633688766,False
+2m41,Protein capicua homolog,,,,,2m41,6.431499786516057,False
+1fpp,PROTEIN FARNESYLTRANSFERASE,2.5.1,Transferases.,"Transferring alkyl or aryl groups, other than methyl groups.","Transferring alkyl or aryl groups, other than methyl groups.",1fpp,2.7610247341086347,False
+6ebe,Carbonic anhydrase 2,4.2.1.1,Lyases.,Carbon-oxygen lyases.,Hydro-lyases.,6ebe,1.2472267968126287,True
+6dzq,Polymerase acidic protein,3.1,Hydrolases.,Acting on ester bonds.,,6dzq,0.7814420843995337,True
+5wei,Polymerase acidic protein,3.1,Hydrolases.,Acting on ester bonds.,,5wei,0.8260854789347579,True
+2p8h,Beta-secretase 1,3.4.23.46,Hydrolases.,Acting on peptide bonds (peptidases).,Aspartic endopeptidases.,2p8h,4.283118862956935,False
+2o4k,protease,3.4.23.16,Hydrolases.,Acting on peptide bonds (peptidases).,Aspartic endopeptidases.,2o4k,2.5949364635488843,False
+1qbr,HIV-1 PROTEASE,3.4.23.16,Hydrolases.,Acting on peptide bonds (peptidases).,Aspartic endopeptidases.,1qbr,5.9388141374264825,False
+6c0n,Reverse transcriptase/ribonuclease H,2.7.7.49,Transferases.,Transferring phosphorus-containing groups.,Nucleotidyltransferases.,6c0n,1.4534228612807296,True
+6c0t,cGMP-dependent protein kinase 1,2.7.11.12,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,6c0t,2.2930605490792177,False
+1s63,Protein farnesyltransferase/geranylgeranyltransferase type I alpha subunit,2.5.1.58,Transferases.,"Transferring alkyl or aryl groups, other than methyl groups.","Transferring alkyl or aryl groups, other than methyl groups.",1s63,1.66924711788894,True
+2f80,POL POLYPROTEIN,3.4.23.16,Hydrolases.,Acting on peptide bonds (peptidases).,Aspartic endopeptidases.,2f80,5.068208882122296,False
+2f6j,bromodomain PHD finger transcription factor,,,,,2f6j,6.23070284340491,False
+5cuq,Nonstructural protein NS5,3.4.21.91,Hydrolases.,Acting on peptide bonds (peptidases).,Serine endopeptidases.,5cuq,2.2090295879789736,True
+1xlx,"cAMP-specific 3',5'-cyclic phosphodiesterase 4B",3.1.4.17,Hydrolases.,Acting on ester bonds.,Phosphoric diester hydrolases.,1xlx,1.928728755746064,True
+1xlz,"cAMP-specific 3',5'-cyclic phosphodiesterase 4B",3.1.4.17,Hydrolases.,Acting on ester bonds.,Phosphoric diester hydrolases.,1xlz,1.8256764885354366,True
+1v41,Purine nucleoside phosphorylase,2.4.2.1,Transferases.,Glycosyltransferases.,Pentosyltransferases.,1v41,4.098883699477423e-05,True
+2bz8,SH3-DOMAIN KINASE BINDING PROTEIN 1,,,,,2bz8,9.376880153121872,False
+5j3v,"Transportin-1,Transportin-1",,,,,5j3v,9.392942823410458,False
+3nsh,Beta-secretase 1,3.4.23.46,Hydrolases.,Acting on peptide bonds (peptidases).,Aspartic endopeptidases.,3nsh,1.6594922767739777,False
+3lmk,Metabotropic glutamate receptor 5,,,,,3lmk,1.8980989789420903,True
+3f0r,Histone deacetylase 8,3.5.1.98,Hydrolases.,"Acting on carbon-nitrogen bonds, other than peptide bonds.",In linear amides.,3f0r,1.5530201021166217,True
+2wf2,BETA-SECRETASE 1,3.4.23.46,Hydrolases.,Acting on peptide bonds (peptidases).,Aspartic endopeptidases.,2wf2,4.27151434180581,False
+2viz,BETA-SECRETASE 1,3.4.23.46,Hydrolases.,Acting on peptide bonds (peptidases).,Aspartic endopeptidases.,2viz,3.4980877902908527,False
+3ine,Beta-secretase 1,3.4.23.46,Hydrolases.,Acting on peptide bonds (peptidases).,Aspartic endopeptidases.,3ine,1.4009809640347195,True
+5t4f,Dipeptidyl peptidase 4,3.4.14.5,Hydrolases.,Acting on peptide bonds (peptidases).,Dipeptidyl-peptidases and tripeptidyl-peptidases.,5t4f,0.7690630485822418,True
+5vdp,Cyclic GMP-AMP synthase,2.7.7.86,Transferases.,Transferring phosphorus-containing groups.,Nucleotidyltransferases.,5vdp,3.470125747104303,True
+5vdw,Cyclic GMP-AMP synthase,2.7.7.86,Transferases.,Transferring phosphorus-containing groups.,Nucleotidyltransferases.,5vdw,0.9482667080124364,True
+5hdu,Beta-secretase 1,3.4.23.46,Hydrolases.,Acting on peptide bonds (peptidases).,Aspartic endopeptidases.,5hdu,2.0070042727242656,True
+5f00,Beta-secretase 1,3.4.23.46,Hydrolases.,Acting on peptide bonds (peptidases).,Aspartic endopeptidases.,5f00,0.5457821643429389,True
+5ehy,Dual specificity protein kinase TTK,2.7.12.1,Transferases.,Transferring phosphorus-containing groups.,Dual-specificity kinases (those acting on Ser/Thr and Tyr residues).,5ehy,0.6126522678870471,True
+5ei2,Dual specificity protein kinase TTK,2.7.12.1,Transferases.,Transferring phosphorus-containing groups.,Dual-specificity kinases (those acting on Ser/Thr and Tyr residues).,5ei2,0.23939757585265545,True
+5dp9,3C proteinase,3.4.22.29,Hydrolases.,Acting on peptide bonds (peptidases).,Cysteine endopeptidases.,5dp9,3.2379196310564415,False
+4rn2,Histone deacetylase 8,3.5.1.98,Hydrolases.,"Acting on carbon-nitrogen bonds, other than peptide bonds.",In linear amides.,4rn2,2.6765524025568688,True
+4jpe,Beta-secretase 1,3.4.23.46,Hydrolases.,Acting on peptide bonds (peptidases).,Aspartic endopeptidases.,4jpe,1.6578120708917516,True
+4hw3,Induced myeloid leukemia cell differentiation protein Mcl-1,,,,,4hw3,1.7675913697439374,True
+4i0f,Beta-secretase 1,3.4.23.46,Hydrolases.,Acting on peptide bonds (peptidases).,Aspartic endopeptidases.,4i0f,2.7318000849758493,True
+4i12,Beta-secretase 1,3.4.23.46,Hydrolases.,Acting on peptide bonds (peptidases).,Aspartic endopeptidases.,4i12,3.592162806375286,True
+4hbn,Potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 4,,,,,4hbn,1.6178077895048226,True
+1a85,MMP-8,3.4.24.34,Hydrolases.,Acting on peptide bonds (peptidases).,Metalloendopeptidases.,1a85,3.0371517128594716,False
+1a0q,29G11 FAB (LIGHT CHAIN),,,,,1a0q,2.5280799318951934,False
+3dv1,Beta-secretase 1,3.4.23.46,Hydrolases.,Acting on peptide bonds (peptidases).,Aspartic endopeptidases.,3dv1,2.1066849248653683,True
+3drs,Reverse transcriptase/ribonuclease H,2.7.7.49,Transferases.,Transferring phosphorus-containing groups.,Nucleotidyltransferases.,3drs,2.3904427955581604,True
+3ckr,Beta-secretase 1,3.4.23.46,Hydrolases.,Acting on peptide bonds (peptidases).,Aspartic endopeptidases.,3ckr,4.1110469321834655,False
+6b4u,Induced myeloid leukemia cell differentiation protein Mcl-1,,,,,6b4u,2.069800264574407,False
+4os1,Urokinase-type plasminogen activator,3.4.21.73,Hydrolases.,Acting on peptide bonds (peptidases).,Serine endopeptidases.,4os1,2.583359779599994,False
+4o9s,Retinol-binding protein 4,,,,,4o9s,1.5749180432254566,True
+4nw7,"cAMP-specific 3',5'-cyclic phosphodiesterase 4B",3.1.4.17,Hydrolases.,Acting on ester bonds.,Phosphoric diester hydrolases.,4nw7,1.131930691899724,True
+4n9e,Nicotinamide phosphoribosyltransferase,2.4.2.12,Transferases.,Glycosyltransferases.,Pentosyltransferases.,4n9e,2.3119013218708395,True
+3tdc,Acetyl-CoA carboxylase 2 variant,6.4.1.2,Ligases.,Forming carbon-carbon bonds.,Forming carbon-carbon bonds.,3tdc,2.5902932125400584,True
+3rjw,Histone-lysine N-methyltransferase EHMT2,2.1.1.43,Transferases.,Transferring one-carbon groups.,Methyltransferases.,3rjw,3.278892555372352,False
+4bkj,EPITHELIAL DISCOIDIN DOMAIN-CONTAINING RECEPTOR 1,2.7.10.1,Transferases.,Transferring phosphorus-containing groups.,Protein-tyrosine kinases.,4bkj,1.475370780942625,True
+4bd3,PHD FINGER PROTEIN 19,,,,,4bd3,7.1300477528296415,False
+4dwk,Insulin-degrading enzyme,3.4.24.56,Hydrolases.,Acting on peptide bonds (peptidases).,Metalloendopeptidases.,4dwk,2.9257827625885535,False
+4djx,Beta-secretase 1,3.4.23.46,Hydrolases.,Acting on peptide bonds (peptidases).,Aspartic endopeptidases.,4djx,0.4128449640530024,True
+4crl,CYCLIN-DEPENDENT KINASE 8,2.7.11.22,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,4crl,1.0030960867388707,True
+4cli,ALK TYROSINE KINASE RECEPTOR,2.7.10.1,Transferases.,Transferring phosphorus-containing groups.,Protein-tyrosine kinases.,4cli,2.2232409989102116e-05,True
+2wxh,"PHOSPHATIDYLINOSITOL-4,5-BISPHOSPHATE 3-KINASE CATALYTIC SUBUNIT DELTA ISOFORM",2.7.1.153,Transferases.,Transferring phosphorus-containing groups.,Phosphotransferases with an alcohol group as acceptor.,2wxh,1.4199801499101814,True
+5aux,Death-associated protein kinase 1,2.7.11.1,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,5aux,0.990893239917196,True
+5bqh,Prostaglandin E synthase,5.3.99.3,Isomerases.,Intramolecular oxidoreductases.,Other intramolecular oxidoreductases.,5bqh,3.0481174286802912,True
+1om2,PROTEIN (MITOCHONDRIAL IMPORT RECEPTOR SUBUNIT TOM20),,,,,1om2,6.294972878688331,False
+2i5j,Reverse transcriptase/ribonuclease H P66 subunit,2.7.7.49,Transferases.,Transferring phosphorus-containing groups.,Nucleotidyltransferases.,2i5j,1.5136178777544462,True
+2hha,Hypothetical protein DPP4,3.4.14.5,Hydrolases.,Acting on peptide bonds (peptidases).,Dipeptidyl-peptidases and tripeptidyl-peptidases.,2hha,1.6397153800390916,True
+1fpi,"FRUCTOSE-1,6-BISPHOSPHATASE",3.1.3.11,Hydrolases.,Acting on ester bonds.,Phosphoric monoester hydrolases.,1fpi,2.2241344478177987,True
+2ohm,Beta-secretase 1,3.4.23.46,Hydrolases.,Acting on peptide bonds (peptidases).,Aspartic endopeptidases.,2ohm,1.3694151134195591,True
+2oah,Beta-secretase 1,3.4.23.46,Hydrolases.,Acting on peptide bonds (peptidases).,Aspartic endopeptidases.,2oah,1.948438634117421,False
+2qzl,Beta-secretase 1,3.4.23.46,Hydrolases.,Acting on peptide bonds (peptidases).,Aspartic endopeptidases.,2qzl,3.610582751388832,False
+5mhp,Ectonucleotide pyrophosphatase/phosphodiesterase family member 2,3.1.4.39,Hydrolases.,Acting on ester bonds.,Phosphoric diester hydrolases.,5mhp,3.721504520992992,True
+2b5j,Reverse transcriptase P66 SUBUNIT,2.7.7.49,Transferases.,Transferring phosphorus-containing groups.,Nucleotidyltransferases.,2b5j,0.6628897656040478,True
+3nf9,Integrase,3.4.23.16,Hydrolases.,Acting on peptide bonds (peptidases).,Aspartic endopeptidases.,3nf9,1.296565833805029,True
+3pa3,Serine/threonine-protein kinase Chk1,2.7.11.1,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,3pa3,1.5722687355182088,True
+3ehx,Macrophage metalloelastase,3.4.24.65,Hydrolases.,Acting on peptide bonds (peptidases).,Metalloendopeptidases.,3ehx,1.3607951227604809,True
+2xxt,"GLUTAMATE RECEPTOR, IONOTROPIC KAINATE 2",,,,,2xxt,1.6837721738490117,True
+2v8w,EUKARYOTIC TRANSLATION INITIATION FACTOR 4E,,,,,2v8w,2.099813917703577,False
+3ggc,Hypoxanthine-guanine phosphoribosyltransferase,2.4.2.8,Transferases.,Glycosyltransferases.,Pentosyltransferases.,3ggc,1.0906665586126,True
+3bgq,Proto-oncogene serine/threonine-protein kinase Pim-1,2.7.11.1,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,3bgq,1.559345729424662,True
+3at4,Casein kinase II subunit alpha,2.7.11.1,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,3at4,1.1223290373433332,True
+3hb8,Thymidylate synthase,2.1.1.45,Transferases.,Transferring one-carbon groups.,Methyltransferases.,3hb8,1.4687127587776452,True
+5ueu,Bromodomain-containing protein 4,,,,,5ueu,0.2757125360453177,True
+5u7m,Envelope glycoprotein gp160,,,,,5u7m,2.37280662085714,True
+5ti4,Bromodomain-containing protein 4,,,,,5ti4,1.0244624988070388,True
+5eie,Acetylcholinesterase,3.1.1.7,Hydrolases.,Acting on ester bonds.,Carboxylic ester hydrolases.,5eie,1.9717173016445568,True
+4uiz,BROMODOMAIN-CONTAINING PROTEIN 4,,,,,4uiz,1.672909637931126,True
+4r02,Proteasome subunit alpha type-2,3.4.25.1,Hydrolases.,Acting on peptide bonds (peptidases).,Threonine endopeptidases.,4r02,4.277590870727232,False
+4r0a,Toll-like receptor 8,,,,,4r0a,1.5588048255194742,True
+5h21,Bromodomain-containing protein 4,,,,,5h21,2.482610762703377,False
+5fxq,INSULIN-LIKE GROWTH FACTOR 1 RECEPTOR,2.7.10.1,Transferases.,Transferring phosphorus-containing groups.,Protein-tyrosine kinases.,5fxq,1.4704142148842378,True
+4jx7,Serine/threonine-protein kinase pim-1,2.7.11.1,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,4jx7,1.2890523070361894,True
+5khx,Tyrosine-protein kinase JAK1,2.7.10.2,Transferases.,Transferring phosphorus-containing groups.,Protein-tyrosine kinases.,5khx,1.5606368501122183,True
+5k0m,Polycomb protein EED,,,,,5k0m,2.125723322815084,True
+4xh6,Serine/threonine-protein kinase pim-1,2.7.11.1,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,4xh6,0.23824026076888044,True
+4wrq,14-3-3 protein zeta/delta,,,,,4wrq,4.017532702263919,False
+4uxq,FIBROBLAST GROWTH FACTOR RECEPTOR 4,2.7.10.1,Transferases.,Transferring phosphorus-containing groups.,Protein-tyrosine kinases.,4uxq,2.3134897448623164,True
+1ibc,INTERLEUKIN-1BETA CONVERTING ENZYME,3.4.22.36,Hydrolases.,Acting on peptide bonds (peptidases).,Cysteine endopeptidases.,1ibc,3.893880323711946,False
+6g86,Tyrosine-protein phosphatase CDC14,3.1.3.48,Hydrolases.,Acting on ester bonds.,Phosphoric monoester hydrolases.,6g86,7.361172500668965,False
+4hnf,Casein kinase I isoform delta,2.7.11.1,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,4hnf,1.1125768012212391,True
+1eld,ELASTASE,3.4.21.36,Hydrolases.,Acting on peptide bonds (peptidases).,Serine endopeptidases.,1eld,4.21334967345379,False
+3bwf,Proto-oncogene serine/threonine-protein kinase Pim-1,2.7.11.1,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,3bwf,1.6534874155318233,True
+4nuf,"Maltose ABC transporter periplasmic protein, Nuclear receptor subfamily 0 group B member 2 chimeric construct",,,,,4nuf,7.248145197447194,False
+4nnw,Proteasome subunit alpha type-2,,,,,4nnw,2.6502682989461186,False
+3vc4,Serine/threonine-protein kinase pim-1,2.7.11.1,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,3vc4,2.03774080584729,True
+3sjo,3C protease,3.4.22.28,Hydrolases.,Acting on peptide bonds (peptidases).,Cysteine endopeptidases.,3sjo,3.690538288851873,False
+3r6g,Caspase-2 subunit p18,3.4.22.55,Hydrolases.,Acting on peptide bonds (peptidases).,Cysteine endopeptidases.,3r6g,2.5432247943031068,False
+4azy,BETA-SECRETASE 1,3.4.23.46,Hydrolases.,Acting on peptide bonds (peptidases).,Aspartic endopeptidases.,4azy,0.8845466568494936,True
+4aua,CYCLIN-DEPENDENT KINASE 6,2.7.11.22,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,4aua,0.222208057628893,True
+3zov,BETA-SECRETASE 1,3.4.23.46,Hydrolases.,Acting on peptide bonds (peptidases).,Aspartic endopeptidases.,3zov,1.2957605015893658,True
+4gm8,WD repeat-containing protein 5,,,,,4gm8,4.7006729620300165,False
+4fgt,Thymidylate synthase,2.1.1.45,Transferases.,Transferring one-carbon groups.,Methyltransferases.,4fgt,4.4885290807947165,False
+4epy,GTPase KRas,3.6.5.2,Hydrolases.,Acting on acid anhydrides.,Acting on GTP; involved in cellular and subcellular movement.,4epy,2.012856207346128,True
+4dv9,Beta-secretase 1,3.4.23.46,Hydrolases.,Acting on peptide bonds (peptidases).,Aspartic endopeptidases.,4dv9,7.521981716363043,False
+4e4l,Tyrosine-protein kinase JAK1,2.7.10.2,Transferases.,Transferring phosphorus-containing groups.,Protein-tyrosine kinases.,4e4l,1.275443409123609,True
+2xkf,SERINE/THREONINE-PROTEIN KINASE NEK2,2.7.11.1,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,2xkf,0.7795752082887266,True
+2xk6,SERINE/THREONINE-PROTEIN KINASE NEK2,2.7.11.1,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,2xk6,0.7548070865582096,True
+2vsl,BACULOVIRAL IAP REPEAT-CONTAINING PROTEIN 4,6.3.2,Ligases.,Forming carbon-nitrogen bonds.,Acid--amino-acid ligases (peptide synthases).,2vsl,4.0364809068660685,False
+5d3c,Macrophage metalloelastase,3.4.24.65,Hydrolases.,Acting on peptide bonds (peptidases).,Metalloendopeptidases.,5d3c,3.602093803357334,False
+5c0k,E3 ubiquitin-protein ligase XIAP,6.3.2,Ligases.,Forming carbon-nitrogen bonds.,Acid--amino-acid ligases (peptide synthases).,5c0k,1.5320262494309247,True
+1ov3,Neutrophil cytosol factor 1,,,,,1ov3,7.1585885362689785,False
+1o3p,Urokinase-type plasminogen activator,3.4.21.73,Hydrolases.,Acting on peptide bonds (peptidases).,Serine endopeptidases.,1o3p,1.2602875244643117,True
+2g6q,Inhibitor of growth protein 2,,,,,2g6q,7.456393992232507,False
+1hvy,THYMIDYLATE SYNTHASE,2.1.1.45,Transferases.,Transferring one-carbon groups.,Methyltransferases.,1hvy,2.2148470930445594,True
+6edr,ADP-ribosyl cyclase/cyclic ADP-ribose hydrolase 1,3.2.2.6,Hydrolases.,Glycosylases.,Hydrolyzing N-glycosyl compounds.,6edr,3.527183422481569,False
+6dxg,Stimulator of interferon protein,,,,,6dxg,3.1673407595105862,True
+5vwk,Beta-PIX,,,,,5vwk,5.788677802346691,False
+4rdn,YTH domain-containing family protein 2,,,,,4rdn,1.2114705265097714,True
+4qvm,Proteasome subunit alpha type-6,3.4.25.1,Hydrolases.,Acting on peptide bonds (peptidases).,Threonine endopeptidases.,4qvm,2.192442097722898,False
+4qvq,Proteasome subunit alpha type-5,3.4.25.1,Hydrolases.,Acting on peptide bonds (peptidases).,Threonine endopeptidases.,4qvq,2.8205303851435866,False
+5ntk,Nuclear receptor ROR-gamma,,,,,5ntk,7.228418898260107,False
+2pbw,"Glutamate receptor, ionotropic kainate 1",,,,,2pbw,2.894430716964575,True
+2oh0,"cAMP-dependent protein kinase, alpha-catalytic subunit",2.7.11.11,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,2oh0,2.4772609982747364,True
+2o64,Proto-oncogene serine/threonine-protein kinase Pim-1,2.7.11.1,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,2o64,1.3875098894764593,True
+1q4x,Thyroid hormone receptor beta-1,,,,,1q4x,1.224503254635294,True
+1rzx,CG5884-PA,,,,,1rzx,5.6485857706815406,False
+2f34,"GLUTAMATE RECEPTOR, IONOTROPIC KAINATE 1",,,,,2f34,2.9177445063601253,True
+4lte,Insulin-degrading enzyme,3.4.24.56,Hydrolases.,Acting on peptide bonds (peptidases).,Metalloendopeptidases.,4lte,4.113620828379976,False
+5l6o,Ephrin type-B receptor 3,2.7.10.1,Transferases.,Transferring phosphorus-containing groups.,Protein-tyrosine kinases.,5l6o,1.0862299742378878,True
+3zmg,BETA-SECRETASE 1,3.4.23.46,Hydrolases.,Acting on peptide bonds (peptidases).,Aspartic endopeptidases.,3zmg,1.2825742863002612,True
+1w70,NEUTROPHIL CYTOSOL FACTOR 1,,,,,1w70,1.1353836909510029,True
+1uze,ANGIOTENSIN CONVERTING ENZYME,3.2.1,Hydrolases.,Glycosylases.,"Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl compounds.",1uze,2.948620408612012,False
+3ove,Growth factor receptor-bound protein 2,,,,,3ove,2.949888561442855,False
+2v88,VDJ RECOMBINATION-ACTIVATING PROTEIN 2,,,,,2v88,7.030222055007028,False
+2v83,VDJ RECOMBINATION-ACTIVATING PROTEIN 2,,,,,2v83,7.166688469287004,False
+3pj3,Tyrosine-protein kinase BTK,2.7.10.2,Transferases.,Transferring phosphorus-containing groups.,Protein-tyrosine kinases.,3pj3,1.8595190760467024,False
+5nka,Ephrin type-A receptor 2,2.7.10.1,Transferases.,Transferring phosphorus-containing groups.,Protein-tyrosine kinases.,5nka,2.68484878698466,True
+5nkg,Ephrin type-A receptor 2,2.7.10.1,Transferases.,Transferring phosphorus-containing groups.,Protein-tyrosine kinases.,5nkg,3.3799151191368964,False
+6eqw,Furin,3.4.21.75,Hydrolases.,Acting on peptide bonds (peptidases).,Serine endopeptidases.,6eqw,4.855240096643604,False
+5oq5,Serine/threonine-protein kinase Chk1,2.7.11.1,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,5oq5,3.126895976000437,True
+5ya5,Hepatocyte growth factor receptor,2.7.10.1,Transferases.,Transferring phosphorus-containing groups.,Protein-tyrosine kinases.,5ya5,1.35682326862454,True
+5u7l,"cGMP-dependent 3',5'-cyclic phosphodiesterase",3.1.4.17,Hydrolases.,Acting on ester bonds.,Phosphoric diester hydrolases.,5u7l,1.10453106629808,True
+5trj,RNA-DEPENDENT RNA POLYMERASE,2.7.7.48,Transferases.,Transferring phosphorus-containing groups.,Nucleotidyltransferases.,5trj,2.9692240583138005,False
+4li7,Tankyrase-1,2.4.2.30,Transferases.,Glycosyltransferases.,Pentosyltransferases.,4li7,4.203946797450015,True
+5he1,Beta-adrenergic receptor kinase 1,2.7.11.15,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,5he1,4.720112326558307,False
+5f5z,Bromodomain-containing protein 4,,,,,5f5z,1.881877379856244,False
+4ps7,"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit gamma isoform",2.7.11.1,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,4ps7,1.0929735296032363,True
+5fdz,Histone acetyltransferase KAT2B,2.3.1.48,Transferases.,Acyltransferases.,Transferring groups other than amino-acyl groups.,5fdz,2.9523691180052447,False
+5g45,NUCLEAR RECEPTOR ROR-GAMMA,,,,,5g45,4.46583732186668e-05,True
+4kbi,HCV Polymerase,2.7.7.48,Transferases.,Transferring phosphorus-containing groups.,Nucleotidyltransferases.,4kbi,4.197843227688682,False
+4jmh,Clamp Shc1_pY239/240,,,,,4jmh,6.1915083734898495,False
+4jai,Aurora kinase A,2.7.11.1,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,4jai,0.4536204981932549,True
+5jjr,Genome polyprotein,3.4.21.91,Hydrolases.,Acting on peptide bonds (peptidases).,Serine endopeptidases.,5jjr,4.871578084651229,True
+5ive,Lysine-specific demethylase 5A,1.14.11,Oxidoreductases.,"Acting on paired donors, with incorporation or reduction of molecular oxygen. The oxygen incorporated need not be derived from O(2).","With 2-oxoglutarate as one donor, and incorporation of one atom each of oxygen into both donors.",5ive,0.0355933659135592,True
+5a0c,NEUTROPHIL ELASTASE,3.4.21.37,Hydrolases.,Acting on peptide bonds (peptidases).,Serine endopeptidases.,5a0c,1.1193155260781251,True
+4xmo,Hepatocyte growth factor receptor,2.7.10.1,Transferases.,Transferring phosphorus-containing groups.,Protein-tyrosine kinases.,4xmo,0.7076575858155543,True
+4uy1,GROUP 10 SECRETORY PHOSPHOLIPASE A2,3.1.1.4,Hydrolases.,Acting on ester bonds.,Carboxylic ester hydrolases.,4uy1,0.6099442984915044,True
+1h1b,LEUKOCYTE ELASTASE,3.4.21.37,Hydrolases.,Acting on peptide bonds (peptidases).,Serine endopeptidases.,1h1b,2.6778604316482673,True
+6hjj,Aurora kinase A,2.7.11.1,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,6hjj,4.498979968008015,False
+4hvb,"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit gamma isoform",2.7.11.1,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,4hvb,1.373357817089091,True
+3dda,Synaptosomal-associated protein 25,,,,,3dda,4.4873851523872,False
+3ctj,Hepatocyte growth factor receptor,2.7.10.1,Transferases.,Transferring phosphorus-containing groups.,Protein-tyrosine kinases.,3ctj,1.4646419422515082,False
+3cst,"Phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit gamma isoform",2.7.11.1,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,3cst,1.7113233028434809,True
+3bym,Proto-oncogene tyrosine-protein kinase LCK,2.7.10.2,Transferases.,Transferring phosphorus-containing groups.,Protein-tyrosine kinases.,3bym,0.9435450550518816,True
+3br9,RNA-directed RNA polymerase,2.7.7.48,Transferases.,Transferring phosphorus-containing groups.,Nucleotidyltransferases.,3br9,1.4454232679856682,True
+6ar2,Sarcolemmal membrane-associated protein,,,,,6ar2,6.617757577976711,False
+4n4v,Tankyrase-1,2.4.2.30,Transferases.,Glycosyltransferases.,Pentosyltransferases.,4n4v,1.5536425734680863,True
+4mq2,Dual specificity tyrosine-phosphorylation-regulated kinase 1A,2.7.12.1,Transferases.,Transferring phosphorus-containing groups.,Dual-specificity kinases (those acting on Ser/Thr and Tyr residues).,4mq2,1.2590052906615028,True
+4mq1,Dual specificity tyrosine-phosphorylation-regulated kinase 1A,2.7.12.1,Transferases.,Transferring phosphorus-containing groups.,Dual-specificity kinases (those acting on Ser/Thr and Tyr residues).,4mq1,4.091899240989285,False
+3v43,Histone acetyltransferase KAT6A,2.3.1.48,Transferases.,Acyltransferases.,Transferring groups other than amino-acyl groups.,3v43,5.4718338375590125,False
+3sue,"NS3 protease, NS4A protein",3.4.21.98,Hydrolases.,Acting on peptide bonds (peptidases).,Serine endopeptidases.,3sue,1.2977869569844762,False
+4ci3,DNA DAMAGE-BINDING PROTEIN 1,,,,,4ci3,0.7285634313987148,True
+4bzs,ANGIOTENSIN-CONVERTING ENZYME,3.2.1,Hydrolases.,Glycosylases.,"Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl compounds.",4bzs,3.5306270601179457,False
+2vr3,CLUMPING FACTOR A,,,,,2vr3,10.181596682431524,False
+2ha3,Acetylcholinesterase,3.1.1.7,Hydrolases.,Acting on ester bonds.,Carboxylic ester hydrolases.,2ha3,1.3489298991628893,True
+2fm0,"cAMP-specific 3',5'-cyclic phosphodiesterase 4D",3.1.4.17,Hydrolases.,Acting on ester bonds.,Phosphoric diester hydrolases.,2fm0,3.506517946649254,True
+1kjr,Galectin-3,,,,,1kjr,4.833921397498007,False
+2q1l,3-hydroxy-3-methylglutaryl-coenzyme A reductase,1.1.1.34,Oxidoreductases.,Acting on the CH-OH group of donors.,With NAD(+) or NADP(+) as acceptor.,2q1l,2.5677638934945413,False
+2ow1,Matrix metalloproteinase-9 (MMP-9) (92 kDa type IV collagenase) (92 kDa gelatinase) (Gelatinase B) (GELB),3.4.24.35,Hydrolases.,Acting on peptide bonds (peptidases).,Metalloendopeptidases.,2ow1,2.1635775753749185,True
+6awo,Sodium-dependent serotonin transporter,,,,,6awo,2.140349062117446,True
+1re1,Caspase-3,3.4.22,Hydrolases.,Acting on peptide bonds (peptidases).,Cysteine endopeptidases.,1re1,1.590152365759582,True
+1n3z,"Ribonuclease, seminal",3.1.27.5,Hydrolases.,Acting on ester bonds.,Endoribonucleases producing other than 5'-phosphomonoesters.,1n3z,1.516622606210086,True
+2dxs,Genome polyprotein,2.7.7.48,Transferases.,Transferring phosphorus-containing groups.,Nucleotidyltransferases.,2dxs,1.937979869818255,True
+4luo,Replication protein A 70 kDa DNA-binding subunit,,,,,4luo,1.1099686172755612,True
+1zgv,Thrombin,3.4.21.5,Hydrolases.,Acting on peptide bonds (peptidases).,Serine endopeptidases.,1zgv,2.494271780695849,True
+1ynd,Peptidyl-prolyl cis-trans isomerase A,5.2.1.8,Isomerases.,Cis-trans-isomerases.,Cis-trans isomerases.,1ynd,3.0154083865677697,False
+1wv7,Coagulation factor VII,3.4.21.21,Hydrolases.,Acting on peptide bonds (peptidases).,Serine endopeptidases.,1wv7,3.253022206779245,False
+1sve,"cAMP-dependent protein kinase, alpha-catalytic subunit",2.7.1.37,Transferases.,Transferring phosphorus-containing groups.,Phosphotransferases with an alcohol group as acceptor.,1sve,2.709033255184601,False
+1t4j,"Protein-tyrosine phosphatase, non-receptor type 1",3.1.3.48,Hydrolases.,Acting on ester bonds.,Phosphoric monoester hydrolases.,1t4j,2.8323980146273366,False
+2bz5,HEAT SHOCK PROTEIN HSP90-ALPHA,,,,,2bz5,2.71615799004843,True
+2bge,PROTEIN-TYROSINE PHOSPHATASE NON-RECEPTOR TYPE 1,3.1.3.48,Hydrolases.,Acting on ester bonds.,Phosphoric monoester hydrolases.,2bge,1.0367629532974554,True
+3mp6,"Maltose-binding periplasmic protein,LINKER,SAGA-associated factor 29",,,,,3mp6,2.813739696981613,False
+3owb,Heat shock protein HSP 90-alpha,,,,,3owb,0.8986050149780239,True
+3p1d,CREB-binding protein,2.3.1.48,Transferases.,Acyltransferases.,Transferring groups other than amino-acyl groups.,3p1d,0.0004267370222481128,True
+3e90,NS2B cofactor,3.4.21.91,Hydrolases.,Acting on peptide bonds (peptidases).,Serine endopeptidases.,3e90,3.786236484765721,False
+3dnd,cAMP-dependent protein kinase catalytic subunit alpha,2.7.11.11,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,3dnd,0.8006128227698596,True
+3f68,Prothrombin,3.4.21.5,Hydrolases.,Acting on peptide bonds (peptidases).,Serine endopeptidases.,3f68,2.396592088245054,False
+3k99,Heat shock protein HSP 90-alpha,,,,,3k99,1.9925173771259888,True
+5mpz,CREB-binding protein,2.3.1.48,Transferases.,Acyltransferases.,Transferring groups other than amino-acyl groups.,5mpz,0.7660409895832775,True
+6fdc,"cAMP-specific 3',5'-cyclic phosphodiesterase 4D",3.1.4.53,Hydrolases.,Acting on ester bonds.,Phosphoric diester hydrolases.,6fdc,2.1953022959395883,False
+6f8t,"cAMP-specific 3',5'-cyclic phosphodiesterase 4D",3.1.4.53,Hydrolases.,Acting on ester bonds.,Phosphoric diester hydrolases.,6f8t,2.8782821469540854,False
+5orw,Aurora kinase A,2.7.11.1,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,5orw,2.5008163789681257,True
+5ygf,GH18329p,,,,,5ygf,6.604317567935588,False
+5ta4,Peptidyl-prolyl cis-trans isomerase A,5.2.1.8,Isomerases.,Cis-trans-isomerases.,Cis-trans isomerases.,5ta4,1.985457690731243,True
+4l52,"Mitogen-activated protein kinase kinase kinase 7, TGF-beta-activated kinase 1 and MAP3K7-binding protein 1 chimera",2.7.11.25,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,4l52,1.8460040729388745,True
+5i29,Transcription initiation factor TFIID subunit 1,2.3.1.48,Transferases.,Acyltransferases.,Transferring groups other than amino-acyl groups.,5i29,1.2688778770579299,True
+5eng,CREB-binding protein,2.3.1.48,Transferases.,Acyltransferases.,Transferring groups other than amino-acyl groups.,5eng,2.7290884350906226,False
+5g2n,"PHOSPHATIDYLINOSITOL-4,5-BISPHOSPHATE 3-KINASE CATALYTIC SUBUNIT GAMMA ISOFORM",2.7.1.137,Transferases.,Transferring phosphorus-containing groups.,Phosphotransferases with an alcohol group as acceptor.,5g2n,0.9270987446178408,True
+5k32,"cAMP-specific 3',5'-cyclic phosphodiesterase 4D",3.1.4.53,Hydrolases.,Acting on ester bonds.,Phosphoric diester hydrolases.,5k32,1.6908045017500652,True
+4wph,Ubiquitin carboxyl-terminal hydrolase 7,3.4.19.12,Hydrolases.,Acting on peptide bonds (peptidases).,Omega peptidases.,4wph,8.000705068414598,False
+6gjy,Peptidyl-prolyl cis-trans isomerase A,5.2.1.8,Isomerases.,Cis-trans-isomerases.,Cis-trans isomerases.,6gjy,2.47610254849722,True
+4hvd,Tyrosine-protein kinase JAK3,2.7.10.2,Transferases.,Transferring phosphorus-containing groups.,Protein-tyrosine kinases.,4hvd,1.341171049576483,True
+4h36,Mitogen-activated protein kinase 10,2.7.11.24,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,4h36,5.8797312577730265,False
+1dwd,ALPHA-THROMBIN (SMALL SUBUNIT),3.4.21.5,Hydrolases.,Acting on peptide bonds (peptidases).,Serine endopeptidases.,1dwd,4.233686745951757,False
+1bmm,ALPHA-THROMBIN,3.4.21.5,Hydrolases.,Acting on peptide bonds (peptidases).,Serine endopeptidases.,1bmm,4.044987792584578,False
+1bzh,PROTEIN (PROTEIN-TYROSINE-PHOSPHATASE 1B),3.1.3.48,Hydrolases.,Acting on ester bonds.,Phosphoric monoester hydrolases.,1bzh,1.9307502463393869,True
+1c88,PROTEIN (PROTEIN-TYROSINE PHOSPHATASE 1B),3.1.3.48,Hydrolases.,Acting on ester bonds.,Phosphoric monoester hydrolases.,1c88,0.8382615562315121,True
+1c4v,THROMBIN:SHORT CHAIN,3.4.21.5,Hydrolases.,Acting on peptide bonds (peptidases).,Serine endopeptidases.,1c4v,2.5599896371959616,True
+1bm2,PROTEIN (GROWTH FACTOR RECEPTOR BOUND PROTEIN 2),,,,,1bm2,4.068668451442258,False
+3deh,Caspase-3,3.4.22.56,Hydrolases.,Acting on peptide bonds (peptidases).,Cysteine endopeptidases.,3deh,4.9748818748959796e-05,True
+3ddp,Cell division protein kinase 2,2.7.11.22,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,3ddp,2.5283109813643283,True
+3d0e,RAC-beta serine/threonine-protein kinase,2.7.11.1,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,3d0e,1.067743642164488,True
+3uda,Heparin-binding growth factor 1,,,,,3uda,3.4908242621368477,True
+3rpv,Cyclin-dependent kinase 2,2.7.11.22,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,3rpv,0.5033057646815531,True
+3rkb,Cyclin-dependent kinase 2,2.7.11.22,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,3rkb,2.3497758678772525,True
+3rak,Cyclin-dependent kinase 2,2.7.11.22,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,3rak,0.98788898892303,True
+4fci,Arginase-1,3.5.3.1,Hydrolases.,"Acting on carbon-nitrogen bonds, other than peptide bonds.",In linear amidines.,4fci,1.3224216515223064,True
+4c52,BCL-2-LIKE PROTEIN 1,,,,,4c52,2.1978809778597115,False
+2gmv,"Phosphoenolpyruvate carboxykinase, cytosolic",2.7.11,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,2gmv,1.5413541742501409,True
+1lhg,ALPHA-THROMBIN,3.4.21.5,Hydrolases.,Acting on peptide bonds (peptidases).,Serine endopeptidases.,1lhg,3.928042753523625,False
+1kak,"PROTEIN-TYROSINE PHOSPHATASE, NON-RECEPTOR TYPE 1",3.1.3.48,Hydrolases.,Acting on ester bonds.,Phosphoric monoester hydrolases.,1kak,1.6080248799658956,True
+5nw1,Elongin-B,,,,,5nw1,4.314219411937134,False
+5nvx,Elongin-B,,,,,5nvx,2.3217330390339543,False
+1q6m,"Protein-tyrosine phosphatase, non-receptor type 1",3.1.3.48,Hydrolases.,Acting on ester bonds.,Phosphoric monoester hydrolases.,1q6m,3.9552592599129945,True
+6bh8,CAAX prenyl protease 1 homolog,3.4.24.84,Hydrolases.,Acting on peptide bonds (peptidases).,Metalloendopeptidases.,6bh8,3.3329369205791863,False
+1nmk,Peptidyl-prolyl cis-trans isomerase A,5.2.1.8,Isomerases.,Cis-trans-isomerases.,Cis-trans isomerases.,1nmk,2.9668898679412186,True
+2rnw,Histone acetyltransferase PCAF,2.3.1.48,Transferases.,Acyltransferases.,Transferring groups other than amino-acyl groups.,2rnw,9.253210187164916,False
+6d1u,"Maltose-binding periplasmic protein,Receptor activity-modifying protein 1,Calcitonin gene-related peptide type 1 receptor",,,,,6d1u,6.423084654654773,False
+5mpk,CREB-binding protein,2.3.1.48,Transferases.,Acyltransferases.,Transferring groups other than amino-acyl groups.,5mpk,2.3214698602780244,True
+5lpj,CREB-binding protein,2.3.1.48,Transferases.,Acyltransferases.,Transferring groups other than amino-acyl groups.,5lpj,1.9485062761266367,True
+1wbg,THROMBIN LIGHT CHAIN,3.4.21.5,Hydrolases.,Acting on peptide bonds (peptidases).,Serine endopeptidases.,1wbg,1.3347543794570236,True
+3odl,Cyclophilin A,5.2.1.8,Isomerases.,Cis-trans-isomerases.,Cis-trans isomerases.,3odl,1.800801309709056,False
+3odi,Cyclophilin A,5.2.1.8,Isomerases.,Cis-trans-isomerases.,Cis-trans isomerases.,3odi,3.049391402409975,False
+3p4f,WD repeat-containing protein 5,,,,,3p4f,7.0033607871356685,False
+3ej1,Cell division protein kinase 2,2.7.11.22,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,3ej1,2.014706817783443,True
+3l0v,Disintegrin and metalloproteinase domain-containing protein 17,3.4.24.86,Hydrolases.,Acting on peptide bonds (peptidases).,Metalloendopeptidases.,3l0v,1.7821211481681778,True
+3puk,Syntaxin-binding protein 3,,,,,3puk,5.617696792832941,False
+6eln,Heat shock protein HSP 90-alpha,,,,,6eln,0.7642030829543291,True
+5oyd,"Cellulase, putative, cel5D",3.2.1.151,Hydrolases.,Glycosylases.,"Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl compounds.",5oyd,4.586101443881284,False
+5yh8,Nickel ABC transporter substrate-binding protein,,,,,5yh8,2.6803590898102785,False
+5v5n,Mitogen-activated protein kinase kinase kinase 7/TGF-beta-activated kinase 1 and MAP3K7-binding protein 1 chimera,2.7.11.25,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,5v5n,2.9952868436887155,True
+5tv3,Alpha-carbonic anhydrase,4.2.1.1,Lyases.,Carbon-oxygen lyases.,Hydro-lyases.,5tv3,2.7487722907759036,True
+5ey9,Long-chain-fatty-acid--AMP ligase FadD32,6.2.1,Ligases.,Forming carbon-sulfur bonds.,Acid--thiol ligases.,5ey9,4.0969506543583085,False
+5f74,14-3-3 protein beta/alpha,,,,,5f74,2.200595293281708,True
+4ufg,THROMBIN HEAVY CHAIN,3.4.21.5,Hydrolases.,Acting on peptide bonds (peptidases).,Serine endopeptidases.,4ufg,3.632723451154327,False
+4uff,THROMBIN HEAVY CHAIN,3.4.21.5,Hydrolases.,Acting on peptide bonds (peptidases).,Serine endopeptidases.,4uff,3.205583963968175,False
+4rpo,PCP degradation transcriptional activation protein,,,,,4rpo,0.0005510273751893683,True
+5fb0,Nuclear autoantigen Sp-100,,,,,5fb0,7.6723462981200985,False
+5j86,Heat shock protein HSP 90-alpha,,,,,5j86,1.0505559471628645,True
+5a14,CYCLIN-DEPENDENT KINASE 2,2.7.11.22,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,5a14,1.9046596452378937,False
+4ze6,Endothiapepsin,3.4.23.22,Hydrolases.,Acting on peptide bonds (peptidases).,Aspartic endopeptidases.,4ze6,0.9559180865081738,True
+1g7f,"PROTEIN-TYROSINE PHOSPHATASE, NON-RECEPTOR TYPE 1",3.1.3.48,Hydrolases.,Acting on ester bonds.,Phosphoric monoester hydrolases.,1g7f,4.72787635981059,False
+1h07,CELL DIVISION PROTEIN KINASE 2,2.7.11.22,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,1h07,1.2698026947557042,True
+6hlx,AgaA,,,,,6hlx,2.8919433606189817,True
+1d6w,THROMBIN,3.4.21.5,Hydrolases.,Acting on peptide bonds (peptidases).,Serine endopeptidases.,1d6w,2.6763503443083523,False
+3vhc,Heat shock protein HSP 90-alpha,,,,,3vhc,1.911452823646996,True
+3shc,Thrombin light chain,3.4.21.5,Hydrolases.,Acting on peptide bonds (peptidases).,Serine endopeptidases.,3shc,2.262174288651893,False
+3rxg,Cationic trypsin,3.4.21.4,Hydrolases.,Acting on peptide bonds (peptidases).,Serine endopeptidases.,3rxg,0.3575702984012463,True
+3r92,Heat shock protein HSP 90-alpha,,,,,3r92,2.0718220813318857,True
+4ayy,THROMBIN LIGHT CHAIN,3.4.21.5,Hydrolases.,Acting on peptide bonds (peptidases).,Serine endopeptidases.,4ayy,4.3569112858851335,False
+4ge1,Biogenic amine-binding protein,,,,,4ge1,0.7764724413660457,True
+4cfm,CYCLIN-DEPENDENT KINASE 2,2.7.11.22,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,4cfm,0.6630908780568326,True
+2ydv,ADENOSINE RECEPTOR A2A,,,,,2ydv,0.4530690643718888,True
+1oiu,CELL DIVISION PROTEIN KINASE 2,2.7.11.22,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,1oiu,1.8345534857399732,True
+1ogu,CELL DIVISION PROTEIN KINASE 2,2.7.11.22,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,1ogu,0.9792526955000942,True
+1o5g,Prothrombin,3.4.21.5,Hydrolases.,Acting on peptide bonds (peptidases).,Serine endopeptidases.,1o5g,0.942279426667426,True
+1i7g,PEROXISOME PROLIFERATOR ACTIVATED RECEPTOR ALPHA,,,,,1i7g,4.667904460195125,True
+5lws,Endothiapepsin,3.4.23.22,Hydrolases.,Acting on peptide bonds (peptidases).,Aspartic endopeptidases.,5lws,2.0590742779562112,True
+5kya,Oxysterols receptor LXR-beta,,,,,5kya,2.1006665563760962,True
+5dde,Menin,,,,,5dde,1.2767773770849515,True
+1x39,beta-D-glucan exohydrolase isoenzyme ExoI,3.2.1.58,Hydrolases.,Glycosylases.,"Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl compounds.",1x39,1.303960983824336,True
+3o5x,Tyrosine-protein phosphatase non-receptor type 11,3.1.3.48,Hydrolases.,Acting on ester bonds.,Phosphoric monoester hydrolases.,3o5x,2.2924036442147973,False
+3p78,Mitogen-activated protein kinase 14,2.7.11.24,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,3p78,2.5290901489396758,True
+3e8r,ADAM 17,3.4.24.86,Hydrolases.,Acting on peptide bonds (peptidases).,Metalloendopeptidases.,3e8r,2.3892538509559595,False
+2zdm,Cationic trypsin,3.4.21.4,Hydrolases.,Acting on peptide bonds (peptidases).,Serine endopeptidases.,2zdm,3.991544198324945,False
+2zdl,Cationic trypsin,3.4.21.4,Hydrolases.,Acting on peptide bonds (peptidases).,Serine endopeptidases.,2zdl,1.9283048111915275,False
+3lbz,B-cell lymphoma 6 protein,,,,,3lbz,1.896776082426584,True
+3jqf,Pteridine reductase 1,1.5.1.33,Oxidoreductases.,Acting on the CH-NH group of donors.,With NAD(+) or NADP(+) as acceptor.,3jqf,0.5693207817862236,True
+3arz,Chitinase A,3.2.1.14,Hydrolases.,Glycosylases.,"Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl compounds.",3arz,1.3750525544956205,True
+3arx,Chitinase A,3.2.1.14,Hydrolases.,Glycosylases.,"Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl compounds.",3arx,1.1575466697103238,True
+3amv,PROTEIN (GLYCOGEN PHOSPHORYLASE),2.4.1.1,Transferases.,Glycosyltransferases.,Hexosyltransferases.,3amv,1.0823845884233934,True
+5nfh,"Methionyl-tRNA synthetase, putative",6.1.1.10,Ligases.,Forming carbon-oxygen bonds.,Ligases forming aminoacyl-tRNA and related compounds.,5nfh,4.173770236644551,True
+5mw6,B-cell lymphoma 6 protein,,,,,5mw6,2.5356221401342167,True
+6f05,Glutathione S-transferase F9,2.5.1.18,Transferases.,"Transferring alkyl or aryl groups, other than methyl groups.","Transferring alkyl or aryl groups, other than methyl groups.",6f05,2.1299489736128474,False
+6eku,Sialidase,3.2.1.18,Hydrolases.,Glycosylases.,"Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl compounds.",6eku,1.5506430979228758,True
+5yg4,Serine hydroxymethyltransferase,2.1.2.1,Transferases.,Transferring one-carbon groups.,"Hydroxymethyl-, formyl- and related transferases.",5yg4,2.637538488959412,True
+5wr7,High affinity nerve growth factor receptor,2.7.10.1,Transferases.,Transferring phosphorus-containing groups.,Protein-tyrosine kinases.,5wr7,1.2698587393484364,True
+5ew3,Vascular endothelial growth factor receptor 2,2.7.10.1,Transferases.,Transferring phosphorus-containing groups.,Protein-tyrosine kinases.,5ew3,1.5103144384787557,True
+5en3,Transthyretin,,,,,5en3,1.3405753375913727,True
+5ei3,Eukaryotic translation initiation factor 4E,,,,,5ei3,2.234609090122205,True
+4ps1,Caspase-8,3.4.22.61,Hydrolases.,Acting on peptide bonds (peptidases).,Cysteine endopeptidases.,4ps1,4.4629928772997465,False
+5fqb,BETA-LACTAMASE 2,3.5.2.6,Hydrolases.,"Acting on carbon-nitrogen bonds, other than peptide bonds.",In cyclic amides.,5fqb,3.825009737078405,True
+4k9g,Macrophage migration inhibitory factor,5.3.2.1,Isomerases.,Intramolecular oxidoreductases.,Interconverting keto- and enol-groups.,4k9g,0.8028217510391054,True
+4jmg,Clamp Ptpn11_pY580,,,,,4jmg,6.090577873422836,False
+4zx9,Probable M17 family aminopeptidase,3.4.11.1,Hydrolases.,Acting on peptide bonds (peptidases).,Aminopeptidases.,4zx9,1.373929761102498,True
+4z2j,Chitinase B,3.2.1.14,Hydrolases.,Glycosylases.,"Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl compounds.",4z2j,4.9740466682732665,False
+1f74,N-ACETYL-NEURAMINATE LYASE,4.1.3.3,Lyases.,Carbon-carbon lyases.,Oxo-acid-lyases.,1f74,2.106739982831241,True
+3bu8,Telomeric repeat-binding factor 2,,,,,3bu8,8.557449131983287,False
+4odn,Peptidyl-prolyl cis-trans isomerase SlyD,5.2.1.8,Isomerases.,Cis-trans-isomerases.,Cis-trans isomerases.,4odn,7.6975229218490355,False
+4odm,Peptidyl-prolyl cis-trans isomerase SlyD,5.2.1.8,Isomerases.,Cis-trans-isomerases.,Cis-trans isomerases.,4odm,4.082215050326728,False
+4o0t,Serine/threonine-protein kinase PAK 1,2.7.11.1,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,4o0t,1.364414327217069,True
+3w54,"Alternative oxidase, mitochondrial",1,Oxidoreductases.,,,3w54,1.1080907850387534,True
+3umq,Peptidoglycan recognition protein 1,,,,,3umq,0.6815082821273094,True
+3t4v,Alpha-ketoglutarate-dependent dioxygenase AlkB,1.14.11,Oxidoreductases.,"Acting on paired donors, with incorporation or reduction of molecular oxygen. The oxygen incorporated need not be derived from O(2).","With 2-oxoglutarate as one donor, and incorporation of one atom each of oxygen into both donors.",3t4v,1.9978107886946597,False
+4bcb,PROLYL ENDOPEPTIDASE,3.4.21.26,Hydrolases.,Acting on peptide bonds (peptidases).,Serine endopeptidases.,4bcb,2.5050861552183323,False
+4a4l,SERINE/THREONINE-PROTEIN KINASE PLK1,2.7.11.21,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,4a4l,1.389796681665968,True
+4agc,VASCULAR ENDOTHELIAL GROWTH FACTOR RECEPTOR 2,2.7.10.1,Transferases.,Transferring phosphorus-containing groups.,Protein-tyrosine kinases.,4agc,0.6547050425811176,True
+4ggl,DNA gyrase subunit B,5.6.2.2,Isomerases.,Isomerases altering macromolecular conformation.,Enzymes altering nucleic acid conformation.,4ggl,1.874939613828394,True
+5cr7,Cytosolic purine 5'-nucleotidase,3.1.3.5,Hydrolases.,Acting on ester bonds.,Phosphoric monoester hydrolases.,5cr7,1.665817196541542,True
+1ol1,CELL DIVISION PROTEIN KINASE 2,2.7.11.22,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,1ol1,3.912328663244932,False
+1lhw,SEX HORMONE-BINDING GLOBULIN,,,,,1lhw,0.9972784771334025,True
+1jd6,APOPTOSIS 1 INHIBITOR,2.3.2.27,Transferases.,Acyltransferases.,Aminoacyltransferases.,1jd6,5.2447074971937235,False
+6eaa,M1 family aminopeptidase,3.4.11,Hydrolases.,Acting on peptide bonds (peptidases).,Aminopeptidases.,6eaa,2.295079042435337,True
+3ti3,Neuraminidase,3.2.1.18,Hydrolases.,Glycosylases.,"Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl compounds.",3ti3,0.920185574393262,True
+2oh4,Vascular endothelial growth factor receptor 2,2.7.10.1,Transferases.,Transferring phosphorus-containing groups.,Protein-tyrosine kinases.,2oh4,1.9788807872345675,False
+2ri9,"Mannosyl-oligosaccharide alpha-1,2-mannosidase",3.2.1.113,Hydrolases.,Glycosylases.,"Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl compounds.",2ri9,1.3960540299627724,True
+5mlw,Proliferating cell nuclear antigen,,,,,5mlw,7.510306303600776,False
+1yqj,Mitogen-activated protein kinase 14,2.7.11.24,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,1yqj,2.1852256602884124,True
+3new,Mitogen-activated protein kinase 14,2.7.11.24,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,3new,1.0517072360422053,True
+3nb5,Carbonic anhydrase 2,4.2.1.1,Lyases.,Carbon-oxygen lyases.,Hydro-lyases.,3nb5,5.141883343636216,True
+3mw1,Mitogen-activated protein kinase 14,2.7.11.24,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,3mw1,0.7968167761529478,True
+3p55,Carbonic anhydrase 2,4.2.1.1,Lyases.,Carbon-oxygen lyases.,Hydro-lyases.,3p55,1.3591296387352731,True
+3p3h,Carbonic anhydrase 2,4.2.1.1,Lyases.,Carbon-oxygen lyases.,Hydro-lyases.,3p3h,1.0350780698414082,True
+2xyr,PUTATIVE 2'-O-METHYL TRANSFERASE,2.1.1,Transferases.,Transferring one-carbon groups.,Methyltransferases.,2xyr,1.1620147405216932,True
+3l4z,"Maltase-glucoamylase, intestinal",3.2.1.20,Hydrolases.,Glycosylases.,"Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl compounds.",3l4z,3.2159848504733994,True
+3gcs,Mitogen-activated protein kinase 14,2.7.11.24,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,3gcs,2.317226490849988,False
+3gcp,Mitogen-activated protein kinase 14,2.7.11.24,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,3gcp,1.1198900499689342,True
+3iw7,Mitogen-activated protein kinase 14,2.7.11.24,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,3iw7,1.8723464354419057,True
+3gpe,Protein kinase C alpha type,2.7.11.13,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,3gpe,1.317153760575044,True
+6g3o,Histone deacetylase 2,3.5.1.98,Hydrolases.,"Acting on carbon-nitrogen bonds, other than peptide bonds.",In linear amides.,6g3o,4.810703792349663,False
+6dj7,HIV-1 protease,3.4.23.16,Hydrolases.,Acting on peptide bonds (peptidases).,Aspartic endopeptidases.,6dj7,4.434979956870046,False
+5wzu,Group IIE secretory phospholipase A2,3.1.1.4,Hydrolases.,Acting on ester bonds.,Carboxylic ester hydrolases.,5wzu,1.8179990135654127,True
+5v6y,"Maltose-binding periplasmic protein,Receptor activity-modifying protein 1,Calcitonin gene-related peptide type 1 receptor",,,,,5v6y,5.840740733199527,False
+5tef,Gem-associated protein 5,,,,,5tef,2.7415539415653782,True
+5hmh,E3 ubiquitin-protein ligase Mdm2,6.3.2,Ligases.,Forming carbon-nitrogen bonds.,Acid--amino-acid ligases (peptide synthases).,5hmh,3.746767417912524,False
+4q9s,Focal adhesion kinase 1,2.7.10.2,Transferases.,Transferring phosphorus-containing groups.,Protein-tyrosine kinases.,4q9s,7.673217165803053e-05,True
+4q99,Carbonic anhydrase 2,4.2.1.1,Lyases.,Carbon-oxygen lyases.,Hydro-lyases.,4q99,2.824765509481184e-05,True
+4pkw,Lethal factor,3.4.24.83,Hydrolases.,Acting on peptide bonds (peptidases).,Metalloendopeptidases.,4pkw,3.550105558090506,False
+5flq,CARBONIC ANHYDRASE 2,4.2.1.1,Lyases.,Carbon-oxygen lyases.,Hydro-lyases.,5flq,1.04180109701068,True
+4jt9,"NAD-dependent protein deacetylase sirtuin-3, mitochondrial",3.5.1,Hydrolases.,"Acting on carbon-nitrogen bonds, other than peptide bonds.",In linear amides.,4jt9,2.9001223222519883,True
+4yyn,Transcription initiation factor TFIID subunit 1,2.3.1.48,Transferases.,Acyltransferases.,Transferring groups other than amino-acyl groups.,4yyn,6.837561699685099,False
+4yxi,Carbonic anhydrase 2,4.2.1.1,Lyases.,Carbon-oxygen lyases.,Hydro-lyases.,4yxi,1.0462916541790066,True
+4wh9,M-phase inducer phosphatase 2,3.1.3.48,Hydrolases.,Acting on ester bonds.,Phosphoric monoester hydrolases.,4wh9,1.6020640856807289,True
+4uvc,LYSINE-SPECIFIC HISTONE DEMETHYLASE 1A,1.14.99.66,Oxidoreductases.,"Acting on paired donors, with incorporation or reduction of molecular oxygen. The oxygen incorporated need not be derived from O(2).",Miscellaneous.,4uvc,6.084913719298528,False
+1f4g,THYMIDYLATE SYNTHASE,2.1.1.45,Transferases.,Transferring one-carbon groups.,Methyltransferases.,1f4g,2.155293145640848,True
+1a9u,MAP KINASE P38,2.7.11.24,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,1a9u,1.0828629891259944,True
+1a4r,G25K GTP-BINDING PROTEIN,3.6.5.2,Hydrolases.,Acting on acid anhydrides.,Acting on GTP; involved in cellular and subcellular movement.,1a4r,0.7703577091625194,True
+4op1,Glucokinase Regulatory Protein,,,,,4op1,2.0401207058232442,True
+4oho,Glucokinase regulatory protein,,,,,4oho,1.4505489581375304,True
+4ohm,Glucokinase regulatory protein,,,,,4ohm,1.8121873355684732,True
+4nms,Golgi-associated PDZ and coiled-coil motif-containing protein,,,,,4nms,7.001324793901754,False
+3vqh,cAMP-dependent protein kinase catalytic subunit alpha,2.7.11.11,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,3vqh,4.114368472636643,True
+3uvq,Mitogen-activated protein kinase 14,2.7.11.24,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,3uvq,1.6147545802969037,True
+3uvp,Mitogen-activated protein kinase 14,2.7.11.24,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,3uvp,1.6938774139196773,True
+3s3o,PFV integrase,2.7.7,Transferases.,Transferring phosphorus-containing groups.,Nucleotidyltransferases.,3s3o,1.7475803690491023,True
+4aci,HTH-TYPE TRANSCRIPTIONAL REPRESSOR ACNR,,,,,4aci,2.2292413582037898,True
+4app,SERINE/THREONINE-PROTEIN KINASE PAK 4,2.7.11.1,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,4app,3.4253157497316735,False
+4ajk,L-LACTATE DEHYDROGENASE A CHAIN,1.1.1.27,Oxidoreductases.,Acting on the CH-OH group of donors.,With NAD(+) or NADP(+) as acceptor.,4ajk,0.9493469074713852,True
+3wut,Centrosomal protein of 55 kDa,,,,,3wut,7.170762871328929,False
+4ejl,Protease,3.4.23.16,Hydrolases.,Acting on peptide bonds (peptidases).,Aspartic endopeptidases.,4ejl,1.4538246196483915,True
+4e3g,Carbonic anhydrase 2,4.2.1.1,Lyases.,Carbon-oxygen lyases.,Hydro-lyases.,4e3g,0.9497194811897972,True
+2yis,MITOGEN-ACTIVATED PROTEIN KINASE 14,2.7.11.24,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,2yis,5.588233986601908,False
+2xaf,LYSINE-SPECIFIC HISTONE DEMETHYLASE 1,1.14.99.66,Oxidoreductases.,"Acting on paired donors, with incorporation or reduction of molecular oxygen. The oxygen incorporated need not be derived from O(2).",Miscellaneous.,2xaf,6.246559095761483,False
+5d0r,Adenylate cyclase type 10,4.6.1.1,Lyases.,Phosphorus-oxygen lyases.,Phosphorus-oxygen lyases.,5d0r,1.8392310948427533,True
+5am6,FIBROBLAST GROWTH FACTOR RECEPTOR 1,2.7.10.1,Transferases.,Transferring phosphorus-containing groups.,Protein-tyrosine kinases.,5am6,0.3798705539288598,True
+5ak6,BIFUNCTIONAL EPOXIDE HYDROLASE 2,3.3.2.10,Hydrolases.,Acting on ether bonds.,Ether hydrolases.,5ak6,1.5374221698871209,True
+1ouy,Mitogen-activated protein kinase 14,2.7.11.24,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,1ouy,2.7622179631454893,True
+2esm,Rho-associated protein kinase 1,2.7.11.1,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,2esm,1.5724548151336204,True
+6ed6,Rho-associated protein kinase 2,2.7.11.1,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,6ed6,1.0680638875299369,True
+5wjj,Mitogen-activated protein kinase 14,2.7.11.24,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,5wjj,0.2343785570187423,True
+5wg7,Carbonic anhydrase 2,4.2.1.1,Lyases.,Carbon-oxygen lyases.,Hydro-lyases.,5wg7,1.1158473238196474,True
+3twj,Rho-associated protein kinase 1,2.7.11.1,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,3twj,1.8073728030482143,False
+2q70,Estrogen receptor,,,,,2q70,0.8922574600615669,True
+2qcn,Uridine 5'-monophosphate synthase,4.1.1.23,Lyases.,Carbon-carbon lyases.,Carboxy-lyases.,2qcn,1.304325986757487,True
+4ly1,Histone deacetylase 2,3.5.1.98,Hydrolases.,"Acting on carbon-nitrogen bonds, other than peptide bonds.",In linear amides.,4ly1,1.5196474745056487,True
+5dhr,NAD kinase 1,2.7.1.23,Transferases.,Transferring phosphorus-containing groups.,Phosphotransferases with an alcohol group as acceptor.,5dhr,3.19018459630676,False
+4deg,Hepatocyte growth factor receptor,2.7.10.1,Transferases.,Transferring phosphorus-containing groups.,Protein-tyrosine kinases.,4deg,1.0398796859374084,True
+1t4e,Ubiquitin-protein ligase E3 Mdm2,6.3.2,Ligases.,Forming carbon-nitrogen bonds.,Acid--amino-acid ligases (peptide synthases).,1t4e,3.0886879355069685,True
+3eqs,E3 ubiquitin-protein ligase Mdm2,6.3.2,Ligases.,Forming carbon-nitrogen bonds.,Acid--amino-acid ligases (peptide synthases).,3eqs,5.222474606491319,False
+3ft2,"HLA class I histocompatibility antigen, A-2 alpha chain",,,,,3ft2,6.9300239797763075,False
+3g0e,Mast/stem cell growth factor receptor,2.7.10.1,Transferases.,Transferring phosphorus-containing groups.,Protein-tyrosine kinases.,3g0e,0.22452316481751855,True
+3f88,Glycogen synthase kinase-3 beta,2.7.11.26,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,3f88,0.5090791664453731,True
+5nn6,Lysosomal alpha-glucosidase,3.2.1.20,Hydrolases.,Glycosylases.,"Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl compounds.",5nn6,0.7612066318632534,True
+5y86,Dual specificity tyrosine-phosphorylation-regulated kinase 3,2.7.12.1,Transferases.,Transferring phosphorus-containing groups.,Dual-specificity kinases (those acting on Ser/Thr and Tyr residues).,5y86,0.062472954863725165,True
+5xsu,Poly [ADP-ribose] polymerase 1,2.4.2.30,Transferases.,Glycosyltransferases.,Pentosyltransferases.,5xsu,1.0832177910041332,True
+4kzl,Tankyrase-2,2.4.2.30,Transferases.,Glycosyltransferases.,Pentosyltransferases.,4kzl,1.1302396509773869,True
+5hx6,Receptor-interacting serine/threonine-protein kinase 1,2.7.11.1,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,5hx6,1.852136230338147,True
+5i3w,Beta-secretase 1,3.4.23.46,Hydrolases.,Acting on peptide bonds (peptidases).,Aspartic endopeptidases.,5i3w,1.2372090463280707,True
+4ql1,WD repeat-containing protein 5,,,,,4ql1,2.843414425045109,True
+4oyb,Adenylate cyclase type 10,4.6.1.1,Lyases.,Phosphorus-oxygen lyases.,Phosphorus-oxygen lyases.,4oyb,1.937366110678563,False
+5j7b,Receptor-interacting serine/threonine-protein kinase 2,2.7.11.1,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,5j7b,1.6575159661871028,True
+4zxy,Coagulation factor VIIa heavy chain,3.4.21.21,Hydrolases.,Acting on peptide bonds (peptidases).,Serine endopeptidases.,4zxy,1.2155163111853255,True
+4wtu,Beta-secretase 1,3.4.23.46,Hydrolases.,Acting on peptide bonds (peptidases).,Aspartic endopeptidases.,4wtu,0.7793046457408396,True
+4hyf,Tankyrase-2,2.4.2.30,Transferases.,Glycosyltransferases.,Pentosyltransferases.,4hyf,1.7117597715338957,True
+4os4,Urokinase-type plasminogen activator,3.4.21.73,Hydrolases.,Acting on peptide bonds (peptidases).,Serine endopeptidases.,4os4,2.7967432597116337,False
+4ogn,E3 ubiquitin-protein ligase Mdm2,6.3.2,Ligases.,Forming carbon-nitrogen bonds.,Acid--amino-acid ligases (peptide synthases).,4ogn,2.481140993835786,True
+4ode,E3 ubiquitin-protein ligase Mdm2,6.3.2,Ligases.,Forming carbon-nitrogen bonds.,Acid--amino-acid ligases (peptide synthases).,4ode,3.38902895189188,True
+4oba,E3 ubiquitin-protein ligase Mdm2,6.3.2,Ligases.,Forming carbon-nitrogen bonds.,Acid--amino-acid ligases (peptide synthases).,4oba,1.6941324972493903,True
+3v3q,Nuclear receptor subfamily 4 group A member 1,,,,,3v3q,2.6575004952935792,False
+3snd,3C-like proteinase,3.4.22,Hydrolases.,Acting on peptide bonds (peptidases).,Cysteine endopeptidases.,3snd,1.3336645398777374,False
+3snb,3C-like proteinase,3.4.22,Hydrolases.,Acting on peptide bonds (peptidases).,Cysteine endopeptidases.,3snb,5.891006937685614,False
+3sna,3C-like proteinase,3.4.22,Hydrolases.,Acting on peptide bonds (peptidases).,Cysteine endopeptidases.,3sna,4.073679863333822,False
+4acd,GLYCOGEN SYNTHASE KINASE-3 BETA,2.7.11.1,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,4acd,2.5630312070822203,True
+4cc7,DYNAMIN-BINDING PROTEIN,,,,,4cc7,5.445737083393634,False
+4bs4,TANKYRASE-2,2.4.2.30,Transferases.,Glycosyltransferases.,Pentosyltransferases.,4bs4,1.1334136873477478,True
+2wxi,"PHOSPHATIDYLINOSITOL-4,5-BISPHOSPHATE 3-KINASE CATALYTIC SUBUNIT DELTA ISOFORM",2.7.1.153,Transferases.,Transferring phosphorus-containing groups.,Phosphotransferases with an alcohol group as acceptor.,2wxi,3.3775923897732585,True
+2x7u,CARBONIC ANHYDRASE 2,4.2.1.1,Lyases.,Carbon-oxygen lyases.,Hydro-lyases.,2x7u,1.177866191193942,True
+5cil,FAB 4E10 HEAVY CHAIN,,,,,5cil,5.812595709556137,False
+4urx,GTPASE HRAS,3.6.5.2,Hydrolases.,Acting on acid anhydrides.,Acting on GTP; involved in cellular and subcellular movement.,4urx,0.40222147980212253,True
+5nsp,Tankyrase-2,2.4.2.30,Transferases.,Glycosyltransferases.,Pentosyltransferases.,5nsp,0.937658913558168,True
+2oiq,Proto-oncogene tyrosine-protein kinase Src,2.7.10.2,Transferases.,Transferring phosphorus-containing groups.,Protein-tyrosine kinases.,2oiq,4.03381624613689,True
+6bhv,Poly [ADP-ribose] polymerase 1,2.4.2.30,Transferases.,Glycosyltransferases.,Pentosyltransferases.,6bhv,5.3203467184516215,False
+6bfe,Beta-secretase 1,3.4.23.46,Hydrolases.,Acting on peptide bonds (peptidases).,Aspartic endopeptidases.,6bfe,1.8511157647813847,False
+1s26,Calmodulin-sensitive adenylate cyclase,4.6.1.1,Lyases.,Phosphorus-oxygen lyases.,Phosphorus-oxygen lyases.,1s26,2.0947272905283234,True
+4mfe,PYRUVATE CARBOXYLASE,6.4.1.1,Ligases.,Forming carbon-carbon bonds.,Forming carbon-carbon bonds.,4mfe,0.9888611521294566,True
+6cpw,Mitogen-activated protein kinase 1,2.7.11.24,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,6cpw,3.915771679346316,True
+5l2z,Coagulation factor VII (Heavy Chain),3.4.21.21,Hydrolases.,Acting on peptide bonds (peptidases).,Serine endopeptidases.,5l2z,3.0698598131390633,True
+2ath,Peroxisome proliferator activated receptor gamma,,,,,2ath,4.287454388438693,True
+3pa4,Serine/threonine-protein kinase Chk1,2.7.11.1,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,3pa4,1.3830603855596741,True
+3iwy,D-peptide inhibitor,,,,,3iwy,6.474074105852188,False
+3bc5,Peroxisome proliferator-activated receptor gamma,,,,,3bc5,2.3835996746028845,False
+3ia6,Peroxisome proliferator-activated receptor gamma,,,,,3ia6,3.744854679650943,False
+5nho,Mitogen-activated protein kinase 1,2.7.11.24,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,5nho,0.42008504317469,True
+5y5n,NAD-dependent protein deacetylase sirtuin-2,3.5.1,Hydrolases.,"Acting on carbon-nitrogen bonds, other than peptide bonds.",In linear amides.,5y5n,2.048831114587532,True
+5f4n,Serine/threonine-protein kinase Chk1,2.7.11.1,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,5f4n,1.2479888633063123,True
+4qp2,Mitogen-activated protein kinase 1,2.7.11.24,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,4qp2,1.99216067454183e-06,True
+4prg,PROTEIN (PEROXISOME PROLIFERATOR ACTIVATED RECEPTOR GAMMA),,,,,4prg,4.133635525911068,False
+6g9j,Mitogen-activated protein kinase 1,2.7.11.24,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,6g9j,1.2450128298574117,False
+6g85,Tyrosine-protein phosphatase CDC14,3.1.3.48,Hydrolases.,Acting on ester bonds.,Phosphoric monoester hydrolases.,6g85,7.331266968470242,False
+4i0r,Tyrosine-protein kinase SYK,2.7.10.2,Transferases.,Transferring phosphorus-containing groups.,Protein-tyrosine kinases.,4i0r,0.8596391228376874,True
+3uix,Proto-oncogene serine/threonine-protein kinase pim-1,2.7.11.1,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,3uix,1.2062798492022615,True
+3zsq,INTEGRASE,2.7.7,Transferases.,Transferring phosphorus-containing groups.,Nucleotidyltransferases.,3zsq,2.892180154076672,False
+4fl3,Tyrosine-protein kinase SYK,2.7.10.2,Transferases.,Transferring phosphorus-containing groups.,Protein-tyrosine kinases.,4fl3,1.7061236102205657,True
+4dst,"GTPase KRas, isoform 2B",3.6.5.2,Hydrolases.,Acting on acid anhydrides.,Acting on GTP; involved in cellular and subcellular movement.,4dst,0.9487967436511096,True
+2vpg,PYGOPUS HOMOLOG 1,,,,,2vpg,5.147406384414105,False
+1i7i,PEROXISOME PROLIFERATOR ACTIVATED RECEPTOR GAMMA,,,,,1i7i,4.017364532978426,True
+4qtb,Mitogen-activated protein kinase 3,2.7.11.24,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,4qtb,2.385663702841588,False
+3ty0,Peroxisome proliferator-activated receptor gamma,,,,,3ty0,2.457245707513179,True
+4y3b,14-3-3 protein sigma,,,,,4y3b,6.192043008788409,False
+5lvn,3-phosphoinositide-dependent protein kinase 1,2.7.11.1,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,5lvn,1.7945920294069229,True
+5m0s,Ectonucleotide pyrophosphatase/phosphodiesterase family member 2,3.1.4.39,Hydrolases.,Acting on ester bonds.,Phosphoric diester hydrolases.,5m0s,3.3002841944869346,False
+1y98,Breast cancer type 1 susceptibility protein,2.3.2.27,Transferases.,Acyltransferases.,Aminoacyltransferases.,1y98,8.030167612844162,False
+3o0g,Cell division protein kinase 5,2.7.11.22,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,3o0g,1.134081310020224,True
+3oe6,"C-X-C chemokine receptor type 4, Lysozyme Chimera",3.2.1.17,Hydrolases.,Glycosylases.,"Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl compounds.",3oe6,3.1841262802529573,True
+3krr,Tyrosine-protein kinase JAK2,2.7.10.2,Transferases.,Transferring phosphorus-containing groups.,Protein-tyrosine kinases.,3krr,1.7640354394086022,True
+3fup,Tyrosine-protein kinase JAK2,2.7.10.2,Transferases.,Transferring phosphorus-containing groups.,Protein-tyrosine kinases.,3fup,1.3293519542970471,True
+6fav,14-3-3 protein sigma,,,,,6fav,7.372112387030258,False
+6dq6,Linked KDM5A Jmj Domain,1.14.11,Oxidoreductases.,"Acting on paired donors, with incorporation or reduction of molecular oxygen. The oxygen incorporated need not be derived from O(2).","With 2-oxoglutarate as one donor, and incorporation of one atom each of oxygen into both donors.",6dq6,1.7716967799683108,True
+5vgo,Tyrosine-protein kinase BTK,2.7.10.2,Transferases.,Transferring phosphorus-containing groups.,Protein-tyrosine kinases.,5vgo,0.3159217075047382,True
+4p7e,Tyrosine-protein kinase JAK2,2.7.10.2,Transferases.,Transferring phosphorus-containing groups.,Protein-tyrosine kinases.,4p7e,0.9762182325106892,True
+4jju,Genome polyprotein,3.4.22,Hydrolases.,Acting on peptide bonds (peptidases).,Cysteine endopeptidases.,4jju,1.3601030764281548,True
+4wzv,"Matrix metalloproteinase-9,Matrix metalloproteinase-9",3.4.24.35,Hydrolases.,Acting on peptide bonds (peptidases).,Metalloendopeptidases.,4wzv,4.3837870063617,False
+3ux0,TASK3 PHOSPHOPEPTIDE,,,,,3ux0,5.2933563956889484,False
+3rl8,Disks large homolog 1,,,,,3rl8,6.491735058870684,False
+3r8i,Peroxisome proliferator-activated receptor gamma,,,,,3r8i,3.5363066299689754,False
+4acm,CYCLIN-DEPENDENT KINASE 2,2.7.11.22,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,4acm,2.6673367615769883,False
+4d1s,TYROSINE-PROTEIN KINASE JAK2,2.7.10.2,Transferases.,Transferring phosphorus-containing groups.,Protein-tyrosine kinases.,4d1s,0.8258853133964696,True
+5cf8,Tyrosine-protein kinase JAK2,2.7.10.2,Transferases.,Transferring phosphorus-containing groups.,Protein-tyrosine kinases.,5cf8,1.401990788953323,False
+5aqj,HEAT SHOCK COGNATE 71 KDA PROTEIN,3.6.3.51,Hydrolases.,Acting on acid anhydrides.,Acting on acid anhydrides; catalyzing transmembrane movement of substances.,5aqj,1.3012739035376614e-05,True
+3u3z,Microcephalin,,,,,3u3z,3.706022244557753,False
+2nn8,Galectin-3,,,,,2nn8,0.9711461796285842,True
+1uu3,3-PHOSPHOINOSITIDE DEPENDENT PROTEIN KINASE-1,2.7.11.1,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,1uu3,0.965301084055104,True
+3l5r,Macrophage migration inhibitory factor,5.3.2.1,Isomerases.,Intramolecular oxidoreductases.,Interconverting keto- and enol-groups.,3l5r,0.2394870394858881,True
+3b9s,Macrophage Migration Inhibitory Factor,5.3.2.1,Isomerases.,Intramolecular oxidoreductases.,Interconverting keto- and enol-groups.,3b9s,0.4326488148833466,True
+3hg1,MHC class I antigen,,,,,3hg1,7.517116633004991,False
+5t2p,Core protein,,,,,5t2p,2.4615353476379918,True
+5y2f,NAD-dependent protein deacetylase sirtuin-6,3.5.1,Hydrolases.,"Acting on carbon-nitrogen bonds, other than peptide bonds.",In linear amides.,5y2f,4.3239744380839245,False
+5hcx,Epidermal growth factor receptor,2.7.10.1,Transferases.,Transferring phosphorus-containing groups.,Protein-tyrosine kinases.,5hcx,1.0615153666166657,True
+5e2v,AT8 LIGHT CHAIN,,,,,5e2v,5.6247133258112445,False
+4ymj,NT-3 growth factor receptor,2.7.10.1,Transferases.,Transferring phosphorus-containing groups.,Protein-tyrosine kinases.,4ymj,1.202499816682185,True
+3vb4,3C-like proteinase,3.4.22,Hydrolases.,Acting on peptide bonds (peptidases).,Cysteine endopeptidases.,3vb4,4.165559763924271,False
+3rwq,3-phosphoinositide-dependent protein kinase 1,2.7.11.1,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,3rwq,1.58879866611813,False
+2x39,RAC-BETA SERINE/THREONINE-PROTEIN KINASE,2.7.11.1,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,2x39,1.019406270428318,True
+5c8k,Epidermal growth factor receptor,2.7.10.1,Transferases.,Transferring phosphorus-containing groups.,Protein-tyrosine kinases.,5c8k,1.3938717386145203,True
+5afn,"ACETYLCHOLINE-BINDING PROTEIN, NEURONAL ACETYLCHOLINE RECEPTOR SUBUNIT ALPHA-7",,,,,5afn,0.9182376553297142,True
+5afk,"ACETYLCHOLINE-BINDING PROTEIN, NEURONAL ACETYLCHOLINE RECEPTOR SUBUNIT ALPHA-7",,,,,5afk,0.27931818973034084,True
+1lb6,TNF receptor-associated factor 6,2.3.2.27,Transferases.,Acyltransferases.,Aminoacyltransferases.,1lb6,7.419839260424857,False
+3tkm,Peroxisome proliferator-activated receptor delta,,,,,3tkm,1.6791818580193503,True
+6bmx,Tyrosine-protein phosphatase non-receptor type 11,3.1.3.48,Hydrolases.,Acting on ester bonds.,Phosphoric monoester hydrolases.,6bmx,2.568758692300434,True
+2rgp,Epidermal growth factor receptor,2.7.10.1,Transferases.,Transferring phosphorus-containing groups.,Protein-tyrosine kinases.,2rgp,4.809122500778723,True
+2ddf,ADAM 17,3.4.24.86,Hydrolases.,Acting on peptide bonds (peptidases).,Metalloendopeptidases.,2ddf,2.7928988589109816,False
+3h0a,Retinoic acid receptor RXR-alpha,,,,,3h0a,3.5826408520199498,True
+6d5g,GTPase HRas,3.6.5.2,Hydrolases.,Acting on acid anhydrides.,Acting on GTP; involved in cellular and subcellular movement.,6d5g,1.7144061651551197,True
+6b8j,Glycogen synthase kinase-3 beta,2.7.11.26,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,6b8j,2.4068430968395567,True
+5lhh,Lysine-specific histone demethylase 1A,1.14.99.66,Oxidoreductases.,"Acting on paired donors, with incorporation or reduction of molecular oxygen. The oxygen incorporated need not be derived from O(2).",Miscellaneous.,5lhh,3.4076998127625218,False
+1o4b,PROTO-ONCOGENE TYROSINE-PROTEIN KINASE SRC,2.7.10.2,Transferases.,Transferring phosphorus-containing groups.,Protein-tyrosine kinases.,1o4b,2.5380153864100623,False
+1o47,PROTO-ONCOGENE TYROSINE-PROTEIN KINASE SRC,2.7.10.2,Transferases.,Transferring phosphorus-containing groups.,Protein-tyrosine kinases.,1o47,1.85534043589549,False
+1o41,PROTO-ONCOGENE TYROSINE-PROTEIN KINASE SRC,2.7.10.2,Transferases.,Transferring phosphorus-containing groups.,Protein-tyrosine kinases.,1o41,1.1477744524630067,True
+4mgb,Estrogen receptor,,,,,4mgb,2.4272726106805456,True
+5lmb,Tyrosine-protein kinase SYK,2.7.10.2,Transferases.,Transferring phosphorus-containing groups.,Protein-tyrosine kinases.,5lmb,1.1750698980981578,True
+3qkm,RAC-alpha serine/threonine-protein kinase,2.7.11.1,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,3qkm,3.3548528208122366,False
+5two,Peroxisome proliferator-activated receptor gamma,,,,,5two,2.1121678096765213,True
+5bs0,"HLA class I histocompatibility antigen, A-1 alpha chain",,,,,5bs0,7.1797942874803375,False
+5o1c,Cellular tumor antigen p53,,,,,5o1c,0.8756846599481596,True
+5cau,Epidermal growth factor receptor,2.7.10.1,Transferases.,Transferring phosphorus-containing groups.,Protein-tyrosine kinases.,5cau,1.6274014768386384,True
+6ct7,BIIB054 Fab light chain,,,,,6ct7,5.739834853221309,False
+5ug9,Epidermal growth factor receptor,2.7.10.1,Transferases.,Transferring phosphorus-containing groups.,Protein-tyrosine kinases.,5ug9,1.932399059837153,True
+2mwy,Protein Mdm4,,,,,2mwy,7.618268356037492,False
+4fz3,"NAD-dependent protein deacetylase sirtuin-3, mitochondrial",3.5.1,Hydrolases.,"Acting on carbon-nitrogen bonds, other than peptide bonds.",In linear amides.,4fz3,6.110186383909293,False
+5o1i,Cellular tumor antigen p53,,,,,5o1i,0.9792855065223725,True
+5o1a,Cellular tumor antigen p53,,,,,5o1a,1.562421049785887,True
+3l81,AP-4 complex subunit mu-1,,,,,3l81,6.525558522003657,False
+4mq6,Pantothenate synthetase,6.3.2.1,Ligases.,Forming carbon-nitrogen bonds.,Acid--amino-acid ligases (peptide synthases).,4mq6,0.9836740452253739,True
+5xvg,Serine/threonine-protein kinase PAK 4,2.7.11.1,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,5xvg,1.456523018596278,True
+4i60,Avidin,,,,,4i60,3.815396187710181,True
+4x21,Mitogen-activated protein kinase 10,2.7.11.24,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,4x21,1.864884005346263,True
+5n7x,Streptavidin,,,,,5n7x,6.112098318433912,False
+5ejl,Klebsiella pneumoniae genome assembly NOVST,,,,,5ejl,3.972951864164056,True
+5g17,HISTONE DEACETYLASE-LIKE AMIDOHYDROLASE,3.5.1.4,Hydrolases.,"Acting on carbon-nitrogen bonds, other than peptide bonds.",In linear amides.,5g17,1.6245335095439406,True
+5jf1,Peptide deformylase,3.5.1.88,Hydrolases.,"Acting on carbon-nitrogen bonds, other than peptide bonds.",In linear amides.,5jf1,2.4714255740227618,False
+6hm2,Agropine permease,,,,,6hm2,1.7420249276425823,True
+1ajn,PENICILLIN AMIDOHYDROLASE,3.5.1.11,Hydrolases.,"Acting on carbon-nitrogen bonds, other than peptide bonds.",In linear amides.,1ajn,0.9237252636591748,True
+4e3o,Beta-lactamase,3.5.2.6,Hydrolases.,"Acting on carbon-nitrogen bonds, other than peptide bonds.",In cyclic amides.,4e3o,1.0969012932821842,True
+1ox9,Stringent starvation protein B,,,,,1ox9,5.3775456888131234,False
+1vgc,GAMMA CHYMOTRYPSIN,3.4.21.1,Hydrolases.,Acting on peptide bonds (peptidases).,Serine endopeptidases.,1vgc,1.1765974021408283,True
+2buv,"PROTOCATECHUATE 3,4-DIOXYGENASE ALPHA CHAIN",1.13.11.3,Oxidoreductases.,Acting on single donors with incorporation of molecular oxygen (oxygenases). The oxygen incorporated need not be derived from O(2).,With incorporation of two atoms of oxygen.,2buv,0.23552216154485905,True
+2aig,ADAMALYSIN II,3.4.24.46,Hydrolases.,Acting on peptide bonds (peptidases).,Metalloendopeptidases.,2aig,3.997970986090353,True
+3o75,Fructose transport system repressor FruR,,,,,3o75,1.1793925888443837,True
+3ehn,SusD homolog,,,,,3ehn,2.5968129140868155,True
+3ipa,"ABC transporter, substrate binding protein (Amino acid)",,,,,3ipa,1.2182525661560195,True
+3bcn,Ervatamin-A,3.4.22,Hydrolases.,Acting on peptide bonds (peptidases).,Cysteine endopeptidases.,3bcn,3.9846270400759334,True
+3pjt,Cyclic dimeric GMP binding protein,,,,,3pjt,0.1684154978847505,True
+3h2f,Dihydropteroate synthase,2.5.1.15,Transferases.,"Transferring alkyl or aryl groups, other than methyl groups.","Transferring alkyl or aryl groups, other than methyl groups.",3h2f,0.00015651348254963168,True
+6fa5,Putative mRNA splicing factor,,,,,6fa5,1.3263737408201255,True
+6cve,ATP-dependent dethiobiotin synthetase BioD,6.3.3.3,Ligases.,Forming carbon-nitrogen bonds.,Cyclo-ligases.,6cve,1.9456288612918289,True
+6cvd,Signal recognition particle receptor FtsY,,,,,6cvd,0.6462595827406292,True
+5ubg,ATP phosphoribosyltransferase,2.4.2.17,Transferases.,Glycosyltransferases.,Pentosyltransferases.,5ubg,2.426422578094145,False
+5evk,Metallo-beta-lactamase L1,3.5.2.6,Hydrolases.,"Acting on carbon-nitrogen bonds, other than peptide bonds.",In cyclic amides.,5evk,0.8870633952264143,True
+5er2,ENDOTHIAPEPSIN,3.4.23.6,Hydrolases.,Acting on peptide bonds (peptidases).,Aspartic endopeptidases.,5er2,6.079979162311715,False
+5dtk,Beta-lactamase,3.5.2.6,Hydrolases.,"Acting on carbon-nitrogen bonds, other than peptide bonds.",In cyclic amides.,5dtk,0.3151660490212098,True
+4uat,Protein CbbY,3.1.3,Hydrolases.,Acting on ester bonds.,Phosphoric monoester hydrolases.,4uat,3.2709879872392382,True
+4u2w,Bowman-Birk trypsin inhibitor,,,,,4u2w,3.6850940231201386,False
+4qjx,Carbonic anhydrase 13,4.2.1.1,Lyases.,Carbon-oxygen lyases.,Hydro-lyases.,4qjx,1.884974553876723,True
+5g3w,HISTONE DEACETYLASE-LIKE AMIDOHYDROLASE,3.5.1,Hydrolases.,"Acting on carbon-nitrogen bonds, other than peptide bonds.",In linear amides.,5g3w,0.6104010244951077,True
+3ud5,2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase,2.7.6.3,Transferases.,Transferring phosphorus-containing groups.,Diphosphotransferases.,3ud5,6.402421938081512,True
+3v7s,Biotin ligase,,,,,3v7s,4.935704930688623,False
+3v5t,Calmodulin-domain protein kinase 1,2.7.11.17,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,3v5t,1.5988870716351875,True
+3sx9,Calmodulin-domain protein kinase 1,2.7.11.17,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,3sx9,0.8695594090951909,True
+4e5d,Luciferin 4-monooxygenase,1.13.12.7,Oxidoreductases.,Acting on single donors with incorporation of molecular oxygen (oxygenases). The oxygen incorporated need not be derived from O(2).,With incorporation of one atom of oxygen (internal monooxygenases or internal mixed function oxidases).,4e5d,0.5115778372012364,True
+4bqs,SHIKIMATE KINASE,2.7.1.71,Transferases.,Transferring phosphorus-containing groups.,Phosphotransferases with an alcohol group as acceptor.,4bqs,1.9384833414905491,True
+2xgo,XCOGT,,,,,2xgo,2.7333191090596616,True
+2wsx,L-CARNITINE/GAMMA-BUTYROBETAINE ANTIPORTER,,,,,2wsx,1.6312152495955237,True
+2vt3,REDOX-SENSING TRANSCRIPTIONAL REPRESSOR REX,,,,,2vt3,2.183284988052883,True
+2vqt,BETA-MANNOSIDASE,3.2.1.25,Hydrolases.,Glycosylases.,"Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl compounds.",2vqt,0.6717988780699852,True
+1fmb,EIAV PROTEASE,3.4.23.16,Hydrolases.,Acting on peptide bonds (peptidases).,Aspartic endopeptidases.,1fmb,3.1936874404374778,False
+1fig,IGG1-KAPPA 1F7 FAB (LIGHT CHAIN),,,,,1fig,1.6825161444413823,True
+4url,"DNA TOPOISOMERASE IV, B SUBUNIT",5.99.1,Isomerases.,Other isomerases.,Other isomerases.,4url,5.079004327906871,False
+3u7l,Peptide deformylase,3.5.1.88,Hydrolases.,"Acting on carbon-nitrogen bonds, other than peptide bonds.",In linear amides.,3u7l,2.5620560094307367,False
+2psu,Protease,,,,,2psu,4.396859901776069,False
+2oz2,Cruzipain,3.4.22.51,Hydrolases.,Acting on peptide bonds (peptidases).,Cysteine endopeptidases.,2oz2,3.42556535937828,False
+1qi0,ENDOGLUCANASE B,3.2.1.4,Hydrolases.,Glycosylases.,"Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl compounds.",1qi0,2.0688426091714174,True
+2er9,ENDOTHIAPEPSIN,3.4.23.6,Hydrolases.,Acting on peptide bonds (peptidases).,Aspartic endopeptidases.,2er9,6.533366335579353,False
+8cpa,CARBOXYPEPTIDASE A,3.4.17.1,Hydrolases.,Acting on peptide bonds (peptidases).,Metallocarboxypeptidases.,8cpa,4.597290946610825,False
+4mdt,UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase,3.5.1,Hydrolases.,"Acting on carbon-nitrogen bonds, other than peptide bonds.",In linear amides.,4mdt,4.9225279233031936,False
+5llo,Carbonic anhydrase 12,4.2.1.1,Lyases.,Carbon-oxygen lyases.,Hydro-lyases.,5llo,1.622964492912885,True
+1yly,beta-lactamase CTX-M-9,3.5.2.6,Hydrolases.,"Acting on carbon-nitrogen bonds, other than peptide bonds.",In cyclic amides.,1yly,1.7112095544079005,True
+1ykp,"Protocatechuate 3,4-dioxygenase alpha chain",1.13.11.3,Oxidoreductases.,Acting on single donors with incorporation of molecular oxygen (oxygenases). The oxygen incorporated need not be derived from O(2).,With incorporation of two atoms of oxygen.,1ykp,0.10261949652660808,True
+1v2j,Trypsin,3.4.21.4,Hydrolases.,Acting on peptide bonds (peptidases).,Serine endopeptidases.,1v2j,0.03256799351592688,True
+1uxa,FIBER PROTEIN,,,,,1uxa,2.693096047593924,True
+1toi,Aspartate aminotransferase,2.6.1.1,Transferases.,Transferring nitrogenous groups.,Transaminases.,1toi,1.1525520141903742,True
+2a3a,chitinase,3.2.1.14,Hydrolases.,Glycosylases.,"Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl compounds.",2a3a,0.00027680980713120143,True
+3mrx,"Glycogen phosphorylase, muscle form",2.4.1.1,Transferases.,Glycosyltransferases.,Hexosyltransferases.,3mrx,3.348464974060125,True
+3mlb,nicotinate-nucleotide adenylyltransferase,2.7.7.18,Transferases.,Transferring phosphorus-containing groups.,Nucleotidyltransferases.,3mlb,3.2639477616717714,False
+3pcc,"PROTOCATECHUATE 3,4-DIOXYGENASE",1.13.11.3,Oxidoreductases.,Acting on single donors with incorporation of molecular oxygen (oxygenases). The oxygen incorporated need not be derived from O(2).,With incorporation of two atoms of oxygen.,3pcc,0.03269718120055492,True
+3kqb,factor Xa heavy chain,3.4.21.6,Hydrolases.,Acting on peptide bonds (peptidases).,Serine endopeptidases.,3kqb,3.1315073269595466,True
+3kr2,Phenylethanolamine N-methyltransferase,2.1.1.28,Transferases.,Transferring one-carbon groups.,Methyltransferases.,3kr2,9.96080337270915e-06,True
+3kiv,APOLIPOPROTEIN,3.4.21,Hydrolases.,Acting on peptide bonds (peptidases).,Serine endopeptidases.,3kiv,1.3058009814388198,True
+3k7f,Fatty-acid amide hydrolase 1,3.5.1,Hydrolases.,"Acting on carbon-nitrogen bonds, other than peptide bonds.",In linear amides.,3k7f,4.385246015158147,False
+3jqg,Pteridine reductase 1,1.5.1.33,Oxidoreductases.,Acting on the CH-NH group of donors.,With NAD(+) or NADP(+) as acceptor.,3jqg,1.2504766914399306,True
+5mro,"2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase, chloroplastic",2.7.7.60,Transferases.,Transferring phosphorus-containing groups.,Nucleotidyltransferases.,5mro,0.4158887910416225,True
+6g0z,Ribosome biogenesis GTPase A,,,,,6g0z,1.3281194003681709,True
+5un9,Protein O-GlcNAcase,3.2.1.169,Hydrolases.,Glycosylases.,"Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl compounds.",5un9,1.1853818390122337,True
+4l4z,Transcriptional regulator LsrR,,,,,4l4z,1.6591230578640426,True
+4kot,Uncharacterized protein,,,,,4kot,2.2661982426308644,True
+4v04,"FIBROBLAST GROWTH FACTOR RECEPTOR 1 (FMS-RELATED TYROSINE KINASE 2, PFEIFFER SYNDROME), ISOFORM CRA_B",,,,,4v04,4.931353471475479,True
+4umr,MATERNAL EMBRYONIC LEUCINE ZIPPER KINASE,2.7.11.1,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,4umr,1.4579123198638368,True
+4tsx,Integrase,,,,,4tsx,1.992845301949444,True
+4pm0,"High affinity cAMP-specific 3',5'-cyclic phosphodiesterase 7A",3.1.4.53,Hydrolases.,Acting on ester bonds.,Phosphoric diester hydrolases.,4pm0,0.7337161774269495,True
+4jzi,Suppressor of tumorigenicity 14 protein,3.4.21.109,Hydrolases.,Acting on peptide bonds (peptidases).,Serine endopeptidases.,4jzi,2.6961146811056453,False
+4jv6,"Retinal rod rhodopsin-sensitive cGMP 3',5'-cyclic phosphodiesterase subunit delta",,,,,4jv6,1.397545444124486,True
+4wkp,Aminodeoxyfutalosine nucleosidase,3.2.2.9,Hydrolases.,Glycosylases.,Hydrolyzing N-glycosyl compounds.,4wkp,2.407407255470535,True
+1gzg,DELTA-AMINOLEVULINIC ACID DEHYDRATASE,4.2.1.24,Lyases.,Carbon-oxygen lyases.,Hydro-lyases.,1gzg,1.2176297250057695,True
+4h3a,Undecaprenyl pyrophosphate synthase,2.5.1.31,Transferases.,"Transferring alkyl or aryl groups, other than methyl groups.","Transferring alkyl or aryl groups, other than methyl groups.",4h3a,2.7893188432864884,False
+3d1f,DNA polymerase III subunit beta,2.7.7.7,Transferases.,Transferring phosphorus-containing groups.,Nucleotidyltransferases.,3d1f,6.672717066153848,False
+5yqw,"Peptide ABC transporter, periplasmic peptide-binding protein",,,,,5yqw,3.4462848591756345,True
+4n7m,Caspase-6,3.4.22.59,Hydrolases.,Acting on peptide bonds (peptidases).,Cysteine endopeptidases.,4n7m,2.477718554833713e-06,True
+3v4t,UDP-N-acetylglucosamine 1-carboxyvinyltransferase,2.5.1.7,Transferases.,"Transferring alkyl or aryl groups, other than methyl groups.","Transferring alkyl or aryl groups, other than methyl groups.",3v4t,4.159721246848432,False
+3rsr,Ribonucleoside-diphosphate reductase large chain 1,1.17.4.1,Oxidoreductases.,Acting on CH or CH(2) groups.,With a disulfide as acceptor.,3rsr,2.305749585600055,True
+3rg2,"Enterobactin synthase component E (entE), 2,3-dihydro-2,3-dihydroxybenzoate synthetase, isochroismatase (Entb)",2.7.7.58,Transferases.,Transferring phosphorus-containing groups.,Nucleotidyltransferases.,3rg2,5.6957987277054185,False
+3zst,PUTATIVE GLUCANOHYDROLASE PEP1A GLGE ISOFORM 1,3.2.1,Hydrolases.,Glycosylases.,"Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl compounds.",3zst,0.5930619049193742,True
+4daf,Dihydropteroate Synthase,2.5.1.15,Transferases.,"Transferring alkyl or aryl groups, other than methyl groups.","Transferring alkyl or aryl groups, other than methyl groups.",4daf,0.36381798609818733,True
+5cqj,"Ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)",2.5.1.31,Transferases.,"Transferring alkyl or aryl groups, other than methyl groups.","Transferring alkyl or aryl groups, other than methyl groups.",5cqj,0.8744146302976781,True
+5c7e,ASPR2 protein,,,,,5c7e,6.8185677767709825,False
+5c5h,2-succinylbenzoate--CoA ligase,6.2.1.26,Ligases.,Forming carbon-sulfur bonds.,Acid--thiol ligases.,5c5h,2.194920417079178,False
+5afv,CHOLINE KINASE ALPHA,2.7.1.32,Transferases.,Transferring phosphorus-containing groups.,Phosphotransferases with an alcohol group as acceptor.,5afv,1.7331292824053557,True
+1nym,Beta-lactamase TEM,3.5.2.6,Hydrolases.,"Acting on carbon-nitrogen bonds, other than peptide bonds.",In cyclic amides.,1nym,1.625707539772211,True
+1o36,BETA-TRYPSIN,3.4.21.4,Hydrolases.,Acting on peptide bonds (peptidases).,Serine endopeptidases.,1o36,1.010450199298664,True
+1k1p,TRYPSIN,3.4.21.4,Hydrolases.,Acting on peptide bonds (peptidases).,Serine endopeptidases.,1k1p,2.2664384744534423,False
+2j3q,ACETYLCHOLINESTERASE,3.1.1.7,Hydrolases.,Acting on ester bonds.,Carboxylic ester hydrolases.,2j3q,1.1110725328584126,True
+2kdh,"Troponin C, slow skeletal and cardiac muscles",,,,,2kdh,3.2965039917616275,True
+1f8c,NEURAMINIDASE,3.2.1.18,Hydrolases.,Glycosylases.,"Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl compounds.",1f8c,1.2954839616110714,True
+3tu9,Fructose-bisphosphate aldolase A,4.1.2.13,Lyases.,Carbon-carbon lyases.,Aldehyde-lyases.,3tu9,2.335690848811725,True
+1r5w,"H-2 class II histocompatibility antigen, E-K alpha chain",,,,,1r5w,10.532203788901649,False
+1lv8,PURINE NUCLEOSIDE PHOSPHORYLASE,2.4.2.1,Transferases.,Glycosyltransferases.,Pentosyltransferases.,1lv8,1.3557130911619306,False
+6clv,Dihydropteroate synthase,2.5.1.15,Transferases.,"Transferring alkyl or aryl groups, other than methyl groups.","Transferring alkyl or aryl groups, other than methyl groups.",6clv,2.3397149503181724,False
+2bua,DIPEPTIDYL PEPTIDASE IV,3.4.14.5,Hydrolases.,Acting on peptide bonds (peptidases).,Dipeptidyl-peptidases and tripeptidyl-peptidases.,2bua,1.2553865267927278,True
+5n53,D-3-phosphoglycerate dehydrogenase,1.1.1.95,Oxidoreductases.,Acting on the CH-OH group of donors.,With NAD(+) or NADP(+) as acceptor.,5n53,0.777595433025022,True
+5tku,Factor XIa (Light Chain),3.4.21.27,Hydrolases.,Acting on peptide bonds (peptidases).,Serine endopeptidases.,5tku,2.2116974033963994,True
+5ek0,Chimera of bacterial Ion transport protein and human Sodium channel protein type 9 subunit alpha,,,,,5ek0,2.4597817120663312,True
+6fyl,Dual specificity protein kinase CLK2,2.7.12.1,Transferases.,Transferring phosphorus-containing groups.,Dual-specificity kinases (those acting on Ser/Thr and Tyr residues).,6fyl,1.9277672934813497,True
+4i2w,Protein UNC-45,,,,,4i2w,5.326663837608573,False
+4h5d,Farnesyl pyrophosphate synthase,2.5.1.1,Transferases.,"Transferring alkyl or aryl groups, other than methyl groups.","Transferring alkyl or aryl groups, other than methyl groups.",4h5d,2.3616892001225382,True
+4mwq,Neuraminidase,3.2.1.18,Hydrolases.,Glycosylases.,"Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl compounds.",4mwq,1.7987766163133532,True
+4mwy,Neuraminidase,3.2.1.18,Hydrolases.,Glycosylases.,"Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl compounds.",4mwy,1.1389163184339641,True
+3wch,Squalene synthase,2.5.1.21,Transferases.,"Transferring alkyl or aryl groups, other than methyl groups.","Transferring alkyl or aryl groups, other than methyl groups.",3wch,2.3453533708833634,False
+4ayx,ATP-BINDING CASSETTE SUB-FAMILY B MEMBER 10,,,,,4ayx,2.6671061644719187,False
+3zxr,GLUTAMINE SYNTHETASE 1,6.3.1.2,Ligases.,Forming carbon-nitrogen bonds.,Acid--ammonia (or amine) ligases (amide synthases).,3zxr,1.1306657941206852,True
+4gih,Non-receptor tyrosine-protein kinase TYK2,2.7.10.2,Transferases.,Transferring phosphorus-containing groups.,Protein-tyrosine kinases.,4gih,2.2516622594287106,True
+4g3f,NF-kappa-beta-inducing kinase,2.7.11.25,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,4g3f,1.9673699646613387,True
+5cnm,Metabotropic glutamate receptor 3,,,,,5cnm,2.1809603968818765,True
+5wb6,Coagulation factor XI,3.4.21.27,Hydrolases.,Acting on peptide bonds (peptidases).,Serine endopeptidases.,5wb6,2.8016122609988225,True
+5ofw,D-3-phosphoglycerate dehydrogenase,1.1.1.95,Oxidoreductases.,Acting on the CH-OH group of donors.,With NAD(+) or NADP(+) as acceptor.,5ofw,0.9181157242116234,True
+5lz5,Platelet-activating factor acetylhydrolase,3.1.1.47,Hydrolases.,Acting on ester bonds.,Carboxylic ester hydrolases.,5lz5,0.9300622491456207,True
+2aa6,Mineralocorticoid receptor,,,,,2aa6,0.5902904261362413,True
+3h0j,Acetyl-CoA carboxylase,6.4.1.2,Ligases.,Forming carbon-carbon bonds.,Forming carbon-carbon bonds.,3h0j,2.0446759497408764,True
+5myg,Peregrin,,,,,5myg,1.8915718788343516,True
+6mv3,"Troponin C, slow skeletal and cardiac muscles,Troponin I, cardiac muscle chimera",,,,,6mv3,2.0331310910803557,True
+5f1z,Non-receptor tyrosine-protein kinase TYK2,2.7.10.2,Transferases.,Transferring phosphorus-containing groups.,Protein-tyrosine kinases.,5f1z,1.0412399398123051,True
+5e5g,3-deoxy-D-arabinoheptulosonate-7-phosphate synthase,2.5.1.54,Transferases.,"Transferring alkyl or aryl groups, other than methyl groups.","Transferring alkyl or aryl groups, other than methyl groups.",5e5g,0.984834604776874,True
+5dkn,Protein S100-B,,,,,5dkn,4.494461079231148,False
+4u8w,HIV-1 Protease,3.4.23.16,Hydrolases.,Acting on peptide bonds (peptidases).,Aspartic endopeptidases.,4u8w,2.0550309371908733,False
+4qmz,SERINE/THREONINE-PROTEIN KINASE 24,2.7.11.1,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,4qmz,1.3663169089568128,True
+1adl,ADIPOCYTE LIPID-BINDING PROTEIN,,,,,1adl,3.5203596127029324,True
+3cx9,Serum albumin,,,,,3cx9,3.6892444890332894,False
+3che,Chitinase,3.2.1.14,Hydrolases.,Glycosylases.,"Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl compounds.",3che,3.748024572468564,False
+4ocz,Bifunctional epoxide hydrolase 2,3.3.2.10,Hydrolases.,Acting on ether bonds.,Ether hydrolases.,4ocz,1.4513840322766436,True
+3ut5,Tubulin alpha chain,,,,,3ut5,0.7702698655016569,True
+3st5,Protease,3.4.23.16,Hydrolases.,Acting on peptide bonds (peptidases).,Aspartic endopeptidases.,3st5,3.417532649216428,False
+4a50,KINESIN-LIKE PROTEIN KIF11,,,,,4a50,0.5816836124470408,True
+2wkz,PROTEASE,3.4.23.16,Hydrolases.,Acting on peptide bonds (peptidases).,Aspartic endopeptidases.,2wkz,6.2468484481457285,False
+5ct7,Serine/threonine-protein kinase B-raf,2.7.11.1,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,5ct7,2.17706043747862,True
+1nqc,Cathepsin S,3.4.22.27,Hydrolases.,Acting on peptide bonds (peptidases).,Cysteine endopeptidases.,1nqc,4.205278035812571,False
+2g79,Cellular retinoic acid-binding protein 2,,,,,2g79,0.8446590681774147,True
+5o9q,"1,3-beta-glucanosyltransferase GAS2",2.4.1,Transferases.,Glycosyltransferases.,Hexosyltransferases.,5o9q,4.904053255669719,False
+1qx1,Alpha-mannosidase II,3.2.1.114,Hydrolases.,Glycosylases.,"Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl compounds.",1qx1,0.09513922234884503,True
+1n9m,Streptavidin,,,,,1n9m,0.8804204340126058,True
+2qd6,Protease,3.4.23.16,Hydrolases.,Acting on peptide bonds (peptidases).,Aspartic endopeptidases.,2qd6,4.19112177083041,False
+6ck6,MAP kinase-interacting serine/threonine-protein kinase 2,2.7.11.1,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,6ck6,1.0725899958310718,True
+4y2p,Bifunctional epoxide hydrolase 2,3.3.2.10,Hydrolases.,Acting on ether bonds.,Ether hydrolases.,4y2p,0.9109506752519132,True
+5loh,"Serine/threonine-protein kinase greatwall,Serine/threonine-protein kinase greatwall",2.7.11.1,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,5loh,0.2210512870348741,True
+1t31,Chymase,3.4.21.39,Hydrolases.,Acting on peptide bonds (peptidases).,Serine endopeptidases.,1t31,3.8151899617686653,False
+1t7j,Pol Polyprotein,3.4.23.16,Hydrolases.,Acting on peptide bonds (peptidases).,Aspartic endopeptidases.,1t7j,4.5000731240598215,False
+3oy1,Mitogen-activated protein kinase 10,2.7.11.24,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,3oy1,3.4656298549045865,True
+3el7,Proto-oncogene tyrosine-protein kinase Src,2.7.10.2,Transferases.,Transferring phosphorus-containing groups.,Protein-tyrosine kinases.,3el7,1.8912700991937743,True
+2wd3,CARBONIC ANHYDRASE 2,4.2.1.1,Lyases.,Carbon-oxygen lyases.,Hydro-lyases.,2wd3,1.7328489645178384,True
+2wbb,"FRUCTOSE-1,6-BISPHOSPHATASE 1",3.1.3.11,Hydrolases.,Acting on ester bonds.,Phosphoric monoester hydrolases.,2wbb,1.44187925447389,False
+5ngt,"7,8-dihydro-8-oxoguanine triphosphatase",3.6.1.55,Hydrolases.,Acting on acid anhydrides.,In phosphorus-containing anhydrides.,5ngt,0.1157137363494526,True
+6g0w,Poly [ADP-ribose] polymerase 14,2.4.2.30,Transferases.,Glycosyltransferases.,Pentosyltransferases.,6g0w,1.7403943329276363,False
+5vse,Histone-lysine N-methyltransferase EHMT2,2.1.1,Transferases.,Transferring one-carbon groups.,Methyltransferases.,5vse,1.7320171126647268,True
+5tzy,"Free fatty acid receptor 1,Endolysin,Free fatty acid receptor 1",3.2.1.17,Hydrolases.,Glycosylases.,"Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl compounds.",5tzy,2.6609496714560037,False
+5tw3,"HIV-1 REVERSE TRANSCRIPTASE, P66 SUBUNIT",3.4.23.16,Hydrolases.,Acting on peptide bonds (peptidases).,Aspartic endopeptidases.,5tw3,2.1728352734204304,False
+4lil,DNA primase small subunit,2.7.7,Transferases.,Transferring phosphorus-containing groups.,Nucleotidyltransferases.,4lil,1.1785147796297732,True
+4q8x,Carbonic anhydrase 2,4.2.1.1,Lyases.,Carbon-oxygen lyases.,Hydro-lyases.,4q8x,0.8864689547506882,True
+5fum,ACETYLCHOLINESTERASE,3.1.1.7,Hydrolases.,Acting on ester bonds.,Carboxylic ester hydrolases.,5fum,2.112860684865078,False
+5fv7,FLAP ENDONUCLEASE 1,3.1,Hydrolases.,Acting on ester bonds.,,5fv7,1.4301054904318216,True
+4j2t,SERCA1a,3.6.3.8,Hydrolases.,Acting on acid anhydrides.,Acting on acid anhydrides; catalyzing transmembrane movement of substances.,4j2t,3.901617835013824,False
+4i8z,Protease,3.4.23.16,Hydrolases.,Acting on peptide bonds (peptidases).,Aspartic endopeptidases.,4i8z,4.686284945754268,False
+1ec2,HIV-1 PROTEASE,3.4.23.16,Hydrolases.,Acting on peptide bonds (peptidases).,Aspartic endopeptidases.,1ec2,4.873056077261997,False
+1bwb,PROTEIN (HIV-1 PROTEASE),3.4.23.16,Hydrolases.,Acting on peptide bonds (peptidases).,Aspartic endopeptidases.,1bwb,5.587492359068576,False
+4mzj,Myosin A tail domain interacting protein,,,,,4mzj,7.212837438621357,False
+4gao,DCN1-like protein 2,,,,,4gao,5.961711362956001,False
+4cj4,HIV INTEGRASE,2.7.7.7,Transferases.,Transferring phosphorus-containing groups.,Nucleotidyltransferases.,4cj4,3.3377872935916324,False
+2w54,XANTHINE DEHYDROGENASE,1.1.1.204,Oxidoreductases.,Acting on the CH-OH group of donors.,With NAD(+) or NADP(+) as acceptor.,2w54,0.4363241428837553,True
+5csx,Serine/threonine-protein kinase B-raf,2.7.11.1,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,5csx,2.223717230842001,True
+5anw,"7,8-DIHYDRO-8-OXOGUANINE TRIPHOSPHATASE",3.6.1.55,Hydrolases.,Acting on acid anhydrides.,In phosphorus-containing anhydrides.,5anw,1.3770475202326125,True
+1npv,POL polyprotein,3.4.23.16,Hydrolases.,Acting on peptide bonds (peptidases).,Aspartic endopeptidases.,1npv,3.7942946035915064,False
+1kpm,Phospholipase A2,3.1.1.4,Hydrolases.,Acting on ester bonds.,Carboxylic ester hydrolases.,1kpm,2.8891996044650243,False
+2irz,Beta-secretase 1,3.4.23.46,Hydrolases.,Acting on peptide bonds (peptidases).,Aspartic endopeptidases.,2irz,1.5086757547802456,False
+3u2q,Elongation factor Tu 1,,,,,3u2q,2.093763527659196,False
+6azk,meditope,,,,,6azk,2.5705018589969937,False
+1rt9,Purine nucleoside phosphorylase,2.4.2.1,Transferases.,Glycosyltransferases.,Pentosyltransferases.,1rt9,0.4807799277984557,True
+1xot,"cAMP-specific 3',5'-cyclic phosphodiesterase 4B",3.1.4.17,Hydrolases.,Acting on ester bonds.,Phosphoric diester hydrolases.,1xot,2.0319607838187017,True
+2va6,BETA SECRETASE 1,3.4.23.46,Hydrolases.,Acting on peptide bonds (peptidases).,Aspartic endopeptidases.,2va6,0.8237395425966619,True
+3f8s,Dipeptidyl peptidase 4,3.4.14.5,Hydrolases.,Acting on peptide bonds (peptidases).,Dipeptidyl-peptidases and tripeptidyl-peptidases.,3f8s,1.1614351092120492,True
+3q71,Poly [ADP-ribose] polymerase 14,2.4.2.30,Transferases.,Glycosyltransferases.,Pentosyltransferases.,3q71,2.3924226088867546,False
+4l7h,Beta-secretase 1,3.4.23.46,Hydrolases.,Acting on peptide bonds (peptidases).,Aspartic endopeptidases.,4l7h,1.899241919925492,True
+5i13,Polymerase acidic protein,3.1,Hydrolases.,Acting on ester bonds.,,5i13,0.4287029223571478,True
+5fdd,"Polymerase acidic protein,Polymerase acidic protein",3.1,Hydrolases.,Acting on ester bonds.,,5fdd,1.5104824668714143,True
+4joo,Beta-secretase 1,3.4.23.46,Hydrolases.,Acting on peptide bonds (peptidases).,Aspartic endopeptidases.,4joo,1.8574084802226205,True
+4j0y,Beta-secretase 1,3.4.23.46,Hydrolases.,Acting on peptide bonds (peptidases).,Aspartic endopeptidases.,4j0y,1.7372193409230539,True
+5kby,Dipeptidyl peptidase 4,3.4.14.5,Hydrolases.,Acting on peptide bonds (peptidases).,Dipeptidyl-peptidases and tripeptidyl-peptidases.,5kby,1.9445862958429871,True
+4n1t,"7,8-dihydro-8-oxoguanine triphosphatase",3.6.1.55,Hydrolases.,Acting on acid anhydrides.,In phosphorus-containing anhydrides.,4n1t,0.917218519647526,True
+3udq,Beta-secretase 1,3.4.23.46,Hydrolases.,Acting on peptide bonds (peptidases).,Aspartic endopeptidases.,3udq,0.5123608347279083,True
+3qup,Tyrosine-protein kinase receptor TYRO3,2.7.10.1,Transferases.,Transferring phosphorus-containing groups.,Protein-tyrosine kinases.,3qup,1.495232567248185,True
+4g1f,Dipeptidyl peptidase 4,3.4.14.5,Hydrolases.,Acting on peptide bonds (peptidases).,Dipeptidyl-peptidases and tripeptidyl-peptidases.,4g1f,0.11251749998599002,True
+2h42,"cGMP-specific 3',5'-cyclic phosphodiesterase",3.1.4.35,Hydrolases.,Acting on ester bonds.,Phosphoric diester hydrolases.,2h42,1.3713630132293142,True
+2ha4,Acetylcholinesterase,3.1.1.7,Hydrolases.,Acting on ester bonds.,Carboxylic ester hydrolases.,2ha4,1.5118349209016757,True
+4up5,"PYGOPUS HOMOLOG 2, B-CELL CLL/LYMPHOMA 9-LIKE PROTEIN",,,,,4up5,0.019518107736794296,True
+1g05,STROMELYSIN-1 PRECURSOR,3.4.24.17,Hydrolases.,Acting on peptide bonds (peptidases).,Metalloendopeptidases.,1g05,2.116789428825964,True
+2cgw,SERINE/THREONINE-PROTEIN KINASE CHK1,2.7.11.1,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,2cgw,1.5737678470092589,True
+2ywp,Serine/threonine-protein kinase Chk1,2.7.11.1,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,2ywp,2.93111870034442,True
+2v87,VDJ RECOMBINATION-ACTIVATING PROTEIN 2,,,,,2v87,6.478526835996697,False
+3iiw,Polycomb protein EED,,,,,3iiw,4.568468911325333,False
+5t6p,Fab fragment AR20.5 - Light Chain,,,,,5t6p,5.2948231317107615,False
+5ov9,Acetylcholinesterase,3.1.1.7,Hydrolases.,Acting on ester bonds.,Carboxylic ester hydrolases.,5ov9,1.4773112684080827,True
+5toe,Serine/threonine-protein kinase pim-1,2.7.11.1,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,5toe,1.124834686882177,True
+4kju,E3 ubiquitin-protein ligase XIAP,6.3.2,Ligases.,Forming carbon-nitrogen bonds.,Acid--amino-acid ligases (peptide synthases).,4kju,2.429208081737621,True
+5hvp,HIV-1 PROTEASE,3.4.23.16,Hydrolases.,Acting on peptide bonds (peptidases).,Aspartic endopeptidases.,5hvp,3.2976829012852216,False
+4kbc,Casein kinase I isoform delta,2.7.11.1,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,4kbc,1.0842999027096842,True
+5jog,COP9 signalosome complex subunit 5,3.4,Hydrolases.,Acting on peptide bonds (peptidases).,,5jog,2.2609868731286533,True
+4z7h,Serine/threonine-protein kinase/endoribonuclease IRE1,2.7.11.1,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,4z7h,0.9373285924820608,True
+3cm7,Baculoviral IAP repeat-containing protein 4,6.3.2,Ligases.,Forming carbon-nitrogen bonds.,Acid--amino-acid ligases (peptide synthases).,3cm7,2.0437747480598323,False
+4oel,Dipeptidyl peptidase 1 Heavy chain,3.4.14.1,Hydrolases.,Acting on peptide bonds (peptidases).,Dipeptidyl-peptidases and tripeptidyl-peptidases.,4oel,2.3012197045902822,True
+4o7e,Bromodomain-containing protein 4,,,,,4o7e,1.3262086215938274,True
+4o77,Bromodomain-containing protein 4,,,,,4o77,1.0104653709031841,True
+2xui,ACETYLCHOLINESTERASE,3.1.1.7,Hydrolases.,Acting on ester bonds.,Carboxylic ester hydrolases.,2xui,3.6907764407202586,False
+5ajp,POLYPEPTIDE N-ACETYLGALACTOSAMINYLTRANSFERASE 2,2.4.1.41,Transferases.,Glycosyltransferases.,Hexosyltransferases.,5ajp,8.912317967962439,False
+1j19,radixin,,,,,1j19,9.304268038142439,False
+5w5u,Hemagglutinin,,,,,5w5u,5.092732507145231,False
+4rh5,Tyrosine-protein phosphatase non-receptor type 3,3.1.3.48,Hydrolases.,Acting on ester bonds.,Phosphoric monoester hydrolases.,4rh5,4.2002385245664104,False
+1q83,Acetylcholinesterase,3.1.1.7,Hydrolases.,Acting on ester bonds.,Carboxylic ester hydrolases.,1q83,2.7638347307586897,False
+1r6z,Chimera of Maltose-binding periplasmic protein and Argonaute 2,,,,,1r6z,1.6957792265265423,True
+5mo8,Casein kinase II subunit alpha,2.7.11.1,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,5mo8,4.8838365306436655,False
+1wcc,CELL DIVISION PROTEIN KINASE 2,2.7.11.22,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,1wcc,0.00017093930437017883,True
+1zrz,"Protein kinase C, iota",2.7.11.13,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,1zrz,1.9881650647162343,True
+3f9y,Histone-lysine N-methyltransferase SETD8,2.1.1.43,Transferases.,Transferring one-carbon groups.,Methyltransferases.,3f9y,6.533172562930758,False
+6di0,Tyrosine-protein kinase BTK,2.7.10.2,Transferases.,Transferring phosphorus-containing groups.,Protein-tyrosine kinases.,6di0,1.45292092083215,True
+5eb3,YfiR,,,,,5eb3,0.19571601187074134,True
+5h0h,Tyrosine-protein kinase HCK,2.7.10.2,Transferases.,Transferring phosphorus-containing groups.,Protein-tyrosine kinases.,5h0h,2.2241912160855564,True
+5h0e,Tyrosine-protein kinase HCK,2.7.10.2,Transferases.,Transferring phosphorus-containing groups.,Protein-tyrosine kinases.,5h0e,1.712338787413482,False
+5jjs,Genome polyprotein,3.4.21.91,Hydrolases.,Acting on peptide bonds (peptidases).,Serine endopeptidases.,5jjs,3.039127345177849,True
+4omd,Furin,3.4.21.75,Hydrolases.,Acting on peptide bonds (peptidases).,Serine endopeptidases.,4omd,4.085392501186877,False
+4o74,Bromodomain-containing protein 4,,,,,4o74,2.5610555766977403,False
+3vry,Tyrosine-protein kinase HCK,2.7.10.2,Transferases.,Transferring phosphorus-containing groups.,Protein-tyrosine kinases.,3vry,1.5268381165241838,True
+3qzv,Nucleosome-remodeling factor subunit BPTF,,,,,3qzv,3.238395890202964,False
+4bda,SERINE/THREONINE-PROTEIN KINASE CHK2,2.7.11.1,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,4bda,3.52558660710952e-06,True
+4erz,WD repeat-containing protein 5,,,,,4erz,5.914928083701673,False
+4deb,Aurora kinase A,2.7.11.1,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,4deb,2.7410834024047874,True
+2flr,Coagulation factor VII,3.4.21.21,Hydrolases.,Acting on peptide bonds (peptidases).,Serine endopeptidases.,2flr,1.0435348451528517,True
+1jvp,Cell division protein kinase 2,2.7.11.22,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,1jvp,0.9548867667671909,True
+2lha,Synaptotagmin-1,,,,,2lha,2.355711051570172,True
+5ntw,Nuclear receptor ROR-gamma,,,,,5ntw,2.108048829016677,False
+2ofv,Proto-oncogene tyrosine-protein kinase LCK,2.7.10.2,Transferases.,Transferring phosphorus-containing groups.,Protein-tyrosine kinases.,2ofv,0.8330670973044908,True
+1rhm,CASP-3,3.4.22,Hydrolases.,Acting on peptide bonds (peptidases).,Cysteine endopeptidases.,1rhm,1.4765351215904186,True
+4lw1,Replication protein A 70 kDa DNA-binding subunit,,,,,4lw1,0.10667045497202708,True
+1xh8,"cAMP-dependent protein kinase, alpha-catalytic subunit",2.7.11.11,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,1xh8,1.3914971179697784,False
+1w8m,PEPTIDYL-PROLYL CIS-TRANS ISOMERASE A,5.2.1.8,Isomerases.,Cis-trans-isomerases.,Cis-trans isomerases.,1w8m,2.0352927333003037,True
+1uef,Docking protein 1,,,,,1uef,7.816727787352481,False
+1t4v,Prothrombin,3.4.21.5,Hydrolases.,Acting on peptide bonds (peptidases).,Serine endopeptidases.,1t4v,3.077354298647464,False
+2chm,"CGMP-SPECIFIC 3', 5'-CYCLIC PHOSPHODIESTERASE, CAMP-SPECIFIC 3', 5'-CYCLIC PHOSPHODIESTERASE 4B",3.1.4.17,Hydrolases.,Acting on ester bonds.,Phosphoric diester hydrolases.,2chm,2.589900846725792,True
+2anm,thrombin,3.4.21.5,Hydrolases.,Acting on peptide bonds (peptidases).,Serine endopeptidases.,2anm,2.73304646502066,False
+3mjl,Arginase-1,3.5.3.1,Hydrolases.,"Acting on carbon-nitrogen bonds, other than peptide bonds.",In linear amidines.,3mjl,7.258687477651086e-05,True
+3ldq,Heat shock cognate 71 kDa protein,,,,,3ldq,2.699513778068013,True
+3l17,"Phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit gamma isoform",2.7.11.1,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,3l17,1.2004975290259678,True
+3fe7,Mdm4 protein,,,,,3fe7,4.344604057373367,False
+3kce,Peptidyl-prolyl cis-trans isomerase NIMA-interacting 1,5.2.1.8,Isomerases.,Cis-trans-isomerases.,Cis-trans isomerases.,3kce,0.10636599638006068,True
+5os1,Aurora kinase A,2.7.11.1,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,5os1,0.6123893774528272,True
+6mwe,Angiopoietin-1 receptor,2.7.10.1,Transferases.,Transferring phosphorus-containing groups.,Protein-tyrosine kinases.,6mwe,2.5965616511025766,False
+4l02,Sphingosine kinase 1,2.7.1.91,Transferases.,Transferring phosphorus-containing groups.,Phosphotransferases with an alcohol group as acceptor.,4l02,0.9844229741094174,True
+5i9z,Ephrin type-A receptor 2,2.7.10.1,Transferases.,Transferring phosphorus-containing groups.,Protein-tyrosine kinases.,5i9z,2.3238095359253346,True
+1h0w,CELL DIVISION PROTEIN KINASE 2,2.7.11.22,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,1h0w,0.7406067835282322,True
+6gue,Cyclin-dependent kinase 2,2.7.11.22,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,6gue,1.3227089606502977,True
+4hvg,Tyrosine-protein kinase JAK3,2.7.10.2,Transferases.,Transferring phosphorus-containing groups.,Protein-tyrosine kinases.,4hvg,1.2303821401941395,True
+4b9k,TRANSCRIPTION ELONGATION FACTOR B POLYPEPTIDE 2,,,,,4b9k,1.0085538219566759,True
+2gni,"cAMP-dependent protein kinase, alpha-catalytic subunit",2.7.11.11,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,2gni,1.81481029807596,True
+1g1e,MAD1 PROTEIN,,,,,1g1e,9.078911378352812,False
+3tyv,RNA-directed RNA polymerase,2.7.7.48,Transferases.,Transferring phosphorus-containing groups.,Nucleotidyltransferases.,3tyv,2.2244301045815207,True
+3tl5,"Phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit gamma isoform",2.7.11.1,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,3tl5,1.4782359675431815,True
+1qj1,THROMBIN,3.4.21.5,Hydrolases.,Acting on peptide bonds (peptidases).,Serine endopeptidases.,1qj1,1.192622501584729,True
+2f71,"Tyrosine-protein phosphatase, non-receptor type 1",3.1.3.48,Hydrolases.,Acting on ester bonds.,Phosphoric monoester hydrolases.,2f71,1.911247731752256,True
+1yvh,CBL E3 ubiquitin protein ligase,6.3.2,Ligases.,Forming carbon-nitrogen bonds.,Acid--amino-acid ligases (peptide synthases).,1yvh,7.073422848974997,False
+1y6b,Vascular endothelial growth factor receptor 2,2.7.10.1,Transferases.,Transferring phosphorus-containing groups.,Protein-tyrosine kinases.,1y6b,2.862149095383402,False
+1ukh,Mitogen-activated protein kinase 8 isoform 4,2.7.11.24,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,1ukh,6.2294609488603445,False
+2cmb,TYROSINE-PROTEIN PHOSPHATASE NON-RECEPTOR TYPE 1,3.1.3.48,Hydrolases.,Acting on ester bonds.,Phosphoric monoester hydrolases.,2cmb,5.290327400317941,False
+3oap,Retinoic acid receptor RXR-alpha,,,,,3oap,5.954229894969831,False
+2v3d,GLUCOSYLCERAMIDASE,3.2.1.45,Hydrolases.,Glycosylases.,"Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl compounds.",2v3d,1.892758950907269,True
+6euz,Listeriolysin positive regulatory factor A,,,,,6euz,2.4442409116961312,True
+5ggp,"Protein O-linked-mannose beta-1,2-N-acetylglucosaminyltransferase 1",2.4.1,Transferases.,Glycosyltransferases.,Hexosyltransferases.,5ggp,5.103394489184471,False
+4is6,"HLA class II histocompatibility antigen, DR alpha chain",,,,,4is6,11.211589748930257,False
+6gin,Activin receptor type-1,2.7.11.30,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,6gin,2.2660570996321585,True
+4mrd,CD44 antigen,,,,,4mrd,3.4458947969205007,True
+4bci,CYCLIN-DEPENDENT KINASE 9,2.7.11.22,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,4bci,1.5518145381884743,True
+1oit,CELL DIVISION PROTEIN KINASE 2,2.7.11.22,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,1oit,1.1450861649151047,True
+1oir,CELL DIVISION PROTEIN KINASE 2,2.7.11.22,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,1oir,1.6738892251001252,True
+1no9,Alpha Thrombin,3.4.21.5,Hydrolases.,Acting on peptide bonds (peptidases).,Serine endopeptidases.,1no9,1.3267984189886617,True
+2gkl,Beta-lactamase,3.5.2.6,Hydrolases.,"Acting on carbon-nitrogen bonds, other than peptide bonds.",In cyclic amides.,2gkl,1.256625155423225,True
+1leg,"H-2 CLASS I HISTOCOMPATIBILITY ANTIGEN, K-B ALPHA CHAIN",,,,,1leg,6.277961513085291,False
+2jdu,FUCOSE-BINDING LECTIN PA-IIL,,,,,2jdu,0.11950474028541686,True
+5vyy,Heat shock protein HSP 90-alpha,,,,,5vyy,1.6305985943960901,True
+4r75,"ABC-type Fe3+ transport system, periplasmic component",,,,,4r75,1.7964644595929855,True
+3nex,Transthyretin,,,,,3nex,2.118842570305848,True
+2v2q,4-DIPHOSPHOCYTIDYL-2-C-METHYL-D-ERYTHRITOL KINASE,2.7.1.148,Transferases.,Transferring phosphorus-containing groups.,Phosphotransferases with an alcohol group as acceptor.,2v2q,4.668068222353927,False
+3az8,Beta-hydroxyacyl-ACP dehydratase,4.2.1,Lyases.,Carbon-oxygen lyases.,Hydro-lyases.,3az8,0.9357608400849068,True
+5edu,"Maltose-binding periplasmic protein, Histone deacetylase 6 chimera",3.5.1.98,Hydrolases.,"Acting on carbon-nitrogen bonds, other than peptide bonds.",In linear amides.,5edu,1.057918520755645,False
+4joj,Golgi-associated PDZ and coiled-coil motif-containing protein,,,,,4joj,7.134502988425874,False
+4wkt,Acyl-homoserine lactone acylase PvdQ,3.5.1.97,Hydrolases.,"Acting on carbon-nitrogen bonds, other than peptide bonds.",In linear amides.,4wkt,1.5507885837483493,True
+4whq,"Protocatechuate 3,4-dioxygenase alpha chain",1.13.11.3,Oxidoreductases.,Acting on single donors with incorporation of molecular oxygen (oxygenases). The oxygen incorporated need not be derived from O(2).,With incorporation of two atoms of oxygen.,4whq,3.449671418825921e-05,True
+4gy5,E3 ubiquitin-protein ligase UHRF1,6.3.2,Ligases.,Forming carbon-nitrogen bonds.,Acid--amino-acid ligases (peptide synthases).,4gy5,5.930105567522961,False
+3uil,Peptidoglycan recognition protein 1,,,,,3uil,3.124030988745224,False
+3rme,Acidic mammalian chitinase,3.2.1.14,Hydrolases.,Glycosylases.,"Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl compounds.",3rme,1.5298169457875792,True
+4cqf,HISTONE DEACETYLASE 8,,,,,4cqf,2.3256228696035515,False
+4zt5,Methionyl-tRNA synthetase,6.1.1.10,Ligases.,Forming carbon-oxygen bonds.,Ligases forming aminoacyl-tRNA and related compounds.,4zt5,1.8957082889862296,True
+4zt4,Methionyl-tRNA synthetase,6.1.1.10,Ligases.,Forming carbon-oxygen bonds.,Ligases forming aminoacyl-tRNA and related compounds.,4zt4,3.6494165365343285,True
+2j83,ULILYSIN,3.4.24,Hydrolases.,Acting on peptide bonds (peptidases).,Metalloendopeptidases.,2j83,2.5037893831173084,False
+2qiq,Replicase polyprotein 1ab,3.4.19.12,Hydrolases.,Acting on peptide bonds (peptidases).,Omega peptidases.,2qiq,3.6690666992156222,False
+11gs,GLUTATHIONE S-TRANSFERASE,2.5.1.18,Transferases.,"Transferring alkyl or aryl groups, other than methyl groups.","Transferring alkyl or aryl groups, other than methyl groups.",11gs,5.530377125709653,False
+6cms,Tyrosine-protein phosphatase non-receptor type 11,3.1.3.48,Hydrolases.,Acting on ester bonds.,Phosphoric monoester hydrolases.,6cms,1.3806874572448562,True
+5n16,Bromodomain-containing factor 1,,,,,5n16,1.4716547934788615,True
+5mfs,Aminopeptidase N,3.4.11.2,Hydrolases.,Acting on peptide bonds (peptidases).,Aminopeptidases.,5mfs,0.03257057405236265,True
+1xpc,Estrogen receptor,,,,,1xpc,1.305265319173167,False
+3mvm,Mitogen-activated protein kinase 14,2.7.11.24,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,3mvm,0.9058870612952896,True
+3bet,Carbonic anhydrase 2,4.2.1.1,Lyases.,Carbon-oxygen lyases.,Hydro-lyases.,3bet,1.3948227898904235,True
+6fhu,Bromodomain adjacent to zinc finger domain protein 2A,,,,,6fhu,2.3940585522706983,True
+5xyx,Mitogen-activated protein kinase 14,2.7.11.24,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,5xyx,0.8186243346871659,True
+5tw5,Antigen-presenting glycoprotein CD1d1,,,,,5tw5,6.35913013901647,False
+4k6y,Golgi-associated PDZ and coiled-coil motif-containing protein,,,,,4k6y,7.3712662181538064,False
+5ix0,Histone deacetylase 2,3.5.1.98,Hydrolases.,"Acting on carbon-nitrogen bonds, other than peptide bonds.",In linear amides.,5ix0,1.3110190759188565,True
+5j5x,cAMP-dependent protein kinase catalytic subunit alpha,2.7.11.11,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,5j5x,5.1617149719403415,False
+6h2z,Carbonic anhydrase 2,4.2.1.1,Lyases.,Carbon-oxygen lyases.,Hydro-lyases.,6h2z,1.918164012377585,True
+3c4f,Basic fibroblast growth factor receptor 1,2.7.10.1,Transferases.,Transferring phosphorus-containing groups.,Protein-tyrosine kinases.,3c4f,0.5934749348250478,True
+4op3,Glucokinase Regulatory Protein,,,,,4op3,3.113043202888629,True
+4mro,Glucokinase regulatory protein,,,,,4mro,2.047993524357868,True
+2i2b,Probable inorganic polyphosphate/ATP-NAD kinase 1,2.7.1.23,Transferases.,Transferring phosphorus-containing groups.,Phosphotransferases with an alcohol group as acceptor.,2i2b,1.3806416281678577,True
+5lgs,Histone-arginine methyltransferase CARM1,2.1.1.319,Transferases.,Transferring one-carbon groups.,Methyltransferases.,5lgs,5.559113288284248,False
+2wev,CELL DIVISION PROTEIN KINASE 2,2.7.11.22,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,2wev,2.7486098342037155,True
+4l0t,Tankyrase-2,2.4.2.30,Transferases.,Glycosyltransferases.,Pentosyltransferases.,4l0t,1.0899373779544308,True
+4tu4,ATPase family AAA domain-containing protein 2,3.6.1.3,Hydrolases.,Acting on acid anhydrides.,In phosphorus-containing anhydrides.,4tu4,2.9490691181364723,True
+4rll,Casein kinase II subunit alpha,2.7.11.1,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,4rll,1.0935920797715415,True
+6g9i,"Envelope glycoprotein,Envelope glycoprotein",,,,,6g9i,1.6264600191744942,True
+4nyj,GTPase HRas,3.6.5.2,Hydrolases.,Acting on acid anhydrides.,Acting on GTP; involved in cellular and subcellular movement.,4nyj,1.3246500685540534,True
+4o3u,Hepatocyte growth factor receptor,2.7.10.1,Transferases.,Transferring phosphorus-containing groups.,Protein-tyrosine kinases.,4o3u,3.4555427539614336,False
+4urv,GTPASE HRAS,3.6.5.2,Hydrolases.,Acting on acid anhydrides.,Acting on GTP; involved in cellular and subcellular movement.,4urv,1.3136114048775598,True
+4w5a,Transcriptional regulator ATRX,3.6.4.12,Hydrolases.,Acting on acid anhydrides.,Acting on ATP; involved in cellular and subcellular movement.,4w5a,9.177442729956352,False
+2ovq,S-phase kinase-associated protein 1A,,,,,2ovq,6.660763837799834,False
+1q4l,GLYCOGEN SYNTHASE KINASE-3 BETA,2.7.11.26,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,1q4l,1.834141263359801,True
+1nhg,enoyl-acyl carrier reductase,1.3.1.9,Oxidoreductases.,Acting on the CH-CH group of donors.,With NAD(+) or NADP(+) as acceptor.,1nhg,1.3834398325267752,True
+2r5d,gp41 N-peptide,,,,,2r5d,5.66287682512859,False
+1ctr,CALMODULIN,,,,,1ctr,3.2530241171984464,True
+2avo,Pol polyprotein,3.4.23.16,Hydrolases.,Acting on peptide bonds (peptidases).,Aspartic endopeptidases.,2avo,2.6561894720816923,False
+3lw0,Insulin-like growth factor 1 receptor,2.7.10.1,Transferases.,Transferring phosphorus-containing groups.,Protein-tyrosine kinases.,3lw0,2.414510323030577,False
+5y5u,Tyrosine-protein kinase SYK,2.7.10.2,Transferases.,Transferring phosphorus-containing groups.,Protein-tyrosine kinases.,5y5u,0.4077278821207477,True
+5y0z,NAD-dependent protein deacetylase sirtuin-2,3.5.1,Hydrolases.,"Acting on carbon-nitrogen bonds, other than peptide bonds.",In linear amides.,5y0z,4.239776147320102,False
+5vs6,Ubiquitin carboxyl-terminal hydrolase 7,3.4.19.12,Hydrolases.,Acting on peptide bonds (peptidases).,Omega peptidases.,5vs6,3.12752561171623,False
+4wsy,Serine/threonine-protein kinase pim-1,2.7.11.1,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,4wsy,1.4612987902420986,True
+4dhr,14-3-3 protein sigma,,,,,4dhr,3.858679620949212,True
+2xl3,WD REPEAT-CONTAINING PROTEIN 5,,,,,2xl3,7.496482025364759,False
+3k0k,Breast cancer type 1 susceptibility protein,2.3.2.27,Transferases.,Acyltransferases.,Aminoacyltransferases.,3k0k,3.697833025826206,False
+3gnv,RNA-directed RNA polymerase,2.7.7.48,Transferases.,Transferring phosphorus-containing groups.,Nucleotidyltransferases.,3gnv,1.1894160450213915,True
+5ul1,"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform",2.7.11.1,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,5ul1,2.505689180568341,True
+5tq5,Tyrosine-protein kinase JAK2,2.7.10.2,Transferases.,Transferring phosphorus-containing groups.,Protein-tyrosine kinases.,5tq5,1.035261490869029,True
+5emm,Protein arginine N-methyltransferase 5,2.1.1,Transferases.,Transferring one-carbon groups.,Methyltransferases.,5emm,3.6905316476561225,True
+4rx5,Tyrosine-protein kinase BTK,2.7.10.2,Transferases.,Transferring phosphorus-containing groups.,Protein-tyrosine kinases.,4rx5,1.4438017703942732,True
+5gtr,Estrogen receptor,,,,,5gtr,5.792071061469179,False
+6gji,Peptidyl-prolyl cis-trans isomerase A,5.2.1.8,Isomerases.,Cis-trans-isomerases.,Cis-trans isomerases.,6gji,2.8971317052094445,False
+3e62,Tyrosine-protein kinase JAK2,2.7.10.2,Transferases.,Transferring phosphorus-containing groups.,Protein-tyrosine kinases.,3e62,1.4203607327736868e-05,True
+3vrt,Vitamin D3 receptor,,,,,3vrt,1.6884486866835595,True
+4bie,MITOGEN-ACTIVATED PROTEIN KINASE KINASE KINASE 5,2.7.11.25,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,4bie,1.3546335650666002,True
+4bbf,TYROSINE-PROTEIN KINASE JAK2,2.7.10.2,Transferases.,Transferring phosphorus-containing groups.,Protein-tyrosine kinases.,4bbf,1.5562776179874034,True
+6bh3,"Lysine-specific demethylase 5A, linked KDM5A JMJ domain",1.14.11.67,Oxidoreductases.,"Acting on paired donors, with incorporation or reduction of molecular oxygen. The oxygen incorporated need not be derived from O(2).","With 2-oxoglutarate as one donor, and incorporation of one atom each of oxygen into both donors.",6bh3,0.9477253643157172,True
+3fzr,Protein tyrosine kinase 2 beta,2.7.10.2,Transferases.,Transferring phosphorus-containing groups.,Protein-tyrosine kinases.,3fzr,3.298507857222434,True
+3qcs,3-phosphoinositide-dependent protein kinase 1,2.7.11.1,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,3qcs,1.0466809008853708,True
+5dxe,Estrogen receptor,,,,,5dxe,3.871573507380397,False
+4osf,Macrophage migration inhibitory factor,5.3.2.1,Isomerases.,Intramolecular oxidoreductases.,Interconverting keto- and enol-groups.,4osf,1.8466078169379752,True
+3w2o,Epidermal growth factor receptor,2.7.10.1,Transferases.,Transferring phosphorus-containing groups.,Protein-tyrosine kinases.,3w2o,2.512268456049428,True
+1wbv,MITOGEN-ACTIVATED PROTEIN KINASE 14,2.7.11.24,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,1wbv,0.3337775495461654,True
+6i3s,E3 ubiquitin-protein ligase Mdm2,2.3.2.27,Transferases.,Acyltransferases.,Aminoacyltransferases.,6i3s,2.4874377156127703,True
+5uc4,Heat shock protein HSP 90-beta,,,,,5uc4,1.316007401440496,True
+6gl8,"Apoptosis regulator Bcl-2,Apoptosis regulator Bcl-2,Apoptosis regulator Bcl-2,Bcl-2-like protein 1,Apoptosis regulator Bcl-2,Apoptosis regulator Bcl-2,Apoptosis regulator Bcl-2",,,,,6gl8,3.082053306715209,False
+5ut6,Tyrosine-protein kinase JAK2,2.7.10.2,Transferases.,Transferring phosphorus-containing groups.,Protein-tyrosine kinases.,5ut6,1.5517466071104669,True
+1a1b,C-SRC TYROSINE KINASE,2.7.10.2,Transferases.,Transferring phosphorus-containing groups.,Protein-tyrosine kinases.,1a1b,2.1922275076828988,True
+1a08,C-SRC TYROSINE KINASE,2.7.10.2,Transferases.,Transferring phosphorus-containing groups.,Protein-tyrosine kinases.,1a08,2.4154095042923656,False
+5xva,Serine/threonine-protein kinase PAK 4,2.7.11.1,Transferases.,Transferring phosphorus-containing groups.,Protein-serine/threonine kinases.,5xva,1.823230573116265,True
