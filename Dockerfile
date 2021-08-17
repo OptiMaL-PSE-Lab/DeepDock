@@ -89,6 +89,7 @@ RUN gunzip reduce.gz && \
 WORKDIR /
 RUN git clone https://github.com/OptiMaL-PSE-Lab/DeepDock.git && \
     cd DeepDock && \
+    git checkout v1.0.0 && \
     git submodule update --init --recursive && \
     pip install -e . && \
     cd data && \
