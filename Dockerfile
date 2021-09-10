@@ -89,11 +89,10 @@ RUN gunzip reduce.gz && \
 WORKDIR /
 RUN git clone https://github.com/OptiMaL-PSE-Lab/DeepDock.git && \
     cd DeepDock && \
-    git checkout v1.0.0 && \
     git submodule update --init --recursive && \
     pip install -e . && \
     cd data && \
-    wget https://ndownloader.figshare.com/files/27800817 -O dataset_CASF-2016_285.tar
+    wget https://ndownloader.figshare.com/files/30722306 -O dataset_CASF2016_Schrodinger_285_28a6b.tar
 
 # create a conda environment to run python2.7
 RUN conda create -y -n python2_env \
