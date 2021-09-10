@@ -35,12 +35,11 @@ def mol_to_nx(mol):
     for bond in mol.GetBonds():
         if mol.GetAtomWithIdx(bond.GetBeginAtomIdx()).GetAtomicNum() == 1: continue
         if mol.GetAtomWithIdx(bond.GetEndAtomIdx()).GetAtomicNum() == 1: continue
-        isConjugated = 1 if bond.GetIsConjugated() and not bond.GetIsAromatic() else 0
+        bondType = 4.0 if bond.GetIsConjugated() and not bond.GetIsAromatic() else bond.GetBondTypeAsDouble()
         G.add_edge(bond.GetBeginAtomIdx(),
                    bond.GetEndAtomIdx(),
-                   edge_attr=np.array(list(oneHotVector(bond.GetBondTypeAsDouble(), 
-                                                  [1.0, 1.5, 2.0, 3.0, 99.0]))+[isConjugated], 
-                                     dtype = np.float32))
+                   edge_attr=np.array(list(oneHotVector(bondType, [1.0, 1.5, 2.0, 3.0, 4.0, 99.0])), dtype = np.float32))
+        
     '''
     try:
         conf = mol.GetConformer()
