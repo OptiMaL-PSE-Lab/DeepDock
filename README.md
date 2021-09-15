@@ -1,6 +1,7 @@
 
 # DeepDock
 Code related to: [O. Mendez-Lucio, M. Ahmad, E.A. del Rio-Chanona, J.K. Wegner,  A Geometric Deep Learning Approach to Predict Binding Conformations of Bioactive Molecules](https://doi.org/10.26434/chemrxiv.14453106.v1)
+#### Use [v1.0.0](https://github.com/OptiMaL-PSE-Lab/DeepDock/releases/tag/v1.0.0) to reproduce results reported in the paper
 
 https://user-images.githubusercontent.com/48085126/116097409-68553d80-a6aa-11eb-9426-91713394c3c3.mp4
 
