@@ -1,6 +1,10 @@
 
 # DeepDock
-Code related to: [O. Mendez-Lucio, M. Ahmad, E.A. del Rio-Chanona, J.K. Wegner,  A Geometric Deep Learning Approach to Predict Binding Conformations of Bioactive Molecules](https://doi.org/10.26434/chemrxiv.14453106.v1)
+Code related to: [O. Mendez-Lucio, M. Ahmad, E.A. del Rio-Chanona, J.K. Wegner,  A Geometric Deep Learning Approach to Predict Binding Conformations of Bioactive Molecules, Nature Machine Intelligence volume 3, pages1033–1039 (2021)](https://rdcu.be/cDy5f)
+
+Open access preprint [available here](https://doi.org/10.26434/chemrxiv.14453106.v1)
+
+
 #### Use [v1.0.0](https://github.com/OptiMaL-PSE-Lab/DeepDock/releases/tag/v1.0.0) to reproduce results reported in the paper
 
 https://user-images.githubusercontent.com/48085126/116097409-68553d80-a6aa-11eb-9426-91713394c3c3.mp4
@@ -56,8 +60,20 @@ This package runs using Pytorch and Pytorch Geometric. On top it uses standard p
   ```
 ### Installation
 
+#### Using Docker image
+
+1. Install [docker](https://docs.docker.com/install/)
+2. Pull docker image from [DockerHub](https://hub.docker.com/repository/docker/omendezlucio/deepdock)
+   ```sh
+   docker push omendezlucio/deepdock:latest
+   ```
+3. Launch the container.
+   ```sh
+   docker run -it omendezlucio/deepdock:latest
+   ```
+
 #### Using Dockerfile
-To build image and run from scratch:
+To build an image and run it from scratch:
 
 1. Install [docker](https://docs.docker.com/install/)
 2. Clone repo and move into project folder.
