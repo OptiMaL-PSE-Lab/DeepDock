@@ -2,8 +2,7 @@
 FROM nvcr.io/nvidia/pytorch:19.10-py3
 
 #Do some basic preparations
-RUN conda install -c anaconda joblib -y && \
-    conda install -c conda-forge tensorflow -y
+RUN conda install -c anaconda joblib -y
 
 RUN pip install ipython jupyter jupyter-tensorboard --upgrade && \
     jupyter tensorboard enable --system
@@ -23,7 +22,7 @@ RUN conda install -c conda-forge rdkit=2019.09.1 -y && \
         pandas==0.25.1 \
         networkx==2.5 \
         scikit_learn==0.21.3 \
-        matplotlib==3.0.2 \
+        matplotlib \
         transformers==4.2.2 \
         trimesh==3.6.5 \
         Biopython \
@@ -64,7 +63,7 @@ RUN git checkout b3bfeec && \
     make && \
     make install && \
     cp -r /install/apbs-pdb2pqr/apbs/externals/mesh_routines/msms/msms_i86_64Linux2_2.6.1 /root/msms/ && \
-    curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py && \
+    curl https://bootstrap.pypa.io/pip/3.6/get-pip.py -o get-pip.py && \
     python get-pip.py
 
 # INSTALL PDB2PQR
@@ -80,10 +79,12 @@ ENV PDB2PQR_BIN /usr/local/bin/pdb2pqr/pdb2pqr.py
 
 # DOWNLOAD reduce (for protonation)
 WORKDIR /install
-RUN ["wget", "-O", "reduce.gz", "http://kinemage.biochem.duke.edu/php/downlode-3.php?filename=/../downloads/software/reduce31/reduce.3.23.130521.linuxi386.gz"]
-RUN gunzip reduce.gz && \
-    chmod 755 reduce && \
-    cp reduce /usr/local/bin/
+RUN git clone https://github.com/rlabduke/reduce.git && \
+    cd reduce && \
+    git checkout b3aac6e && \
+    make && \
+    apt-get install sudo -y && \
+    sudo make install
 
 # Clone deepdock and install 
 WORKDIR /
