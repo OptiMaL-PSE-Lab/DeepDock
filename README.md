@@ -65,7 +65,7 @@ This package runs using Pytorch and Pytorch Geometric. On top it uses standard p
 1. Install [docker](https://docs.docker.com/install/)
 2. Pull docker image from [DockerHub](https://hub.docker.com/repository/docker/omendezlucio/deepdock)
    ```sh
-   docker push omendezlucio/deepdock:latest
+   docker pull omendezlucio/deepdock
    ```
 3. Launch the container.
    ```sh
